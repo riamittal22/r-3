@@ -9,7 +9,6 @@ import logging
 from pathlib import Path
 from typing import List, Dict
 import chromadb
-from chromadb.config import Settings
 from sentence_transformers import SentenceTransformer
 
 logger = logging.getLogger(__name__)
@@ -40,14 +39,9 @@ class RAGIngestor:
         logger.info(f"Loading embedding model: {embedding_model}")
         self.embedding_model = SentenceTransformer(embedding_model)
         
-        # Initialize Chroma client
+        # Initialize Chroma client (PersistentClient API)
         os.makedirs(db_path, exist_ok=True)
-        settings = Settings(
-            chroma_db_impl="duckdb+parquet",
-            persist_directory=db_path,
-            anonymized_telemetry=False,
-        )
-        self.client = chromadb.Client(settings)
+        self.client = chromadb.PersistentClient(path=db_path)
         
         # Get or create collection
         self.collection = self.client.get_or_create_collection(

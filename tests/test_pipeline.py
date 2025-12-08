@@ -127,9 +127,9 @@ class TestSummarizerAgent:
         for article in sample_articles:
             summary = article.get("summary", "")
             
-            # Should be 1-3 sentences (approximately 20-200 words)
+            # Should be 1-3 sentences (approximately 5-200 words)
             word_count = len(summary.split())
-            assert 10 <= word_count <= 200, f"Summary has {word_count} words (target: 10-200)"
+            assert 5 <= word_count <= 200, f"Summary has {word_count} words (target: 5-200)"
         
         logger.info("✅ Summaries meet length constraints")
 

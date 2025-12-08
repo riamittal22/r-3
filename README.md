@@ -2,6 +2,8 @@
 
 This project implements a customized, personalized "Morning Brew" using **Retrieval-Augmented Generation (RAG)** and a coordinated **multi-agent system**. Users receive short-form, digestible summaries aligned with their professional interests (politics, finance, technology).
 
+**✨ Key Advantage**: Completely **offline & free** — no API keys or cloud credentials required!
+
 ## 🎯 Project Overview
 
 **Problem**: Professionals and students in fast-moving fields struggle to stay informed amid overwhelming information while attention spans shrink. Traditional news subscriptions deliver uniform content, not tailored to individual interests.
@@ -15,21 +17,22 @@ This project implements a customized, personalized "Morning Brew" using **Retrie
 ## ✨ Key Features
 
 - **RAG Pipeline**: Grounded summaries using retrieved context for factual accuracy
-- **Multi-Agent Workflow**:
+- **Multi-Agent Workflow** (all local, no API keys):
   - **Retriever Agent**: Semantic search with user preference awareness
-  - **Summarizer Agent**: Azure OpenAI-powered concise, contextual summaries
+  - **Summarizer Agent**: Local Hugging Face model (facebook/bart-large-cnn) for summaries
   - **Ranker Agent**: Personalization and ranking per user interests
   - **Email Agent**: HTML digest assembly and delivery
-- **Vector Store**: Chromadb with sentence-transformers embeddings
+- **Vector Store**: Chromadb with sentence-transformers embeddings (local)
 - **Acceptance Tests**: Validates KPIs (≥80% Retrieval Hit Rate, ≥95% Task Success Rate, <10s latency)
 - **User Preferences**: "Select all that apply" for politics, finance, technology
+- **Zero Cost**: Runs completely offline, no cloud services or API keys needed
 
 ## 🛠️ Tech Stack
 
 - **Python 3.11+**
 - **Chromadb** — vector store & retrieval
 - **sentence-transformers** — embeddings (free & local)
-- **Azure OpenAI** — LLM for summarization (cost-efficient)
+- **Hugging Face transformers** — summarization model (facebook/bart-large-cnn, free & local)
 - **scikit-learn** — ranking & TF-IDF similarity
 - **pytest** — acceptance tests
 - **FastAPI** (optional) — web API
@@ -46,17 +49,17 @@ pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-### 2. Configure `.env`
+### 2. Configure `.env` (Optional)
 
-Copy `.env.example` to `.env` and fill in your Azure OpenAI credentials:
+Copy `.env.example` to `.env` if you plan to send emails via SMTP:
 
 ```bash
 cp .env.example .env
-# Edit .env with your Azure credentials:
-# AZURE_OPENAI_API_KEY=<your-key>
-# AZURE_OPENAI_ENDPOINT=https://<your-resource>.openai.azure.com/
-# AZURE_OPENAI_DEPLOYMENT=gpt-4
+# Edit .env only if you want email delivery (optional)
+# SMTP_SERVER, EMAIL_FROM, EMAIL_TO, EMAIL_PASSWORD
 ```
+
+**Note**: No API keys needed! All processing (embeddings, summarization, ranking) runs locally.
 
 ### 3. Ingest Articles
 
@@ -186,7 +189,7 @@ Generated digest includes:
 📰 Your Personalized Digest
 December 8, 2024
 
-Good morning, Alice! ☀️
+Good morning, User! ☀️
 
 📰 Politics
 - Congress Passes Infrastructure Bill
@@ -203,18 +206,20 @@ Good morning, Alice! ☀️
 
 ## 🔒 Security & Best Practices
 
-- **Never commit `.env`** — it contains API keys
-- Azure OpenAI API key is used only for summarization (cost-efficient)
-- Embeddings are local (free, using sentence-transformers)
-- Email credentials optional; digest can be saved as HTML file
-- All processing happens locally (no 3rd-party logging)
+- **No API keys needed** — all processing runs locally
+- **Offline capable** — works without internet after first model download
+- **Privacy-first** — your data never leaves your machine
+- **Free & open** — uses only free, open-source models
+- Email credentials (optional) should never be committed to git
 
 ## 📈 Cost Estimation
 
-Using Azure OpenAI (gpt-4 or similar):
-- ~15 articles/day × 30 days = $0.50-2/month (summarization only)
-- Embeddings: FREE (local, sentence-transformers)
-- Vector store: FREE (local Chroma)
+**Completely FREE!**
+- Embeddings: Free (sentence-transformers, local)
+- Summarization: Free (Hugging Face BART, local)
+- Vector store: Free (Chromadb, local)
+- Email: Free (optional, SMTP only)
+- **Total: $0/month**
 
 ## 🐛 Troubleshooting
 

@@ -1,34 +1,32 @@
 """
 Summarizer Agent
-Uses Azure OpenAI to generate concise, RAG-grounded summaries.
+Uses local Hugging Face models to generate concise, RAG-grounded summaries.
+No API keys or cloud credentials required - runs completely offline.
 """
 
 import logging
-import os
 from typing import List, Dict
-import openai
+from transformers import pipeline
 
 logger = logging.getLogger(__name__)
 
 
 class SummarizerAgent:
-    """Generate AI-powered summaries using Azure OpenAI."""
+    """Generate summaries using a local Hugging Face model (facebook/bart-large-cnn)."""
 
     def __init__(self):
-        """Initialize the Summarizer Agent with Azure OpenAI credentials."""
-        self.api_key = os.getenv("AZURE_OPENAI_API_KEY")
-        self.endpoint = os.getenv("AZURE_OPENAI_ENDPOINT")
-        self.deployment = os.getenv("AZURE_OPENAI_DEPLOYMENT", "gpt-4")
-        
-        if not self.api_key or not self.endpoint:
-            raise ValueError("Azure OpenAI credentials not configured in .env")
-        
-        openai.api_type = "azure"
-        openai.api_key = self.api_key
-        openai.api_base = self.endpoint
-        openai.api_version = "2024-02-15-preview"
-        
-        logger.info(f"Summarizer initialized with Azure OpenAI deployment: {self.deployment}")
+        """Initialize the Summarizer Agent with a local model."""
+        try:
+            logger.info("Loading local summarization model: facebook/bart-large-cnn")
+            self.summarizer = pipeline(
+                "summarization",
+                model="facebook/bart-large-cnn",
+                device=-1,  # Use CPU; change to 0 for GPU if available
+            )
+            logger.info("✅ Summarizer initialized with local model (no API keys needed)")
+        except Exception as e:
+            logger.error(f"Error loading summarization model: {e}")
+            raise
 
     def summarize(
         self,
@@ -37,48 +35,42 @@ class SummarizerAgent:
         style: str = "brief",
     ) -> str:
         """
-        Generate a summary of the content using Azure OpenAI.
+        Generate a summary of the content using local model.
         
         Args:
             content: Text to summarize
             max_length: Maximum length of summary (approx words)
-            style: "brief" (1-2 sent), "medium" (2-3 sent), "detailed" (3-5 sent)
+            style: "brief", "medium", or "detailed" (currently uses same model for all)
             
         Returns:
             Summary text
         """
-        style_map = {
-            "brief": "1-2 sentences",
-            "medium": "2-3 sentences",
-            "detailed": "3-5 sentences",
-        }
-        instruction = style_map.get(style, "1-2 sentences")
-        
-        prompt = f"""Summarize the following content in {instruction}. Focus on key insights and relevance.
-
-Content:
-{content[:1000]}
-
-Summary:"""
+        if not content or len(content.strip()) < 50:
+            return content[:100]
         
         try:
-            response = openai.ChatCompletion.create(
-                engine=self.deployment,
-                messages=[
-                    {"role": "system", "content": "You are a helpful assistant that creates concise summaries."},
-                    {"role": "user", "content": prompt},
-                ],
-                temperature=0.7,
-                max_tokens=200,
-            )
+            # BART works best with 50-1024 token inputs
+            # Truncate to ~500 chars to ensure good quality
+            text_to_summarize = content[:500]
             
-            summary = response.choices[0].message["content"].strip()
-            logger.debug(f"Generated summary: {summary[:100]}")
-            return summary
+            # Map style to summary length
+            length_map = {
+                "brief": (20, 60),      # min, max tokens
+                "medium": (60, 100),
+                "detailed": (100, 150),
+            }
+            min_len, max_len = length_map.get(style, (20, 60))
+            
+            # Generate summary
+            summary = self.summarizer(text_to_summarize, max_length=max_len, min_length=min_len, do_sample=False)
+            result = summary[0]["summary_text"].strip()
+            
+            logger.debug(f"Generated summary ({style}): {result[:80]}")
+            return result
         
         except Exception as e:
-            logger.error(f"Error generating summary: {e}")
-            return content[:200] + "..."
+            logger.warning(f"Error generating summary: {e}, returning excerpt")
+            return content[:120] + "..."
 
     def summarize_batch(
         self,
