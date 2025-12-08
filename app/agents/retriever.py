@@ -57,7 +57,7 @@ class RetrieverAgent:
         """
         self.collection_name = collection_name
         self.db_path = db_path
-        self.top_k = top_k
+        self.top_k = 10
 
         # Embedding model
         logger.info(f"Loading embedding model: {embedding_model}")
@@ -309,8 +309,55 @@ class RetrieverAgent:
           3. Return the list of fetched articles.
         """
         fresh = self.fetch_fresh_articles(topics)
+        # Save raw fetched articles into RAG Data file for archival / offline use
+        try:
+            self.save_articles_to_ragfile(fresh)
+        except Exception:
+            logger.exception("Failed to save fetched articles to RAG Data file")
+
         self.upsert_articles(fresh)
         return fresh
+
+    def save_articles_to_ragfile(self, articles: List[Dict], rag_path: str = "RAG Data.txt") -> int:
+        """
+        Append fetched articles to a RAG data file in a readable JSON object format.
+
+        Each article will be normalized to use keys similar to existing RAG Data entries:
+          - source, url, date (YYYY-MM-DD), title, categories (comma-list), text
+
+        Returns the number of articles written.
+        """
+        if not articles:
+            return 0
+
+        import json
+        written = 0
+        try:
+            with open(rag_path, "a", encoding="utf-8") as f:
+                for art in articles:
+                    obj = {
+                        "source": art.get("source", ""),
+                        "url": art.get("url", ""),
+                        "date": (art.get("date") or datetime.utcnow().isoformat())[:10],
+                        "title": art.get("title", ""),
+                        "categories": art.get("topics") or art.get("categories") or [],
+                        "text": art.get("text", ""),
+                    }
+
+                    # Ensure categories is a list
+                    if isinstance(obj["categories"], str):
+                        # try to split comma separated
+                        obj["categories"] = [c.strip() for c in obj["categories"].split(",") if c.strip()]
+
+                    # Write pretty JSON then a comma + two newlines to roughly match existing file style
+                    f.write(json.dumps(obj, ensure_ascii=False, indent=2))
+                    f.write(" ,\n\n")
+                    written += 1
+        except Exception:
+            logger.exception(f"Error writing articles to {rag_path}")
+
+        logger.info(f"Appended {written} articles to {rag_path}")
+        return written
 
     def retrieve_by_preference(self, user_preferences: List[str], top_k: Optional[int] = None) -> Dict[str, List[Dict]]:
         """
@@ -326,6 +373,12 @@ class RetrieverAgent:
         # Step 1: fetch and index fresh articles
         fresh = self.fetch_fresh_articles(user_preferences)
         if fresh:
+            # Persist a copy into the RAG data file for offline/archive use
+            try:
+                self.save_articles_to_ragfile(fresh)
+            except Exception:
+                logger.exception("Error saving fresh articles to RAG Data file")
+
             try:
                 self.upsert_articles(fresh)
             except Exception:
