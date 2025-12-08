@@ -9,6 +9,7 @@ import logging
 from pathlib import Path
 from typing import List, Dict
 import chromadb
+from chromadb.config import Settings
 from sentence_transformers import SentenceTransformer
 
 logger = logging.getLogger(__name__)
@@ -41,7 +42,7 @@ class RAGIngestor:
         
         # Initialize Chroma client (PersistentClient API)
         os.makedirs(db_path, exist_ok=True)
-        self.client = chromadb.PersistentClient(path=db_path)
+        self.client = chromadb.PersistentClient(path=db_path, settings=Settings(anonymized_telemetry=False))
         
         # Get or create collection
         self.collection = self.client.get_or_create_collection(

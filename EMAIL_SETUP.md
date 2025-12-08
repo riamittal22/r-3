@@ -20,7 +20,7 @@ This is what the system does by default. Perfect for showing your professor.
 ```bash
 cd /Users/ria/Downloads/R^3
 source .venv311/bin/activate
-python scripts/run_pipeline.py
+python scripts/generate_daily_html.py
 ```
 
 **Output**: `digest_User.html` file (open in browser to view)
@@ -28,7 +28,7 @@ python scripts/run_pipeline.py
 **To share with professor:**
 ```bash
 # Send via email manually, or:
-open digest_User.html  # Copy from browser, paste into email
+open daily_news_$(date +%Y%m%d).html  # open the generated daily HTML file (or open the file name printed by the script)
 ```
 
 ---
