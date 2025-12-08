@@ -16,16 +16,18 @@ This project implements a customized, personalized "Morning Brew" using **Retrie
 
 ## ✨ Key Features
 
+- **Fresh Article Ingestion**: Retriever Agent automatically fetches new articles from NewsAPI.org (or mock data)
+- **Dynamic Vector Store**: Articles are embedded and indexed into Chroma on each run for up-to-date content
 - **RAG Pipeline**: Grounded summaries using retrieved context for factual accuracy
 - **Multi-Agent Workflow** (all local, no API keys):
-  - **Retriever Agent**: Semantic search with user preference awareness
+  - **Retriever Agent**: Fetches fresh articles → Embeds & indexes → Semantic search by preference
   - **Summarizer Agent**: Local Hugging Face model (facebook/bart-large-cnn) for summaries
   - **Ranker Agent**: Personalization and ranking per user interests
-  - **Email Agent**: HTML digest assembly and delivery
+  - **Email Agent**: HTML digest assembly and SMTP delivery (optional)
 - **Vector Store**: Chromadb with sentence-transformers embeddings (local)
 - **Acceptance Tests**: Validates KPIs (≥80% Retrieval Hit Rate, ≥95% Task Success Rate, <10s latency)
 - **User Preferences**: "Select all that apply" for politics, finance, technology
-- **Zero Cost**: Runs completely offline, no cloud services or API keys needed
+- **Zero Cost**: Runs completely offline with optional NewsAPI integration, no Azure/OpenAI credentials needed
 
 ## 🛠️ Tech Stack
 
@@ -51,19 +53,34 @@ pip install -r requirements.txt
 
 ### 2. Configure `.env` (Optional)
 
-Copy `.env.example` to `.env` if you plan to send emails via SMTP:
+Copy `.env.example` to `.env` for two optional features:
 
 ```bash
 cp .env.example .env
-# Edit .env only if you want email delivery (optional)
-# SMTP_SERVER, EMAIL_FROM, EMAIL_TO, EMAIL_PASSWORD
 ```
 
-**Note**: No API keys needed! All processing (embeddings, summarization, ranking) runs locally.
+**Option A: Fresh News from NewsAPI.org** (recommended for production)
+- Sign up for free at [newsapi.org](https://newsapi.org)
+- Add your API key to `.env`:
+  ```
+  NEWS_API_KEY=your_api_key_here
+  ```
+- The retriever will fetch real-time articles and update the database
 
-### 3. Ingest Articles
+**Option B: Local Demo Mode** (default, no setup needed)
+- The system uses mock articles if no API key is provided
+- Perfect for testing and development
+- No external API calls required
 
-Place your `aithena_articles.jsonl` in the project root, then ingest:
+**Option C: Email Delivery** (optional, requires SMTP credentials)
+- Edit `.env` to add email settings (SMTP_SERVER, EMAIL_FROM, EMAIL_TO, EMAIL_PASSWORD)
+- Or skip this to save digests as HTML files locally
+
+**Note**: No Azure credentials or paid APIs needed! All processing (embeddings, summarization, ranking) runs locally on your machine.
+
+### 3. (Optional) Ingest Historical Articles
+
+If you have existing articles in `aithena_articles.jsonl`, you can pre-load them:
 
 ```bash
 python -c "
@@ -73,6 +90,8 @@ count = pipeline.ingest_articles('aithena_articles.jsonl')
 print(f'✅ Ingested {count} articles')
 "
 ```
+
+The retriever will also automatically fetch fresh articles on each run, so this step is optional.
 
 ## 🚀 Quick Start
 
@@ -114,17 +133,20 @@ print(results)
 ```
 User Preferences (politics, finance, tech)
           ↓
-   [Retriever Agent]
-   Semantic search in vector store
+   [Retriever Agent] ⭐ NEW: Fetches Fresh Articles
+   1. Fetch from NewsAPI.org (or mock articles)
+   2. Embed & index articles into Chroma vector store
+   3. Semantic search by preference
           ↓
    [Summarizer Agent]
-   Azure OpenAI RAG-grounded summaries
+   Local BART model (facebook/bart-large-cnn)
+   RAG-grounded summaries (no API keys needed)
           ↓
    [Ranker Agent]
    TF-IDF + preference-based ranking
           ↓
    [Email Agent]
-   HTML digest assembly & delivery
+   HTML digest assembly & SMTP delivery (optional)
           ↓
    Beautiful personalized digest
 ```
