@@ -5,10 +5,14 @@ Fetches fresh articles from external sources, updates the vector store, and retr
 
 import logging
 from typing import List, Dict, Optional
+import os
 import chromadb
 from sentence_transformers import SentenceTransformer
 import requests
 from datetime import datetime
+from dotenv import load_dotenv
+
+load_dotenv()
 
 logger = logging.getLogger(__name__)
 
@@ -32,11 +36,12 @@ class RetrieverAgent:
             db_path: Path to Chroma database
             top_k: Number of top results to return
             embedding_model: Name of sentence-transformers embedding model
-            news_api_key: Optional API key for NewsAPI.org (for fetching fresh articles)
+            news_api_key: Optional API key for NewsAPI.org (defaults to env var NEWS_API_KEY)
         """
         self.top_k = top_k
         self.collection_name = collection_name
-        self.news_api_key = news_api_key
+        # Use provided key, fallback to .env, default to None
+        self.news_api_key = news_api_key or os.getenv("NEWS_API_KEY")
         
         # Initialize embedding model for new articles
         self.embedding_model = SentenceTransformer(embedding_model)
@@ -45,6 +50,7 @@ class RetrieverAgent:
         self.client = chromadb.PersistentClient(path=db_path)
         self.collection = self.client.get_or_create_collection(name=collection_name)
         logger.info(f"Retriever connected to collection: {collection_name}")
+
 
     def fetch_fresh_articles(self, topics: List[str]) -> List[Dict]:
         """
