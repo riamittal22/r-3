@@ -1434,14 +1434,875 @@ Earlier this year, Netflix said it used generative AI in the final footage for t
 
 
 The use of AI in the film industry has sparked much debate, as artists worry that these tools — which sometimes are trained without permission on their work — could endanger their livelihoods. But some argue that tools that speed up tedious busywork in animation or special effects, like Wonder Dynamics, could expand the capacity for artists to create."
-    }{
-  "source": "Yahoo Entertainment",
-  "url": "https://finance.yahoo.com/news/bond-traders-defy-fed-spark-200000838.html",
-  "date": "2025-12-07",
-  "title": "Bond Traders Defy Fed and Spark Heated Debate on Wall Street - Yahoo Finance",
-  "categories": [
-    "finance"
-  ],
-  "text": "With Trump soon able to replace Chair Jerome Powell with his own nominee, on top of everything else is the risk of the Fed squandering its credibility by...\n\n(Bloomberg) -- The bond markets reaction to the Federal Reserves interest-rate cuts has been highly unusual. By some measures, a disconnect like this, with Treasury yields climbing as the central ban… [+6811 chars]"
-} ,
+    }
 
+================================================================================
+Updated: 2025-12-09T17:26:33.058119
+================================================================================
+
+---
+Article 1
+Title: Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
+Source: {'id': 'techcrunch', 'name': 'TechCrunch'}
+Published: 
+URL: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
+Content: Autonomous, AI-based players are coming to a gaming experience near you, and a new startup, Altera, is joining the fray to build this new guard of AI agents.
+The company announced Wednesday that it … [+6416 chars]
+---
+
+
+---
+Article 2
+Title: $450M for Noname, two billion-dollar rounds, and good news for crypto startups | TechCrunch
+Source: {'id': 'techcrunch', 'name': 'TechCrunch'}
+Published: 
+URL: https://techcrunch.com/2024/05/08/450m-for-noname-two-billion-dollar-rounds-and-good-news-for-crypto-startups/
+Content: Good news, crypto founders: Venture capital activity is picking up in your sector after falling to multi-year lows in late 2023. Put another way, venture folks appear more web3-bullish than before, e… [+1599 chars]
+---
+
+
+---
+Article 3
+Title: Watch: When did iPads get as expensive as MacBooks?
+Source: {'id': 'techcrunch', 'name': 'TechCrunch'}
+Published: 
+URL: https://techcrunch.com/2024/05/08/techcrunch-minute-when-did-ipads-get-as-expensive-as-macbooks/
+Content: Apple’s iPad event had a lot to like. New iPads with new chips and new sizes, a new Apple Pencil, and even some software updates. If you are a big fan of Apple hardware, well, it was probably a good … [+1385 chars]
+---
+
+
+---
+Article 4
+Title: Uber promises member exclusives as Uber One passes $1B run-rate | TechCrunch
+Source: {'id': 'techcrunch', 'name': 'TechCrunch'}
+Published: 
+URL: https://techcrunch.com/2024/05/08/uber-promises-member-exclusives-as-uber-one-passes-1b-run-rate/
+Content: Uber plans to deliver more perks to Uber One members, like member-exclusive events, in a bid to gain more revenue through subscriptions. 
+You will see more member-exclusives coming up where members … [+4676 chars]
+---
+
+
+---
+Article 5
+Title: Checkfirst raises $1.5M pre-seed, applying AI to remote inspections and audits | TechCrunch
+Source: {'id': 'techcrunch', 'name': 'TechCrunch'}
+Published: 
+URL: https://techcrunch.com/2024/05/08/checkfirst-raises-1-5m-pre-seed-applying-ai-to-remote-inspections-and-audits/
+Content: Weve all seen them. The inspector with a clipboard, walking around a building, ticking off the last time the fire extinguishers were checked, or if all the lights are working. They work in the TICC (… [+3279 chars]
+---
+
+
+---
+Article 6
+Title: UK challenger bank Monzo nabs another $190M as US expansion beckons | TechCrunch
+Source: {'id': 'techcrunch', 'name': 'TechCrunch'}
+Published: 
+URL: https://techcrunch.com/2024/05/08/uk-challenger-bank-monzo-nabs-another-190m-at-5-2b-valuation/
+Content: Monzo has raised another £150 million ($190 million), as the challenger bank looks to expand its presence internationally particularly in the U.S.
+The new round comes just two months after Monzo rai… [+1960 chars]
+---
+
+
+---
+Article 7
+Title: iRobot names former Timex head Gary Cohen as CEO | TechCrunch
+Source: {'id': 'techcrunch', 'name': 'TechCrunch'}
+Published: 
+URL: https://techcrunch.com/2024/05/08/irobot-names-former-timex-head-gary-cohen-as-ceo/
+Content: iRobot Tuesday announced the successor to longtime CEO, Colin Angle. Gary Cohen, who previous held chief executive role at Timex and Qualitor Automotive, will be heading up the company, marking a maj… [+2120 chars]
+---
+
+
+---
+Article 8
+Title: Google Deepmind debuts huge AlphaFold update and free proteomics-as-a-service web app | TechCrunch
+Source: {'id': 'techcrunch', 'name': 'TechCrunch'}
+Published: 
+URL: https://techcrunch.com/2024/05/08/google-deepmind-debuts-huge-alphafold-update-and-free-proteomics-as-a-service-web-app/
+Content: Google Deepmind has taken the wraps off a new version AlphaFold, their transformative machine learning model that predicts the shape and behavior of proteins. AlphaFold 3 is not only more accurate, b… [+7069 chars]
+---
+
+
+---
+Article 9
+Title: Mycocycle uses mushrooms to upcycle old tires and construction waste | TechCrunch
+Source: {'id': 'techcrunch', 'name': 'TechCrunch'}
+Published: 
+URL: https://techcrunch.com/2024/05/08/mycocycle-uses-mushrooms-to-upcycle-old-tires-and-construction-waste/
+Content: Usually, when something starts to rot, it gets pitched in the trash. But Joanne Rodriguez wants to turn the concept of rot on its head by growing fungus on trash to turn it into something better.
+We… [+4229 chars]
+---
+
+
+---
+Article 10
+Title: Controversial drone company Xtend leans into defense with new $40M round | TechCrunch
+Source: {'id': 'techcrunch', 'name': 'TechCrunch'}
+Published: 
+URL: https://techcrunch.com/2024/05/08/controversial-drone-company-xtend-leans-into-defense/
+Content: Close to a decade ago, brothers Aviv and Matteo Shapira co-founded Replay, a company that created a video format for 360-degree replays — the sorts of replays that have become part and parcel of majo… [+5398 chars]
+---
+
+
+---
+Article 11
+Title: Switch emulator Ryujinx shuts down development after “contact by Nintendo”
+Source: {'id': 'ars-technica', 'name': 'Ars Technica'}
+Published: 
+URL: https://arstechnica.com/gaming/2024/10/switch-emulator-ryujinx-shuts-down-development-after-contact-by-nintendo/
+Content: Enlarge/ These copyrighted Switch games shown on Ryujinx's former GitHub page probably didn't curry any favor with Nintendo.
+137
+Popular open source Nintendo Switch emulator Ryujinx has been remove… [+3110 chars]
+---
+
+
+---
+Article 12
+Title: Lab owner pleads guilty to faking COVID test results during pandemic
+Source: {'id': 'ars-technica', 'name': 'Ars Technica'}
+Published: 
+URL: https://arstechnica.com/science/2024/10/covid-fraudster-pleads-guilty-faces-20-years-for-role-in-83m-testing-scam/
+Content: Enlarge/ Residents line up for COVID-19 testing on November 30, 2020 in Chicago. 
+55
+The co-owner of a Chicago-based lab has pleaded guilty for his role in a COVID testing scam that raked in millio… [+2038 chars]
+---
+
+
+---
+Article 13
+Title: AI digests repetitive scatological document into profound “poop” podcast
+Source: {'id': 'ars-technica', 'name': 'Ars Technica'}
+Published: 
+URL: https://arstechnica.com/ai/2024/10/ai-digests-repetitive-scatological-document-into-profound-poop-podcast/
+Content: Enlarge/ This AI prompt stinks... or does it?
+57
+Imagine you're a podcaster who regularly does quick 10- to 12-minute summary reviews of written works. Now imagine your producer gives you multiple … [+3495 chars]
+---
+
+
+---
+Article 14
+Title: Crook made millions by breaking into execs’ Office365 inboxes, feds say
+Source: {'id': 'ars-technica', 'name': 'Ars Technica'}
+Published: 
+URL: https://arstechnica.com/security/2024/10/crook-made-millions-by-breaking-into-execs-office365-inboxes-feds-say/
+Content: 36
+Federal prosecutors have charged a man for an alleged hack-to-trade scheme that earned him millions of dollars by breaking into the Office365 accounts of executives at publicly traded companies a… [+4225 chars]
+---
+
+
+---
+Article 15
+Title: OpenAI unveils easy voice assistant creation at 2024 developer event
+Source: {'id': 'ars-technica', 'name': 'Ars Technica'}
+Published: 
+URL: https://arstechnica.com/information-technology/2024/10/openai-unveils-easy-voice-assistant-creation-at-2024-developer-event/
+Content: 28
+On Monday, OpenAI kicked off its annual DevDay event in San Francisco, unveiling four major API updates for developers that integrate the company's AI models into their products. Unlike last year… [+4956 chars]
+---
+
+
+---
+Article 16
+Title: T-Mobile pays $16 million fine for three years’ worth of data breaches
+Source: {'id': 'ars-technica', 'name': 'Ars Technica'}
+Published: 
+URL: https://arstechnica.com/tech-policy/2024/10/t-mobile-pays-16-million-fine-for-three-years-worth-of-data-breaches/
+Content: 45
+T-Mobile has agreed to pay a $15.75 million fine and improve its security in a settlement over a series of data breaches over three years that affected tens of millions of customers.
+"T-Mobile s… [+2919 chars]
+---
+
+
+---
+Article 17
+Title: Toxic chemicals from Ohio train derailment lingered in buildings for months
+Source: {'id': 'ars-technica', 'name': 'Ars Technica'}
+Published: 
+URL: https://theconversation.com/toxic-chemicals-from-ohio-train-derailment-lingered-in-buildings-for-months-heres-what-our-investigation-found-in-east-palestine-238511
+Content: Enlarge/ This video screenshot released by the US National Transportation Safety Board (NTSB) shows the site of a derailed freight train in East Palestine, Ohio.
+31
+On February 3, 2023, a train car… [+4556 chars]
+---
+
+
+---
+Article 18
+Title: “Extreme” Broadcom-proposed price hike would up VMware costs 1,050%, AT&T says
+Source: {'id': 'ars-technica', 'name': 'Ars Technica'}
+Published: 
+URL: https://arstechnica.com/information-technology/2024/10/broadcom-tried-to-jack-vmware-prices-by-1050-percent-att-claims/
+Content: 88
+Broadcom quoted AT&amp;T a 1,050 percent price hike for VMware offerings, AT&amp;T has claimed in legal documents.
+AT&amp;T sued Broadcom on August 29, accusing Broadcom of unlawfully denying it… [+5127 chars]
+---
+
+
+---
+Article 19
+Title: Car dealers renew their opposition to EV mandates
+Source: {'id': 'ars-technica', 'name': 'Ars Technica'}
+Published: 
+URL: https://arstechnica.com/cars/2024/10/car-dealers-renew-their-opposition-to-ev-mandates/
+Content: 199
+A group of more than 5,000 car dealers have made public their worries about a lack of demand for electric vehicles. Earlier this year the group lobbied the White House to water down impending fe… [+1893 chars]
+---
+
+
+---
+Article 20
+Title: eBay listings for banned chemicals shielded by Section 230, judge rules
+Source: {'id': 'ars-technica', 'name': 'Ars Technica'}
+Published: 
+URL: https://arstechnica.com/tech-policy/2024/10/ebay-defeats-doj-lawsuit-fighting-sale-of-toxic-pesticides-deadly-chemicals/
+Content: 84
+eBay has defeated a lawsuit that the US Department of Justice raised last fall, which alleged that eBay violated environmental protection and public safety laws by allowing users to sell hundreds… [+4439 chars]
+---
+
+
+---
+Article 21
+Title: The best robot vacuum and mop to buy right now
+Source: {'id': 'the-verge', 'name': 'The Verge'}
+Published: 
+URL: https://www.theverge.com/tech/625409/best-robot-vacuum-mops
+Content: <ul><li></li><li></li><li></li></ul>
+We pick the best multitasking robot floor cleaners.
+We pick the best multitasking robot floor cleaners.
+by
+Jennifer Pattison TuohyClose
+Jennifer Pattison Tuo… [+34118 chars]
+---
+
+
+---
+Article 22
+Title: The best iPad deals you can get right now
+Source: {'id': 'the-verge', 'name': 'The Verge'}
+Published: 
+URL: https://www.theverge.com/21280354/best-ipad-deals-apple
+Content: <ul><li></li><li></li><li></li></ul>
+The base iPad and iPad Mini offer the best discounts, but you can also save on the iPad Air and latest iPad Pro.
+The base iPad and iPad Mini offer the best disc… [+9514 chars]
+---
+
+
+---
+Article 23
+Title: The 34 best gifts that your teen will actually use
+Source: {'id': 'the-verge', 'name': 'The Verge'}
+Published: 
+URL: https://www.theverge.com/tech/785418/best-teen-gift-ideas-2025
+Content: <ul><li></li><li></li><li></li></ul>
+Whatever theyre into, weve rounded up the coolest gadgets and gear to make any teens holiday a little brighter.
+Whatever theyre into, weve rounded up the cooles… [+2604 chars]
+---
+
+
+---
+Article 24
+Title: The Apple Watch Series 11 just got a big $100 discount ahead of the holidays
+Source: {'id': 'the-verge', 'name': 'The Verge'}
+Published: 
+URL: https://www.theverge.com/gadgets/840161/apple-watch-series-11-holiday-deal-sale-2025
+Content: <ul><li></li><li></li><li></li></ul>
+At the discounted price, Apples latest smartwatch makes for a great gift.
+At the discounted price, Apples latest smartwatch makes for a great gift.
+by
+Brandon… [+3467 chars]
+---
+
+
+---
+Article 25
+Title: Lenovo’s next gaming laptop may have a rollable OLED screen that stretches ultrawide
+Source: {'id': 'the-verge', 'name': 'The Verge'}
+Published: 
+URL: https://www.theverge.com/news/840124/lenovo-rollable-legion-pro-gaming-laptop-rumor
+Content: <ul><li></li><li></li><li></li></ul>
+The lack of detail is suspicious, but this seems like something Lenovo would announce at CES.
+The lack of detail is suspicious, but this seems like something Le… [+2947 chars]
+---
+
+
+---
+Article 26
+Title: ICEBlock developer sues Trump administration over App Store removal
+Source: {'id': 'the-verge', 'name': 'The Verge'}
+Published: 
+URL: https://www.theverge.com/news/840164/iceblock-joshua-aaron-sues-trump-administration-apple-app-store-removeal
+Content: <ul><li></li><li></li><li></li></ul>
+Apple pulled the app in October, and Attorney General Pam Bondi said the DOJ demanded the removal.
+Apple pulled the app in October, and Attorney General Pam Bon… [+3639 chars]
+---
+
+
+---
+Article 27
+Title: It’s ugly, it’s beautiful, it’s how you know a game might be a classic
+Source: {'id': 'the-verge', 'name': 'The Verge'}
+Published: 
+URL: https://www.theverge.com/entertainment/840080/square-enix-hd2d-games-octopath-dragon-quest
+Content: <ul><li></li><li></li><li></li></ul>
+Square Enixs HD-2D titles have evolved to encompass a new philosophy for gaming graphics.
+by
+Joshua RiveraClose
+Joshua Rivera
+Posts from this author will be … [+9655 chars]
+---
+
+
+---
+Article 28
+Title: A first look at Google’s Project Aura glasses built with Xreal
+Source: {'id': 'the-verge', 'name': 'The Verge'}
+Published: 
+URL: https://www.theverge.com/tech/839392/project-aura-android-xr-software-headsets-ai-glasses
+Content: Teased at Google I/O, Project Aura is a collaboration between Xreal and Google. It's the second Android XR device (the first being Samsung's Galaxy XR headset) and is expected to launch in 2026. Putt… [+118 chars]
+---
+
+
+---
+Article 29
+Title: HP OmniBook 5 14 review: an OLED is almost enough
+Source: {'id': 'the-verge', 'name': 'The Verge'}
+Published: 
+URL: https://www.theverge.com/tech/839858/hp-omnibook-5-14-snapdragon-arm-oled-laptop-review
+Content: <ul><li></li><li></li><li></li></ul>
+A $700 laptop with a great screen and fantastic battery life? Whats the catch?
+If you buy something from a Verge link, Vox Media may earn a commission. See our … [+8115 chars]
+---
+
+
+---
+Article 30
+Title: Anthropic is bringing Claude Code to Slack
+Source: {'id': 'the-verge', 'name': 'The Verge'}
+Published: 
+URL: https://www.theverge.com/news/839817/anthropic-claude-code-slack-integration
+Content: <ul><li></li><li></li><li></li></ul>
+When you tag Claude in Slack, it will automatically scan your message for coding tasks to route to Claude Code.
+When you tag Claude in Slack, it will automatica… [+2581 chars]
+---
+
+
+---
+Article 31
+Title: Dr. Oz Tells His Federal Employees to Eat Less
+Source: {'id': 'wired', 'name': 'Wired'}
+Published: 
+URL: https://www.wired.com/story/dr-oz-centers-for-medicare-and-medicaid-services-tells-employees-to-eat-less/
+Content: Dr. Mehmet Oz, the administrator for the Centers for Medicare and Medicaid Services (CMS) and former daytime talk show star, has recently been emailing all federal workers in his agency weekly tips o… [+2555 chars]
+---
+
+
+---
+Article 32
+Title: For the First Time, Mutations in a Single Gene Have Been Linked to Mental Illness
+Source: {'id': 'wired', 'name': 'Wired'}
+Published: 
+URL: https://www.wired.com/story/mutations-in-a-single-gene-have-been-linked-to-mental-illness/
+Content: A team of physicians specializing in genetics and neurology discovered that mental illnesses such as schizophrenia are closely linked to mutations in the GRIN2A gene. The scientists mantain that iden… [+3050 chars]
+---
+
+
+---
+Article 33
+Title: The Longest Solar Eclipse for 100 Years Is Coming. Don’t Miss It
+Source: {'id': 'wired', 'name': 'Wired'}
+Published: 
+URL: https://www.wired.com/story/the-longest-solar-eclipse-for-100-years-is-coming-dont-miss-it/
+Content: The duration of a total solar eclipse always varies. In April 2024, the eclipse that crossed North America lasted 4 minutes and 28 seconds. By contrast, the one that will reach Spain in August 2026 w… [+808 chars]
+---
+
+
+---
+Article 34
+Title: This AI Model Can Intuit How the Physical World Works
+Source: {'id': 'wired', 'name': 'Wired'}
+Published: 
+URL: https://www.wired.com/story/how-one-ai-model-creates-a-physical-intuition-of-its-environment/
+Content: The original version ofthis storyappeared inQuanta Magazine.
+Heres a test for infants: Show them a glass of water on a desk. Hide it behind a wooden board. Now move the board toward the glass. If th… [+2099 chars]
+---
+
+
+---
+Article 35
+Title: Security News This Week: Oh Crap, Kohler’s Toilet Cameras Aren’t Really End-to-End Encrypted
+Source: {'id': 'wired', 'name': 'Wired'}
+Published: 
+URL: https://www.wired.com/story/security-news-this-week-oh-crap-kohlers-toilet-cameras-arent-really-end-to-end-encrypted/
+Content: An AI image creator startup left its database unsecured, exposing more than a million images and videos its users had createdthe overwhelming majority" of which depicted nudes and even nude images of… [+5084 chars]
+---
+
+
+---
+Article 36
+Title: Here’s What You Should Know About Launching an AI Startup
+Source: {'id': 'wired', 'name': 'Wired'}
+Published: 
+URL: https://www.wired.com/story/artificial-intelligence-startups-daydream-fashion-recommendations/
+Content: Julie Bornstein thought it would be a cinch to implement her idea for an AI startup. Her résumé in digital commerce is impeccable: VP of ecommerce at Nordstrom, COO of the startup Stitch Fix, and fou… [+4900 chars]
+---
+
+
+---
+Article 37
+Title: Former USIP Lawyer on DOGE: ‘Brass Knuckles on an Authoritarian Fist’
+Source: {'id': 'wired', 'name': 'Wired'}
+Published: 
+URL: https://www.wired.com/story/big-interview-event-inside-doge-leland-dudek/
+Content: George Foote still has vivid memories of the day operatives from Elon Musks so-called Department of Government Efficiency arrived at the headquarters of the United States Institute of Peace. The outs… [+2721 chars]
+---
+
+
+---
+Article 38
+Title: David Hogg to Democratic Establishment: Get the Message or Get Voted Out
+Source: {'id': 'wired', 'name': 'Wired'}
+Published: 
+URL: https://www.wired.com/story/big-interview-event-david-hogg/
+Content: To activist and organizer David Hogg, the future of the Democratic party is pretty clear: Establishment candidates and leaders are going to get the message or theyre going to get voted out.
+Speaking… [+2289 chars]
+---
+
+
+---
+Article 39
+Title: ‘Signalgate’ Inspector General Report Wants Just One Change to Avoid a Repeat Debacle
+Source: {'id': 'wired', 'name': 'Wired'}
+Published: 
+URL: https://www.wired.com/story/signalgate-inspector-general-report-hegseth-change/
+Content: A United States Inspector General report publicly released today found that Secretary of Defense Pete Hegseth could have put US troops and military operations at risk by using the consumer messaging … [+3159 chars]
+---
+
+
+---
+Article 40
+Title: Cloudflare Has Blocked 416 Billion AI Bot Requests Since July 1
+Source: {'id': 'wired', 'name': 'Wired'}
+Published: 
+URL: https://www.wired.com/story/big-interview-event-matthew-prince-cloudflare/
+Content: As the large language models powering generative AI tools slurp up ever more data across the web, Cloudflare cofounder and CEO Matthew Prince said at WIREDs Big Interview event in San Francisco on Th… [+2459 chars]
+---
+
+
+---
+Article 41
+Title: Blackstone Venture to Buy Hawaii Property Owner for $1.5 Billion
+Source: {'id': 'bloomberg', 'name': 'Bloomberg'}
+Published: 
+URL: https://www.bloomberg.com/news/articles/2025-12-08/blackstone-venture-to-buy-hawaii-property-owner-for-1-5-billion
+Content: A joint venture between Blackstone Inc.s real estate business, MW Group and DivcoWest struck a deal to purchase a Hawaiian commercial property owner Alexander &amp; Baldwin Inc. in a $1.5 billion all… [+248 chars]
+---
+
+
+---
+Article 42
+Title: US Farmers Say $12 Billion Bailout Won’t End Industry Slump
+Source: {'id': 'bloomberg', 'name': 'Bloomberg'}
+Published: 
+URL: https://www.bloomberg.com/news/articles/2025-12-08/us-farmers-say-12-billion-bailout-won-t-end-industry-slump
+Content: US growers say the Trump administrations $12 billion aid package brings temporary relief, but is unlikely to kickstart a lasting recovery for the American farm economy.
+President Donald Trump on Mon… [+185 chars]
+---
+
+
+---
+Article 43
+Title: Mexico to Hike China Tariffs, Raising Hopes of US Steel Relief
+Source: {'id': 'bloomberg', 'name': 'Bloomberg'}
+Published: 
+URL: https://www.bloomberg.com/news/articles/2025-12-08/mexico-to-hike-china-tariffs-raising-hopes-of-us-steel-relief
+Content: Mexicos Congress is set to vote this week on President Claudia Sheinbaums proposed tariffs on China, part of a broader plan to shield local producers and ease trade tensions with the US. The move is … [+385 chars]
+---
+
+
+---
+Article 44
+Title: Paramount Faces Lower Antitrust Bar Over Warner Bros. Bid
+Source: {'id': 'bloomberg', 'name': 'Bloomberg'}
+Published: 
+URL: https://www.bloomberg.com/news/articles/2025-12-08/paramount-faces-lower-antitrust-bar-over-warner-bros-bid
+Content: Just hours before Paramount Skydance Corp. Chief Executive Officer David Ellison launched a hostile bid for Warner Bros. Discovery Inc., he hobnobbed in Washington with some of the federal government… [+402 chars]
+---
+
+
+---
+Article 45
+Title: Trump Threatens New 5% Tariff on Mexican Goods in Water Fight
+Source: {'id': 'bloomberg', 'name': 'Bloomberg'}
+Published: 
+URL: https://www.bloomberg.com/news/articles/2025-12-08/trump-threatens-new-5-tariff-on-mexican-goods-in-water-fight
+Content: President Donald Trump threatened to impose an additional 5% tariff on imports from Mexico if the country did not release water that his administration says must be allowed to flow under a treaty, es… [+308 chars]
+---
+
+
+---
+Article 46
+Title: Banamex Aims to Expand Corporate Banking, Seek Brokerage License
+Source: {'id': 'bloomberg', 'name': 'Bloomberg'}
+Published: 
+URL: https://www.bloomberg.com/news/articles/2025-12-08/banamex-aims-to-expand-corporate-banking-seek-brokerage-license
+Content: Citigroup Inc.s Mexican retail banking unit aims to keep up aggressive growth in consumer credit and will seek to re-enter the corporate banking sector, as it operates more independently from its lon… [+291 chars]
+---
+
+
+---
+Article 47
+Title: China Should Raise Imports to Promote Yuan, Ex PBOC Adviser Says
+Source: {'id': 'bloomberg', 'name': 'Bloomberg'}
+Published: 
+URL: https://www.bloomberg.com/news/articles/2025-12-08/china-should-raise-imports-to-promote-yuan-ex-pboc-adviser-says
+Content: China should increase imports and settle them in the yuan to balance its foreign trade, a move a former central bank adviser says will boost the Chinese currencys usage globally.
+Foreign trade strat… [+253 chars]
+---
+
+
+---
+Article 48
+Title: Global Nuclear Stocks Remain in Vogue After $566 Billion Rally
+Source: {'id': 'bloomberg', 'name': 'Bloomberg'}
+Published: 
+URL: https://www.bloomberg.com/news/articles/2025-12-08/global-nuclear-stocks-remain-in-vogue-after-566-billion-rally
+Content: Global fund managers see this years surge in nuclear stocks continuing, on an improving regulatory outlook and demand drivers that extend beyond the voracious needs of artificial intelligence.
+A  ga… [+284 chars]
+---
+
+
+---
+Article 49
+Title: Gold Buying Frenzy Puts Thai Trading House on Record Trajectory
+Source: {'id': 'bloomberg', 'name': 'Bloomberg'}
+Published: 
+URL: https://www.bloomberg.com/news/articles/2025-12-08/gold-buying-frenzy-puts-thai-trading-house-on-record-trajectory
+Content: Unprecedented gold prices and a surge in retail sales may push revenue at Thailands largest gold trading house to a record 5 trillion baht ($156 billion) this year, according to Hua Seng Heng Chief E… [+321 chars]
+---
+
+
+---
+Article 50
+Title: Bank CEOs Expected to Meet Senators on Crypto Market Structure
+Source: {'id': 'bloomberg', 'name': 'Bloomberg'}
+Published: 
+URL: https://www.bloomberg.com/news/articles/2025-12-08/bank-ceos-expected-to-meet-senators-on-crypto-market-structure
+Content: Bank of America Corp. chief executive officer Brian Moynihan, Citigroup Inc. CEO Jane Fraser and Wells Fargo &amp; Co. CEO Charlie Scharf are scheduled to meet with senators in both parties on Thursd… [+432 chars]
+---
+
+
+---
+Article 51
+Title: Trump’s near-death redistricting push in Indiana appears to have a lifeline
+Source: {'id': 'politico', 'name': 'Politico'}
+Published: 
+URL: https://www.politico.com/news/2025/12/08/trump-redistricting-push-indiana-lifeline-00681125
+Content: Bray also addressed threats of violence against many of his own members received after signaling they dont support remapping the state ahead of next years midterm election.
+Its unsettling for all of… [+809 chars]
+---
+
+
+---
+Article 52
+Title: Jasmine Crockett set to announce Texas Senate bid
+Source: {'id': 'politico', 'name': 'Politico'}
+Published: 
+URL: https://www.politico.com/news/2025/12/08/crockett-announces-texas-senate-bid-00680505
+Content: In recent weeks, Crockett publicly debated whether to jump in, saying she would only do so if polling showed she could win. She has said she believes she can expand the electorate in Texas, a formida… [+2523 chars]
+---
+
+
+---
+Article 53
+Title: Colin Allred drops out of Texas Senate race
+Source: {'id': 'politico', 'name': 'Politico'}
+Published: 
+URL: https://www.politico.com/news/2025/12/08/allred-drops-out-of-texas-senate-race-00680502
+Content: Allred, in a statement, said he wanted to avoid a messy Senate primary and will instead run for Congress in the newly drawn 33rd Congressional District, which had its lines redrawn after the U.S. Sup… [+960 chars]
+---
+
+
+---
+Article 54
+Title: Indiana Republicans threaten to thwart Trump's redistricting onslaught
+Source: {'id': 'politico', 'name': 'Politico'}
+Published: 
+URL: https://www.politico.com/news/2025/12/08/trump-indiana-senate-republicans-redistricting-00680141
+Content: Speaker Mike Johnson has been calling reluctant Republican state senators in recent days reported here for the first time, based on accounts from two people granted anonymity to freely discuss sensit… [+8752 chars]
+---
+
+
+---
+Article 55
+Title: A MAGA World Cup? | The Playbook Podcast
+Source: {'id': 'politico', 'name': 'Politico'}
+Published: 
+URL: https://www.politico.com/video/2025/12/05/a-maga-world-cup-the-playbook-podcast-1869917
+Content: None
+---
+
+
+---
+Article 56
+Title: The nation’s cartoonists on the week in politics
+Source: {'id': 'politico', 'name': 'Politico'}
+Published: 
+URL: https://www.politico.com/gallery/2025/12/05/the-nations-cartoonists-on-the-week-in-politics-00677836
+Content: Cartoon Carousel 
+Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-s… [+261 chars]
+---
+
+
+---
+Article 57
+Title: Economy & Education: U.S. trade rep. Greer and teacher's union head Weingarten | The Conversation
+Source: {'id': 'politico', 'name': 'Politico'}
+Published: 
+URL: https://www.politico.com/video/2025/12/04/economy-education-u-s-trade-rep-greer-and-teachers-union-head-weingarten-the-conversation-1869075
+Content: None
+---
+
+
+---
+Article 58
+Title: Inside the overlooked multi-million dollar fight to block Republicans’ Missouri gerrymander
+Source: {'id': 'politico', 'name': 'Politico'}
+Published: 
+URL: https://www.politico.com/news/2025/12/04/missouri-redistricting-gerrymander-fight-00675360
+Content: Imagine the kind of democratic paralysis our state would be in if this happened every 10 years, or every time we decided to draw new maps, said Aaron Blake, a GOP strategist based in Missouri. That w… [+6873 chars]
+---
+
+
+---
+Article 59
+Title: Dems keep beating Republicans on affordability. Our new poll shows why.
+Source: {'id': 'politico', 'name': 'Politico'}
+Published: 
+URL: https://www.politico.com/news/2025/12/04/poll-americans-trump-voters-affordability-crisis-00674747
+Content: Those are among the new results from The POLITICO Poll that crystallize a growing warning sign for Republicans ahead of next years midterms: Some of the very groups that powered Trumps victory last y… [+4463 chars]
+---
+
+
+---
+Article 60
+Title: Democrats eye a red-state push even as intraparty fighting persists
+Source: {'id': 'politico', 'name': 'Politico'}
+Published: 
+URL: https://www.politico.com/news/2025/12/04/democrats-tennessee-election-optimism-2026-00676387
+Content: Former Democratic Rep. Conor Lamb of Pennsylvania, who flipped a deep-red district in a 2018 special election, called the race a missed opportunity.
+It just sort of looks like we ran a standard to p… [+7766 chars]
+---
+
+
+---
+Article 61
+Title: Trump greenlights exports of Nvidia H200 chips to China
+Source: {'id': 'cnn', 'name': 'CNN'}
+Published: 
+URL: https://www.cnn.com/2025/12/08/tech/nvidia-h200-chips-china-trump-export
+Content: President Donald Trump announced on Monday in a Truth Social post that hes removing export controls on Nvidias H200 chips to China, a key reversal in whats become part of a broader trade war between … [+1999 chars]
+---
+
+
+---
+Article 62
+Title: Battle over future of Warner Bros. Discovery captures Trump’s attention
+Source: {'id': 'cnn', 'name': 'CNN'}
+Published: 
+URL: https://www.cnn.com/2025/12/08/politics/netflix-paramount-trump-warner-bros-future
+Content: The mounting battle to purchase one of Hollywoods biggest prizes Warner Bros. Discovery has captured President Donald Trumps attention as he sees his own interests entwined in the transaction and app… [+6134 chars]
+---
+
+
+---
+Article 63
+Title: Behind the scenes of Paramount’s hostile takeover bid for Warner Bros. Discovery | CNN Politics
+Source: {'id': 'cnn', 'name': 'CNN'}
+Published: 
+URL: https://www.cnn.com/2025/12/08/politics/video/wbd-netflix-paramount-bid-media-president-trump-kara-swisher-lead-jake-tapper
+Content: None
+---
+
+
+---
+Article 64
+Title: Fact check: Trump denies saying something he said on camera five days ago
+Source: {'id': 'cnn', 'name': 'CNN'}
+Published: 
+URL: https://www.cnn.com/2025/12/08/politics/fact-check-trump-september-strike-video
+Content: President Donald Trump on Monday falsely denied making a comment he had made on camera just five days prior. Then he launched a personal attack against the reporter who had accurately repeated his pr… [+2571 chars]
+---
+
+
+---
+Article 65
+Title: Tech trouble, most wanted fugitive, space junk: Catch up on the day’s stories
+Source: {'id': 'cnn', 'name': 'CNN'}
+Published: 
+URL: https://www.cnn.com/2025/12/08/us/5-things-pm-december-8-trnd
+Content: Welcome to 5 Things PM! The Golden Globes nominations were revealed, and One Battle After Another led the way with nine. There were a few surprises and some snubs.
+Heres what else you might have mis… [+1963 chars]
+---
+
+
+---
+Article 66
+Title: Congress will vote on limiting Hegseth’s travel budget unless he releases unedited video of boat strikes
+Source: {'id': 'cnn', 'name': 'CNN'}
+Published: 
+URL: https://www.cnn.com/2025/12/08/politics/hegseth-travel-budget-strikes-video-congress
+Content: Tucked into Congress massive defense policy bill is a provision that would limit Defense Secretary Pete Hegseths travel budget unless he provides the House and Senate Armed Services committees with u… [+2398 chars]
+---
+
+
+---
+Article 67
+Title: All the ways the Trump administration has changed its story on the boat strikes
+Source: {'id': 'cnn', 'name': 'CNN'}
+Published: 
+URL: https://www.cnn.com/2025/12/08/politics/boat-strikes-venezuela-trump-administration
+Content: Shortly after the Trump administration carried out its first known attack on an alleged drug vessel in the Caribbean in early September, Defense Secretary Pete Hegseth appeared with his old colleague… [+7826 chars]
+---
+
+
+---
+Article 68
+Title: Paramount launches a hostile takeover bid for Warner Bros. Discovery
+Source: {'id': 'cnn', 'name': 'CNN'}
+Published: 
+URL: https://www.cnn.com/2025/12/08/business/paramount-hostile-takeover-bid-wbd
+Content: Paramount has gone straight to Warner Bros. Discoverys shareholders with an all-cash offer for the company that it says is more valuable than Netflixs deal announced Friday.
+Paramount was widely exp… [+963 chars]
+---
+
+
+---
+Article 69
+Title: Hegseth in 2016 repeatedly warned of Trump issuing unlawful military orders
+Source: {'id': 'cnn', 'name': 'CNN'}
+Published: 
+URL: https://www.cnn.com/2025/12/08/politics/hegseth-trump-warned-unlawful-orders-kfile
+Content: In 2016, as then-presidential candidate Donald Trump vowed that US troops would carry out even his most extreme battlefield orders as commander in chief some of which former military leaders said wou… [+5571 chars]
+---
+
+
+---
+Article 70
+Title: Watch CNN live online | CNN
+Source: {'id': 'cnn', 'name': 'CNN'}
+Published: 
+URL: https://www.cnn.com/watch
+Content: CNN's Fareed Zakaria delivers in-depth reporting on the defining global and domestic issues of our time.
+Anthony Bourdain revisits unforgettable moments from Parts Unknown with curated highlights, r… [+2195 chars]
+---
+
+
+---
+Article 71
+Title: Branding and logo for Great British Railways unveiled
+Source: {'id': 'bbc-news', 'name': 'BBC News'}
+Published: 
+URL: https://www.bbc.co.uk/news/articles/c4g9kx0je10o
+Content: The rollout of the design, which was created in-house, is expected to take place gradually, with passengers beginning to see the trains across the national network from next spring. 
+Through Decembe… [+617 chars]
+---
+
+
+---
+Article 72
+Title: Blood cancer therapy reverses incurable leukaemia in some patients
+Source: {'id': 'bbc-news', 'name': 'BBC News'}
+Published: 
+URL: https://www.bbc.co.uk/news/articles/cj38ymeyg4mo
+Content: They started with healthy T-cells from a donor and set about modifying them.
+The first base edit disabled the T-cells' targeting mechanism so they could not attack the patient's body.
+The second re… [+968 chars]
+---
+
+
+---
+Article 73
+Title: Why Sandie Peggie ruling could lead to big changes for employers
+Source: {'id': 'bbc-news', 'name': 'BBC News'}
+Published: 
+URL: https://www.bbc.co.uk/news/articles/c0mp41jlre7o
+Content: The first key part of this particular ruling suggests they will have to be even-handed in the way they deal with cases like this in future.
+We now know that, in this tribunal's finding, Ms Peggie wa… [+1020 chars]
+---
+
+
+---
+Article 74
+Title: Teen asylum seekers from Afghanistan sentenced for rape
+Source: {'id': 'bbc-news', 'name': 'BBC News'}
+Published: 
+URL: https://www.bbc.co.uk/news/articles/c74x9ln0y4qo
+Content: At the opening of the sentencing hearing, prosecutor Shawn Williams said the defendants, who each appeared in the dock assisted by their own interpreter, were unaccompanied child asylum seekers.
+Jah… [+1188 chars]
+---
+
+
+---
+Article 75
+Title: Partial victory for nurse in NHS trans changing room row
+Source: {'id': 'bbc-news', 'name': 'BBC News'}
+Published: 
+URL: https://www.bbc.co.uk/news/articles/c36zk0p7xlgo
+Content: The campaign group Sex Matters, which backed Sandie Peggie in the case, said it was very disappointed in the approach taken by the tribunal.
+Maya Forstater, the organisation's CEO, said it should ha… [+1097 chars]
+---
+
+
+---
+Article 76
+Title: European leaders walk tightrope between backing Ukraine and keeping US on board
+Source: {'id': 'bbc-news', 'name': 'BBC News'}
+Published: 
+URL: https://www.bbc.co.uk/news/articles/c8r3v5mmyp8o
+Content: Ahead of the meeting in London, Starmer insisted - as he often has in the past - that Ukraine needed "hard-edged security guarantees". He has also repeatedly said that Kyiv must determine its own fut… [+2239 chars]
+---
+
+
+---
+Article 77
+Title: Major earthquake strikes Japan's north-east coast
+Source: {'id': 'bbc-news', 'name': 'BBC News'}
+Published: 
+URL: https://www.bbc.co.uk/news/articles/c7091k5pg31o
+Content: A major earthquake of magnitude 7.6 has hit Japan's north-eastern region.
+The quake occurred at 23:15 (14:15 GMT) at a depth of 50km (31 miles), about 80km off the coast of the Aomori region, the Ja… [+396 chars]
+---
+
+
+---
+Article 78
+Title: Golden Globe nominations: One Battle After Another, starring Leonardo DiCaprio, leads field
+Source: {'id': 'bbc-news', 'name': 'BBC News'}
+Published: 
+URL: https://www.bbc.co.uk/news/articles/cly312nyq49o
+Content: Some films were totally shut out
+Wicked: For Good missing best musical might have been the most notable snub, but many other movies were shut out entirely.
+Missile thriller A House of Dynamite rece… [+1122 chars]
+---
+
+
+---
+Article 79
+Title: Paramount Skydance launches rival bid for Warner Brothers Discovery
+Source: {'id': 'bbc-news', 'name': 'BBC News'}
+Published: 
+URL: https://www.bbc.co.uk/news/articles/cj69xzpzrdyo
+Content: Paramount Skydance has made another offer to buy Warner Brothers Discovery as it seeks to trump a rival offer from Netflix to buy the company's studio and streaming networks. 
+Paramount, which is ba… [+505 chars]
+---
+
+
+---
+Article 80
+Title: Prince Harry's security in UK under government review
+Source: {'id': 'bbc-news', 'name': 'BBC News'}
+Published: 
+URL: https://www.bbc.co.uk/news/articles/cx25nk0kx58o
+Content: Prince Harry's security was downgraded after he stepped back from frontline royal duties in 2020 and moved to the US with the Duchess of Sussex.
+In his legal challenge earlier this year, he conteste… [+1930 chars]
+---
