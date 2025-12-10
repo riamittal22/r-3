@@ -1,0 +1,6 @@
+requests
+python-dotenv
+nbformat
+sentence-transformers
+nltk
+langchain-azure-ai
