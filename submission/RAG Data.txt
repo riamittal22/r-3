@@ -1,0 +1,2308 @@
+﻿{
+  "source": "Wall Street Journal",
+  "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-24-2025?mod=hp_lead_pos5",
+  "date": "2025-11-24",
+  "title": "Stock Market Today: Nasdaq Rises More Than 2%; Google, Chip Stocks Rally
+
+
+",
+  "categories": ["finance"],
+  "text": "Chip stocks and other big technology shares rallied Monday, extending last session's gains and suggesting fears of an AI bubble are receding.
+Semiconductor companies Broadcom, Advanced Micro Devices and Micron were among the big risers, while Tesla and Google parent Alphabet both added more than 5%. The moves bolstered the Nasdaq composite, which jumped about 2.6%.
+The S&P 500 rose about 1.5%, adding to gains after President Trump posted on social media that he had held "a very good telephone call with President Xi" and planned to visit the Chinese leader in Beijing in April.
+Revived hopes that the Federal Reserve will cut interest rates next month also bolstered markets.
+Boston Fed President Susan Collins said over the weekend she didn't see a strong need for a cut, but expectations for one remain elevated since her New York counterpart, John Williams, said a "near-term" reduction could be warranted. On Monday, Fed governor Christopher Waller called once again for an imminent cut.
+The chance of a reduction topped three-quarters on Monday, according to interest-rate futures prices tracked by CME, a jump from around 40% before Williams spoke, and 71% on Friday.
+Overseas, European defense stocks fell after the White House hailed progress following peace talks with Ukraine on Sunday. European natural-gas futures also dropped.
+In recent trading:
+Bitcoin traded at about $89,000. Last week, the cryptocurrency had its worst weekly loss since February.
+In Asia, Alibaba shares rallied, bolstering Hong Kong's Hang Seng Index. Japanese markets were shut for a holiday.
+"
+} ,
+
+
+
+
+
+
+
+
+{
+  "source": "Wall Street Journal",
+  "url": "https://www.wsj.com/finance/robinhood-susquehanna-to-launch-exchange-to-expand-prediction-markets-offerings-38a4bcc1?mod=finance_lead_pos1",
+  "date": "2025-11-25",
+  "title": "Robinhood, Susquehanna to Launch Exchange to Expand Prediction Markets Offerings
+
+
+",
+  "categories": ["finance”]
+  "text": "Robinhood HOOD 0.52%
+increase; green up pointing triangle
+ Markets said it is launching a futures and derivatives exchange with market maker Susquehanna International Group to expand its array of prediction contracts tied to sports, elections and other events. 
+In a related move, the new exchange is acquiring MIAXdx, a business that clears and executes derivatives trades. 
+Robinhood, the retail brokerage popularized by the meme-stock craze of 2021, has rolled out a series of new offerings in recent years designed to meet the needs of Wall Street’s most-active individual investors. Among them: a partnership with Kalshi to offer customers access to the prediction markets, where users buy and sell contracts tied to yes-and-no questions on a variety of events. 
+The offering quickly emerged as Robinhood’s fastest-growing product line by revenue, with more than 1 million customers trading 9 billion contracts over the past year.  
+MIAXdx has been a unit of Miami International Holdings, which will hold a 10% stake in the new Robinhood-Susquehanna exchange. The exchange plans to begin operations in 2026. 
+"
+} ,
+
+
+
+
+
+
+
+
+  "source": "Wall Street Journal",
+  "url": "https://www.wsj.com/finance/global-markets-rise-despite-concerns-over-potential-ai-bubble-f79146b6?mod=finance_feat4_stocks_pos5",
+  "date": "2025-11-24",
+  "title": "Global Markets Rise Despite Concerns Over Potential AI Bubble
+
+
+",
+  "categories": ["finance"],
+  "text": "U.S. stock futures rose at the start of Thanksgiving week following last week’s volatile trading and international markets were mostly higher. U.S. stocks closed up Friday after New York Fed President John Williams said that another near-term rate cut could be warranted, although all of the major indexes were lower on week amid persistent concerns about a potential bubble in artificial-intelligence stocks.
+Another batch of retailers report this week, while on Tuesday Alibaba, Dell, Workday and HP all have earnings. The stock market will be closed Thursday for the Thanksgiving holiday and will have a short session on Friday.
+Meanwhile, bitcoin continued to slip and the U.S. dollar and Treasury yields were steady. Ahead of a crucial U.K. budget on Wednesday, U.K. sovereign bond yields and sterling were also steady.
+—U.S. futures for the S&P 500 were up 0.7% and futures for the Dow Jones Industrial Average climbed 0.4% while futures tied to the tech-heavy Nasdaq rose just shy of 1.0%. Changes in futures do not necessarily predict movements after the opening bell.
+—The pan-European Stoxx Europe 600 gained 0.6% shortly after the open, as France’s CAC 40 gained 0.5% and Germany’s DAX added 1.0%. Bayer jumped nearly 10% after it said it had had positive results in late-stage clinical trials for a drug to reduce the risk of stroke. The U.K.’s FTSE 100 added 0.4%.
+—Stock markets in Asia were mixed. Hong Kong’s Hang Seng Index ended up 2.0%, with Alibaba Group 9988 2.14%
+increase; green up pointing triangle
+ adding 4.7% after its Qwen, an AI app aiming to compete with OpenAI’s ChatGPT, hit 10 million downloads within one week of its public beta launch. Shares in mainland China also closed higher. Still, South Korea’s Kospi ended down 0.2% after giving up earlier gains. Japan’s Nikkei was closed due to the Labor Thanksgiving Day holiday.
+—Bitcoin remained under pressure after the cryptocurrency hit a seven-month low on Friday, reflecting broader risk aversion and stalled regulatory momentum, institutional outflows, thinning liquidity and profit-taking by long-term holders, Deutsche Bank analysts said in a note. “While volatility remains inherent, these conditions indicate bitcoin’s portfolio integration is being tested, and raises questions of whether this is a temporary correction or a more prolonged adjustment.” Bitcoin was recently down 1.2% to $86,991, having reached a low of $80,553 Friday, according to LSEG data.
+—U.S. Treasury yields were steady with auctions of two-year, five-year and seven-year notes coming ahead of Thursday’s Thanksgiving holiday. The 10-year Treasury yield was last at 4.061%, having fallen to a three-week low of 4.036% on Friday, according to Tradeweb data. The U.S. dollar was also flat against a basket of major currencies.
+—Yields of U.K. sovereign bonds, or gilts, were steady to start the week but risk staying elevated after Wednesday’s budget due to increased political risk, economists at Pantheon Macroeconomics said in a note. The U.K. Debt Management Office is due to auction gilts maturing in March 2031 on Tuesday. Sterling was flat. “U.K. government bonds and sterling will be sensitive to how an inevitable fiscal tightening looks and whether the fiscal gap is plugged sufficiently,” Danske Bank analysts said.
+—Oil prices slipped in early trading, extending last week’s fall as investors assess prospects of a Ukraine-Russia peace deal. Brent crude was last down 0.4% to $61.68 a barrel, while WTI fell 0.5% to $57.79 a barrel. “Developments related to a potential peace agreement are important for the oil market, particularly amid significant uncertainty about the impact of recently imposed sanctions on Russia’s Rosneft and Lukoil,” ING analysts said.
+—Gold prices slipped, with New York futures down 0.5% to $4,060.20 a troy ounce and spot gold down 0.3% to $4,065.01 an ounce.
+"
+} ,
+
+
+
+
+
+
+
+
+{
+  "source": "CNBC",
+  "url": "https://www.nytimes.com/...",
+  "date": "2025-11-25",
+  "title": "Oil prices fall more than 1% amid Ukraine peace deal reports",
+  "categories": ["finance"],
+  "text": "Oil prices fell on Tuesday, dropping by more than 1% after news reports cited a U.S. official saying that Ukraine had agreed to a peace deal.
+Brent
+ futures lost 89 cents, or 1.4%, to close at $62.48 a barrel. West Texas Intermediate
+ (WTI) crude shed 89 cents, or 1.51%, to settle at $57.95.
+ABC News and CBS News reported that a U.S. official said Ukraine had agreed on the terms of a potential peace deal.
+A Ukrainian official told Reuters that Kyiv supported the essence of a framework for peace after talks with the U.S. in Geneva, but some of the most sensitive issues of the framework remained to be discussed between the countries’ presidents.
+Ukrainian President Volodymyr Zelenskiy could visit the U.S. in the next few days to finalise a deal with President Donald Trump to end Ukraine’s war with Russia, Kyiv’s national security chief Rustem Umerov said.
+“Some media outlets are reporting that Ukraine agreed to a peace deal,” UBS analyst Giovanni Staunovo said. “That said, it needs two to tango, and it remains unclear if Russia agrees as well.”
+A Ukraine-Russia peace deal could lead to sanctions being lifted on Moscow, unleashing previously restricted oil supplies into the market.
+Both crude benchmarks gained 1.3% on Monday as rising doubts about a peace deal reduced expectations for the unfettered flow of Russian crude and fuel supplies.
+The overall outlook for crude oil supply and demand balances in 2026 is looser amid numerous forecasts that supply growth will exceed demand increases next year. Oversupply concerns have dampened market sentiment recently.
+“In the short term, the key risk is oversupply and current price levels seem vulnerable,” Priyanka Sachdeva, senior market analyst at Phillip Nova, said in a note on Tuesday.
+Because of new sanctions on Russian oil majors Rosneft and Lukoil and rules against selling oil products refined from Russian crude to Europe, some Indian refiners have cut back their purchases of Russian oil, particularly private company Reliance.
+With limited options for sales, Russia is looking to increase exports to China.
+On Tuesday, Russian Deputy Prime Minister Alexander Novak said Moscow and Beijing had been discussing ways to expand Russian oil exports to China.
+Overall though, market analysts remain focused on the potential for wider supply and demand imbalances.
+Deutsche Bank sees a 2026 crude oil surplus of at least 2 million barrels per day and no clear path back to deficits even by 2027, the bank said in a note on Monday.
+“The path forward into 2026 remains a bearish one,” analyst Michael Hsueh said.
+Oil markets found some support from increasing expectations the U.S. Federal Reserve will cut interest rates at its December 9-10 policy meeting, with Fed members indicating their support for a cut.
+Lower interest rates could stimulate economic growth and strengthen oil demand.
+"
+} ,
+
+
+
+
+
+
+{
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2025/11/20/jobs-report-september-2025.html",
+  "date": "2025-11-20",
+  "title": "Delayed September report shows U.S. added 119,000 jobs, more than expected; unemployment rate at 4.4%
+
+
+",
+  "categories": ["finance"],
+  "text": "The U.S. economy added substantially more jobs than expected in September, according to a long-awaited report Thursday from the Bureau of Labor Statistics.
+Nonfarm payrolls increased by 119,000 in the month, up from the 4,000 jobs lost in August following a downward revision. The Dow Jones consensus estimate for September was 50,000. The July total also was revised down to 72,000, a decrease of 7,000 from the prior release.
+In addition to the headline jobs number, the BLS said the unemployment rate edged higher to 4.4%, the highest it’s been since October 2021. A broader measure that includes those not looking for jobs or working part-time for economic reasons edged lower to 8%.
+Average hourly earnings increased 0.2% for the month and 3.8% from a year ago, compared to respective forecasts for 0.3% and 3.7%.
+The report ends a data drought on the labor market that began in early September and continued through the record 44-day government shutdown. Agencies including the BLS, the Bureau of Economic Analysis and others were prohibited from collecting or releasing data during the period.
+This was the first BLS jobs report since the count for August that was released Sept. 5. It also was the second since Trump fired then-BLS Commissioner Erika McEntarfer on Aug. 1, following a July jobs report that contained massive revisions for prior months.
+“September’s jobs report shows the labor market still had resilience before the shutdown, beating payroll expectations, but the picture remains muddy with August jobs revised to a job loss and the unemployment rate increasing,” said Daniel Zhao, chief economist at jobs site Glassdoor. “These numbers are a snapshot from two months ago and they don’t reflect where we stand now in November.”
+Stock market futures nevertheless added to gains following the report while Treasury yields were mostly lower.
+Traders also continued to bet that the Federal Reserve will not lower rates further at its Dec. 9-10 meeting. This is the last jobs report Fed policymakers will get before then. Hawkish talk out of the October Fed meeting, as reflected in minutes released Wednesday, contributed to a general feeling that the central bank will be on hold into the end of the year.
+“Despite the fact that today’s jobs report is very backward looking, it’s making markets move,” said Seema Shah, chief global strategist at Principal Asset Management. “Equities like the fact that payrolls were stronger than expected, suggesting the economy is still on a firm footing, while the bond market likes the rise in unemployment and slowdown in wage growth which may keep the case for a December Fed cut just about alive.”
+Overall, the report shows the labor market entered the autumn months on much the same footing it has been all year – a slow but steady pace, with firms reluctant both to hire many new workers or lay off existing workforce during a time of unusual economic volatility spurred by aggressive policy actions in President Donald Trump’s White House.
+A separate Labor Department release Thursday showed that initial jobless claims totaled 220,000 for the week ending Nov. 15, down 8,000 from the prior period and lower than the consensus forecast for 227,000.
+Job gains in September came from familiar sources, with health care leading at 43,000, about right on target with its pace over the past year. Bars and restaurants contributed 37,000 while social assistance added 14,000.
+On the downside, transportation and warehousing lost 25,000 and federal government, which had been a large contributor to employment growth, was off 3,000, part of a loss of 97,000 on the calendar year. Professional and business services also reported a decline of 20,000, fueled by a drop of 16,000 in temporary help.
+The household survey, used to calculate the unemployment rate, painted an even brighter picture of the labor market.
+The total level of those employed rose by 251,000 while the labor force increased by 470,000 to a fresh record of 171.2 million. The participation rate, which measures the share of the working-age population either working or seeking employment, edged higher to 62.4, the highest since May.
+The rolls of full-time employment swelled by 673,000 while part-times fell by 573,000.
+The lack of comprehensive indicators has presented a challenge for Fed officials, who cut their benchmark interest rate in both September and October but face a tougher decision in December. Officials at the October meeting noted the difficulty in navigating policy without the usual array of economic metrics to rely on, and there was a significant inclination to forgo a December cut, according to meeting minutes released Wednesday.
+With September’s payrolls count released, the BLS is preparing the first influx of other data in coming months. The bureau on Wednesday announced it will release jobs data for October and November simultaneously on Dec. 16. October’s numbers will not include the customary unemployment rate calculation as that comes from a survey of households that will not be able to be completed because of the shutdown.
+"
+} ,
+
+
+
+
+
+
+
+
+{
+  "source": "Yahoo Finance",
+  "url": "https://finance.yahoo.com/news/live/trump-tariffs-live-updates-trump-says-xi-agreed-to-expand-farm-buys-us-negotiates-taiwan-chip-worker-training-deal-231853941.html",
+  "date": "2025-11-27",
+  "title": "Trump tariffs live updates: Trump says Xi agreed to expand farm buys; US negotiates Taiwan chip-worker training deal
+",
+  "categories": ["finance"],
+  "text": "President Trump said Chinese leader Xi Jinping "pretty much" agreed to increase the speed and size of the country's agricultural purchases. Trump and Xi held their first call Monday since the US and China struck a trade and tariff truce last month.
+"I think he’s going to very much surprise you on the upside,” Trump told reporters.
+Trump touted the call as "very good," and said he had accepted an invitation to visit Beijing in April and that Xi would reciprocate with a visit to the US later next year.
+Trump: Revenue will 'skyrocket'
+The White House is quietly preparing a backup plan as the US Supreme Court is set to decide whether Trump had the authority to issue them in the first place. Trump on Monday claimed the "full benefit" of tariff policies would take effect soon, arguing that foreign buyers who stockpiled inventory would be forced to buy more goods.
+"Tariffs will be paid on everything they apply to, without avoidance, Taiwan to new investment and training of US workers in semiconductor manufacturing and other advanced industries
+The president invoked the International Emergency Economic Powers Act (IEEPA) to levy blanket tariffs on goods from other countries. But Congress is the branch of the US government with oversight of taxation and spending — not the president. It's not clear when SCOTUS will make its ruling.
+Meanwhile, Trump further expanded tariff breaks on Brazilian goods, part of moves to lower costs on some everyday goods as consumers grapple with price struggles.
+The push to reduce food prices comes after electoral wins for Democrats across a number of key state and local races where candidates stressed affordability concerns. Trump has also in recent weeks floated the possibility of a tariff "dividend" for many Americans in the form of a $2,000 check.
+Trump recently acknowledged that US consumers are "paying something" for his tariffs.
+"
+} ,
+
+
+
+
+{
+  "source": "Yahoo Finance",
+  "url": "https://finance.yahoo.com/news/mortgage-rates-dropped-this-week-amid-fresh-signs-of-job-market-weakness-170338602.html",
+  "date": "2025-11-26",
+  "title": "Mortgage rates dropped this week amid fresh signs of job market weakness
+
+
+",
+  "categories": ["finance"],
+  "text": "Mortgage rates dropped slightly this week amid new signals that the labor market is weakening and the Federal Reserve will cut interest rates again next month.
+The average 30-year mortgage rate was 6.23% through Tuesday, according to Freddie Mac data, down from 6.26% a week earlier. The average 15-year mortgage rate was 5.51%, from 5.54%.
+The 10-year Treasury yield, which mortgage rates closely track, has been falling as odds of a benchmark rate cut in December are on the rise. In recent days, New York Fed president John Williams, San Francisco Federal Reserve president Mary Daly, and Federal Reserve Governor Christopher Waller have all signaled in interviews or speeches that they would support cutting next month.
+Learn more: How the 10-year Treasury affects mortgage rates
+Consensus about a December rate cut is growing as new data suggests the labor market continues to weaken. This month, job losses at private employers sped up, according to data released on Tuesday by payroll processor ADP.
+Traders now see an 83% chance of a 25-basis point cut at the Fed’s Dec. 9-10 meeting, according to CME FedWatch. Although mortgage rates aren’t directly controlled by the Fed, they do move based on expectations about future Fed interest rate policy.
+Another cut "could bring mortgage rates near 2025-lows just as the year comes to a close," Jake Krimmel, Realtor.com senior economist, said in a statement.
+"This would give homebuyers something to be thankful for heading into 2026, while potentially buoying a housing market which has seen some light tailwinds of late," he added.Treasury yields and mortgage rates also moved lower on Tuesday after Bloomberg News reported that White House National Economic Council Director Kevin Hassett, a close ally of President Trump and a supporter of lower rates, is seen as the likely frontrunner to succeed Jerome Powell as Fed Chair.
+Mortgage rates have been hovering around year-to-date lows of 6.2% to 6.3% for most of this fall, bringing some buyers back into the market. Contract signings jumped 1.9% in October from a month earlier, new National Association of Realtors data showed. Applications to purchase a home were up 8% through Friday compared to a week earlier, according to the Mortgage Bankers Association.
+
+
+"
+} ,
+
+
+
+
+
+
+{
+  "source": "Tip Ranks",
+  "url": "https://www.tipranks.com/news/apple-stock-aapl-hits-all-time-high-as-iphone-sales-recover",
+  "date": "2025-11-25",
+  "title": "Apple Stock (AAPL) Hits All-Time High as iPhone Sales Recover
+
+
+",
+  "categories": ["finance"],
+  "text": "Apple’s Holiday Sales Push
+During Apple’s recent financial results, CEO Tim Cook said that the latest iPhones have seen “a tremendous response” around the world. The company unveiled its thinnest iPhone ever in September of this year, called “the Air,” along with several iPhone 17 models.
+Now, Apple is preparing for exceptionally strong year-end holiday sales, forecasting overall revenue to be up to 12% higher than in the final quarter of 2024. The enthusiastic response to the iPhone 17 is welcome news for AAPL shareholders after several years of declining sales for the company’s signature device.
+"
+} ,
+
+
+
+
+
+
+{
+  "source": Tip Ranks",
+  "url": "https://www.tipranks.com/news/blackrock-stock-blk-on-the-march-as-it-looks-to-triple-saudi-arabian-investments",
+  "date": "2025-11-25",
+  "title": "BlackRock Stock (BLK) on the March as it Looks to Triple Saudi Arabian Investments
+
+
+",
+  "categories": ["finance"],
+  "text": "The company, which currently holds over $35 billion in investments in Saudi Arabia spanning equities, fixed income and infrastructure, is aiming to take advantage of growth in key sectors such as artificial intelligence.
+The focus includes expanding transportation and digital infrastructure, aligning with Saudi Arabia’s ambitious projects such as new airports and data centers.
+According to Grand View Research, the Saudi Arabian AI market was valued at $6.76 billion in 2024 and is projected to grow at a compound annual growth rate of 43.1% between now and 2030. An influx of investments in developing AI solutions and technology adoption across the financial, healthcare, manufacturing, and automotive sectors will “bring a paradigm shift in the regional landscape.”
+Kashif Riaz, who heads BlackRock’s financial markets advisory business in the Middle East as well as its Saudi-based investment management platform through Humain, the government-backed AI startup said: “The bulk of capital deployment has been in energy infrastructure, but I think that’ll broaden to transportation, things around digital infrastructure and data centers,” Riaz told Bloomberg.
+Trump Has the Hots for Saudi
+BlackRock opened its first office in the Middle East in 2009, establishing its Riyadh, Saudi office in 2019. It also has locations in Dubai, Abu Dhabi, Doha, and Kuwait. According to its website, BlackRock has $128 billion in assets under management for clients in the Middle East. However, as seen below, its revenue contribution trails other key areas such as the U.S. and Europe.Saudi Arabia is currently hot property in the U.S.
+Back in May, during a state visit by President Trump, the U.S. secured $600 billion in Saudi AI deals. AMD (AMD), for example, announced a $10 billion partnership with Humain to help build a next-generation AI cloud computing platform. The deal includes hardware, software, and infrastructure, with plans to power up to 500 megawatts of AI processing capacity—enough to rival the world’s largest data centers.
+Earlier this month, Trump said the U.S. would sell F-35 fighter jets to Saudi Arabia, offering Crown Prince Mohammed bin Salman a prize he’s long cherished and a boost to defense stocks like Lockheed Martin (LMT).
+
+
+"
+} ,
+
+
+
+
+{
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2025/11/25/nvidia-shares-today-google-meta-ai-chip-report.html",
+  "date": "2025-11-27",
+  "title": "Nvidia stock falls 4% on report Meta will use Google AI chips
+
+
+",
+  "categories": ["finance"],
+  "text": "Nvidia
+ shares fell on Tuesday after The Information reported that Meta
+ is considering using chips designed by Google.
+Shares of Nvidia fell as much as 7% before recovering to trade down 4.3% later in the day. Google parent Alphabet
+ was 4.2% higher after a more than 6% rally on Monday.
+On Monday, The Information reported that Meta is considering using Google’s tensor processing units, or TPUs, in its data centers in 2027. Meta may also rent TPUs from Google’s cloud unit next year, the publication reported.
+“Google Cloud is experiencing accelerating demand for both our custom TPUs and NVIDIA GPUs; we are committed to supporting both, as we have for years,” a Google spokesperson told CNBC.
+Google launched its first-generation TPU in 2018 and it was initially designed for its own internal use for its cloud computing business. Since then, Google has launched more advanced versions of its chip that are designed to handle artificial intelligence workloads.
+TPUs are a customized chip and experts say this gives Google an advantage over rivals as it can offer customers a highly efficient product for AI.
+If Meta uses the TPUs, it would be big win for Google and potential validation of the technology.
+Shares of Broadcom
+, which helps Google design its TPUs, were up more than 1% on Tuesday after an 11% rise the day before. Nvidia remains the market leader with its graphics processing units, GPUs, that have become the main piece of hardware underpinning the huge AI infrastructure build-out. While Nvidia’s dominance is unlikely to be dislodged in the near term, Google’s TPUs add further competition into the AI semiconductor market.
+Shares of Advanced Micro Devices, previously seen as offering the most credible challenger to Nvidia’s GPUs, were trading 6% lower on Tuesday. Chip designer Arm’s shares fell 4.2%.
+“There was some sense that [AMD] could be the number two [in the market] and now it’s become clear that there may not be room for that,” Gil Luria, head of technology research at D.A. Davidson, told CNBC.
+Companies building AI infrastructure have been searching for a more diversified supply of chips to reduce reliance on Nvidia.
+Meta is among the biggest spenders on AI infrastructure, with the company projecting its capital expenditures to stand between $70 billion and $72 billion this year.
+The share price moves come amid continued debate around whether there is an “AI bubble” and stretched tech company valuations.
+Nvidia has been central to the debate and the company last week reported a stronger-than-expected sales forecast for the current quarter but technology stocks fell after.
+
+
+"
+} ,
+
+
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/coinshares-pulls-plug-select-crypto-etfs-ahead-us-listing-2025-11-28/",
+    "date": "2025-11-28",
+    "title": "CoinShares pulls plug on select crypto ETFs ahead of US listing",
+    "categories": ["finance", "crypto", "etf"],
+    "text": "Nov 28 (Reuters) - CoinShares filed on Friday to withdraw its plan to launch three exchange-traded funds, as the European cryptocurrency firm plans to focus on higher-margin opportunities ahead of its U.S. listing.
+CoinShares has filed with the Securities and Exchange Commission to withdraw its registration statements for XRP ETF, solana staking ETF, and litecoin ETF. CEO Jean-Marie Mognetti said that as the U.S. market consolidates around large players in single-asset crypto ETPs, opportunities for differentiation and sustainable margins are limited, necessitating a "different playbook". Separately, the company is also winding down its CoinShares bitcoin futures leveraged (BTFX.O)
+, opens new tab
+ ETF.
+The company said it is aiming to introduce new products to the U.S. market over the next 12 to 18 months, including crypto equity exposure vehicles, thematic baskets and actively managed strategies combining crypto and other assets.
+In September, CoinShares agreed to list on the Nasdaq through a $1.2 billion merger with special purpose acquisition company Vine Hill Capital Investment Corp (VCIC.O)
+, opens new tab
+.
+Focused on crypto since 2013, CoinShares had around $10 billion in assets under management as of September, with a presence in France, Sweden, the UK, and the U.S.
+
+
+"
+  },
+
+
+
+
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/fed-cut-rates-amid-policymakers-caution-about-inflation-minutes-show-2025-11-19/",
+    "date": "2025-11-19",
+    "title": "Many Fed policymakers at last meeting were opposed to December rate cut",
+    "categories": ["finance", "monetary policy", "central banks"],
+    "text": "WASHINGTON, Nov 19 (Reuters) - A divided Federal Reserve cut interest rates last month even as policymakers cautioned that doing so could risk entrenched inflation and a loss of public trust in the U.S. central bank, the minutes from its October 28-29 meeting showed on Wednesday.
+The account of that meeting added to growing doubts that the Fed would deliver another reduction in borrowing costs at its December 9-10 gathering, with traders now giving that scenario only about a one-in-four chance. That language reflected the emerging split within the Fed over whether potential weakness in the job market should take priority over the fact that inflation has been above the central bank's target for four and a half years, has not moved much lately, and is expected to improve only slowly next year.
+While the minutes suggest a large number of the Fed's 19 policymakers did not support a rate cut next month, it does not give any indication of how close the split was among the committee's 12 voting members, an important consideration with the next meeting just three weeks away and the flow of potentially clarifying government data still not fully restored from the recent government shutdown.
+Under the revised release schedule announced by the Bureau of Labor Statistics on Wednesday, the Fed will not get updated jobs data for October or November before next month's meeting, though the delayed report for September is due out on Thursday. There has been no announcement of the schedule for updated inflation data.
+Analysts said the minutes highlighted the divisions Fed Chair Jerome Powell will have to mediate without the touchstone data reports typically at the center of the central bank's policy debates.
+"The FOMC remains far more divided than usual on the next steps for policy," Oliver Allen, senior U.S. economist at Pantheon Macroeconomics, wrote in an analysis of the minutes. "Caution will be reinforced by today's announcement from the BLS" on the release schedule.
+U.S. stocks pared gains slightly after the release of the minutes. Yields on U.S. Treasuries were higher on the day.
+Shortly before the release of the minutes, President Donald Trump repeated his criticism of Powell's stewardship of the central bank, saying he'd "love to fire his ass" for not cutting rates faster.
+
+
+
+
+
+
+"
+  },
+
+
+
+
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/bank-israel-cuts-key-rate-by-25-bps-after-gaza-ceasefire-2025-11-24/",
+    "date": "2025-11-24",
+    "title": "Bank of Israel cuts rates for first time since January 2024, future cuts to be gradual",
+    "categories": ["finance", "monetary policy", "emerging markets"],
+    "text": "JERUSALEM, Nov 24 (Reuters) - The Bank of Israel cut interest rates by a quarter-point on Monday, its first reduction in nearly two years, citing a moderation in inflation leading up to the ceasefire in Gaza and said cuts will be very gradual over the next year.
+The cut in the benchmark rate (ILINR=ECI)
+, opens new tab
+ to 4.25% from 4.5%, widely expected by analysts and financial markets, came after other global central banks had already begun to ease monetary policy and last month's U.S.-brokered truce between Israel and Palestinian militant group Hamas took hold. Bank of Israel Governor Amir Yaron told Reuters that economic conditions - mainly improved inflation data - had allowed for a rate reduction but cautioned that geopolitical risks remained, the labour market is tight, wages are rising and consumer demand is strong.
+Israel, and the world as a whole, is not going back to a zero rates environment, he said, pointing to the central bank's own forecast that the key rate would reach 3.75% by September 2026.
+"That is a still reasonable rate environment for the way we are seeing ... the ability of the economy right now to operate," Yaron said, adding that moving gradually would give policymakers the ability to monitor demand "in a way that won't require us to change course." He said that historically, countries face high inflation during wartime, hence the need to be cautious.
+The committee lowered the key rate by a quarter-point in January 2024 at the outset of the Gaza war but has taken a conservative stance since then, opting for caution during the two-year conflict while price pressures rose, largely due to supply constraints.
+But Israel's inflation rate has eased, and held steady at 2.5% in October to stay within an official 1-3% annual target range.
+The central bank acknowledged inflation has moderated in the past two months but that "forecasters project that there will be some increase in inflation at the end of the year, and that it will then decline and stabilize around the midpoint of the target range."
+At the same time, the Bank of Israel pointed to a sharp rebound in economic activity in the third quarter, gaining an annualised 12.4%, but that "its level remains lower than its long-term trend."
+Since the prior rates decision in late September, the shekel also has appreciated versus the dollar, euro and other trading partners, it said.
+"The data from recent months have... created a clear need for a cut," said Ron Tomer, president of the Manufacturers' Association.
+"The Bank of Israel’s decision to lower the interest rate is a responsible step that helps curb the appreciation and restore competitiveness to the economy," said Tomer, who called for a cut again before its next meeting in early January.
+The October 10 ceasefire in the two-year Gaza war has eased the conflict and, although looking increasingly fragile, has for now reduced geopolitical risk and eased price pressures.
+"Today’s interest rate cut joins a series of steps and clear signs — Israel is on the path to tremendous economic growth," said Finance Minister Bezalel Smotrich.
+
+
+
+
+
+
+"
+  },
+
+
+
+
+  {
+    "source": "ABC News (Australia)",
+    "url": "https://www.abc.net.au/news/2025-11-15/financial-market-meltdown-fears-as-hopes-of-rate-cut-fades/106010576",
+    "date": "2025-11-14",
+    "title": "Financial markets meltdown fears spread as US interest rate cut hopes fade",
+    "categories": ["finance", "markets", "macro"],
+    "text": "A fundamental shift in the global investment landscape appears to be underway.
+The story begins on Wall Street, where traders have dramatically re-priced, or changed their views, on the Federal Reserve's next interest rate decision. 
+The market now sees a less-than-even chance of a US interest rate cut on December 10.
+To muddy the waters, the US government shutdown means important economic data releases that would have been published may not see the light of day.
+It means there is a lack of clarity over the health of the US economy.
+This has potential implications for millions of Australians, including those in or approaching retirement and mortgage borrowers.
+The uncertainty and, frankly, fear in financial markets towards the end of this week saw heavy falls with the benchmark S&P/ASX 200 shedding 1.5 per cent or roughly $37 billion on Friday, following a 0.5 per cent fall on Thursday, plus smaller declines on Tuesday and Wednesday. The pros and cons
+AMP's head of investment strategy, Shane Oliver, helps manage billions of dollars in investments for superannuants.
+He has put together something of a ledger of reasons why the market could fall further from here:
+"Expensive valuations; worries about a bubble in AI shares and the excessive reliance of the US share market on them; uncertainty around how much central banks will cut interest rates, notably in the US and Australia; uncertainty around the lagged impact of Trump's tariffs; excessive public debt levels in several countries; and ongoing geopolitical risks," Oliver says.
+On the positive side, Oliver notes:
+"Profits notably in the US are still rising strongly. The further trade truce between the US and China has reduced risk on this front for a while," he says.
+"The US government shutdown is now over, and shares often rise after they end. Measures of investor sentiment are not showing the euphoria … and we are now entering a positive period of the year for shares from a seasonal perspective."
+Fears of AI 'bubble'
+Whether the market falls precipitously from here may come down to the performance of the US tech sector.
+Many analysts say investment in the big seven technology companies in the US represents a bubble — price rises not remotely reflecting the sort of earnings these companies can produce. Indeed, many big tech firms, including Oracle, are now swimming in debt to fund their investments.
+"We struggle to see an avenue for [Oracle's] credit trajectory to improve," CNBC reported on a Barclays' note to clients.
+But there is broader concern that the US tech sector is significantly overvalued and due for a correction, which is defined as a decline in the index of 10 per cent or more from a recent peak.
+"Short-term, we could see some weakness, especially if Nvidia's [earnings results] disappoint next week," says VanEck Australia's Anna Wu.
+Charlie Jamieson from Jamieson Coote Bonds describes Wall Street's growing tech debt as a "major issue".
+"[It's] very hard to call as it's predicated on AI success, which I can't call," he says.
+"But debt financing of AI [capital expenditure] capex is the major issue.
+"Lenders have very different expectations from equity markets."
+Marc Sumerlin, who is in the running to become the next US Federal Reserve chair, has told The Business, AI investment has just flipped from being funded by cashflow to being funded by debt, heightening investment bubble concerns. "I think we are in the beginning of a bubble forming," Mr Sumerlin warns.
+"Valuations are high, and it looks like some of the credit decisions are starting to take hold, but we're in the very early stages."
+Mr Sumerlin says investments in AI are now moving well beyond the cash flows generated by the big tech firms behind them and will need to be funded by an increasing amount of debt.
+"September is when these giant circular deals happened, and the companies are pledging money that they don't have, and so we know that that's going to have to be done with debt, probably in private markets, and that's the point at which it starts to be concerning," he adds. Ship has sailed
+Some are of the view that the long-anticipated end of a multi-decade bull run is coming to an end.
+The key reason, they say, is a fundamental shift in the interest rate outlook.
+In short, inflation in Australia and the US has not been contained, and future economic growth will further fuel price growth.
+This has potentially enormous implications for stock prices.
+The level of interest rates sets the "risk-free" rate of return — if interest rates are higher, that puts downward pressure on share prices because investors demand bigger returns on their money.President Donald Trump has signed a bill ending the longest government shutdown in US history.
+Combine this with a lack of data on the US economy as a result of the US government shutdown, and a path is cleared for a sell-down on the market.
+"[The] backdrop is changing, with Wall Street traders bracing for a data deluge now the US government is reopening," Moo Moo dealing manager Jimmy Tran wrote.
+"[The market's] questioning whether the incoming reports will lead the Federal Reserve to call a rate cut.
+"That's not looking certain for December and we're seeing investors reposition accordingly.
+"The key volatility indicator, the VIX, spiked sharply to 20, depicting the heightened uncertainty."
+Marcus Today senior portfolio manager Henry Jennings candidly has told ABC News the share market correction has now begun.
+"It has already started," he says.
+"[I] suspect downside to continue."
+AMP's Shane Oliver also believes a share market correction is on the cards, but perhaps won't kick in just yet.
+"So, while the risk of a further pullback in shares is high, a more severe fall may not come till next year," he said. Mortgage borrowers and older Australians
+The key issue for millions of Australian mortgage borrowers is that it has become clear that the hurdle for another Reserve Bank interest rate cut has become high.
+Inflation in Australia is no longer comfortably within the RBA's target band of between 2 and 3 per cent, and the jobs market, while slowing, is still relatively tight. The US is in a similar position, but there are now fears that the US unemployment rate is creeping higher.
+If investors panic about stock prices at this stage in the market cycle, a financial market shock will likely rip through the economy as well.
+Anxiety is heightened by the fact that American policymakers do not know, thanks to a lack of official data on the economy, exactly how well placed the nation is to withstand such a shock.
+More than $4 trillion in Australian superannuation savings is also on the line, much of which is invested in US stocks, especially the big tech sector.
+
+
+
+
+
+
+
+
+
+
+
+
+"
+  },
+
+
+
+
+  {
+    "source": "MarketMinute (via FinancialContent)",
+    "url": "https://markets.financialcontent.com/stocks/article/marketminute-2025-11-19-global-markets-grapple-with-persistent-inflation-and-high-interest-rates-fueling-investor-volatility",
+    "date": "2025-11-19",
+    "title": "Global Markets Grapple with Persistent Inflation and High Interest Rates, Fueling Investor Volatility",
+    "categories": ["finance", "macro", "markets"],
+    "text": "As November 2025 unfolds, the global financial landscape remains under the persistent shadow of elevated inflation and a complex, albeit moderating, interest rate environment. This intricate economic backdrop is casting a pall over global markets, leading to pronounced investor volatility and significantly impacting commodity prices. While some regions show signs of inflation cooling, the underlying pressures and the nuanced approaches of central banks worldwide are creating a challenging period for both developed and emerging economies, prompting caution among market participants.
+The immediate implications are palpable: a "limping" global economy navigating geopolitical tensions and policy fragmentation. Investors are grappling with uncertainty, reflected in fluctuating equity markets, shifting bond yields, and a strengthening US dollar. The path forward remains murky, as central banks weigh the delicate balance between taming inflation and supporting economic growth, leaving markets susceptible to sudden shifts in sentiment and policy expectations.
+The Enduring Economic Headwinds: A Closer Look
+The current economic climate is defined by inflation's stubborn grip and central banks' efforts to recalibrate monetary policy. As of November 2025, global headline inflation is projected to decline to 4.4% for the year, a modest improvement, yet the journey to the coveted 2% target is proving arduous and uneven across major economies. In the United States, the Consumer Price Index (CPI) recently accelerated to an annual rate of 2.9% in October 2025, primarily driven by persistent pressures in housing and services. Core Personal Consumption Expenditures (PCE) inflation was anticipated to climb to 4.6% (quarterly annualized) in Q3 2025, with a year-end projection of 3.4%, indicating that underlying price pressures remain a significant concern for the Federal Reserve.
+Across the Atlantic, the Euro Area anticipates a continued decline in inflation, expected to reach 2.1% in 2025, gradually aligning with the European Central Bank's (ECB) 2% target. Similarly, the United Kingdom saw inflation at 3.8% in September 2025, having peaked earlier in the year, with the Bank of England (BoE) believing it will fall towards 2% over the next year. This regional divergence highlights the varied economic realities and policy responses. Central banks, the key players in this scenario, are navigating a tightrope walk. The Federal Reserve's projected interest rate stands at 3.74% as of mid-November 2025, with market-implied probabilities of a December rate cut significantly decreasing due to renewed inflation concerns. In contrast, the Bank of England cut its interest rate to 4% in August 2025 and is expected to ease further in December, signaling a more dovish stance influenced by labor market concerns and a belief that inflation has peaked. The European Central Bank's projected rate is 1.92%, while other central banks like the Reserve Bank of Australia (RBA) at 3.57% and the Bank of Canada (BoC) at 2.26% are also adjusting their policies.
+Initial market reactions have been characterized by heightened volatility. Global stock indices have experienced declines, particularly in the euro area, and the Cboe Volatility Index (VIX) has risen significantly, reflecting increased market nervousness. While US equity investor sentiment saw some improvement in early November, fueled by easing macroeconomic concerns and optimism surrounding the AI cycle in the information technology sector, this has been tempered by concerns over high valuations and uncertainty regarding future Fed rate cuts, leading to "risk-off" sessions and stock sell-offs. Sovereign bond yields have generally risen in the US and Europe, though US Treasuries have seen demand during periods of deteriorating risk sentiment. The US dollar has strengthened amid risk-averse sentiment, while pro-cyclical currencies have weakened, illustrating the flight to safety dynamics currently at play. This complex interplay of inflation, interest rates, and market sentiment paints a picture of a global economy striving for stability amidst persistent challenges.
+Companies Navigating the Crosscurrents: Winners and Losers
+The prevailing environment of persistent inflation and high interest rates creates a distinct bifurcation in corporate performance, with certain sectors and companies poised to either thrive or struggle. Companies with strong pricing power and robust balance sheets are better positioned to absorb increased input costs and higher borrowing expenses. For instance, large-cap technology firms (
+NASDAQ: MSFT
+, 
+NASDAQ: AAPL
+, 
+NASDAQ: GOOGL
+) with dominant market positions and high-margin software or service offerings often possess the ability to pass on costs to consumers without significant demand erosion. Furthermore, the ongoing Artificial Intelligence (AI) cycle continues to fuel optimism in the information technology sector, providing a growth narrative that can partially offset broader economic headwinds. Companies deeply entrenched in this cycle, such as NVIDIA Corporation (
+NASDAQ: NVDA
+) or Advanced Micro Devices (
+NASDAQ: AMD
+), might see continued demand for their specialized hardware and software, even as borrowing costs rise for their clients.
+Conversely, companies with high debt loads, thin margins, or those heavily reliant on consumer discretionary spending are likely to face significant headwinds. Smaller businesses and startups often struggle with access to affordable capital, making expansion and even day-to-day operations more challenging when interest rates are elevated. Sectors like residential construction and automotive (
+NYSE: GM
+, 
+NYSE: F
+) are particularly vulnerable to higher mortgage and auto loan rates, which dampen consumer demand for big-ticket items. Companies in these sectors, especially those with significant capital expenditure requirements or inventory financing needs, could see their profitability squeezed. Furthermore, consumer discretionary retailers (
+NYSE: AMZN
+, 
+NYSE: WMT
+) might experience reduced sales volumes as inflation eroding purchasing power and consumers prioritize essential goods over non-essential ones.
+The impact on commodity prices also creates winners and losers. While the prompt mentions commodity prices are impacted, the specific direction is crucial. If inflation continues to drive up commodity prices (e.g., energy, certain raw materials), companies involved in extraction and production (
+NYSE: XOM
+, 
+NYSE: CVX
+ for oil and gas; 
+NYSE: FCX
+ for copper) could see increased revenues, assuming demand remains resilient. However, companies that are net consumers of commodities across various industries, from manufacturing to food production, will face higher input costs, which, if not effectively managed or passed on, will compress profit margins. The intricate dance between inflation, interest rates, and commodity markets means that companies with agile supply chains, efficient cost management, and diversified revenue streams are best equipped to navigate these turbulent waters, while those with less flexibility may find themselves struggling to maintain profitability and market share.
+Wider Significance: Reshaping the Global Economic Fabric
+The prolonged battle against inflation and the sustained period of high interest rates are not merely transient market events; they are fundamentally reshaping the global economic fabric, with far-reaching implications that extend beyond immediate market reactions. This environment fits into a broader trend of deglobalization and supply chain re-evaluation, accelerated by recent geopolitical tensions. The focus on "reshoring" or "friend-shoring" production, while potentially increasing supply chain resilience, often comes at a higher cost, contributing to persistent inflationary pressures even as demand moderates. The current scenario underscores the shift from a decade of ultra-low interest rates and quantitative easing to a more restrictive monetary policy stance, a significant pivot for central banks worldwide.
+The ripple effects on competitors and partners are substantial. Companies with strong balance sheets and access to cheaper financing can acquire struggling competitors or invest in new technologies, consolidating market power. Conversely, partners in supply chains, particularly smaller businesses, may face increased financing costs, leading to disruptions or even failures, which can then cascade through larger ecosystems. Regulatory and policy implications are also emerging. Governments are under pressure to provide fiscal relief to citizens grappling with higher living costs, potentially leading to increased public debt. There's also a growing debate about the appropriate level of central bank independence and the tools available to combat inflation without stifling economic growth. Some policymakers might advocate for targeted industrial policies to bolster domestic production and reduce reliance on volatile global supply chains.
+Historically, periods of persistent inflation and high interest rates, such as the late 1970s and early 1980s, offer valuable, albeit not perfectly analogous, precedents. During those times, aggressive monetary tightening by central banks, notably the Federal Reserve under Paul Volcker, eventually brought inflation under control but at the cost of significant economic slowdowns and recessions. While today's economic structure differs in terms of globalization, technology, and labor market dynamics, the core challenge remains: how to deflate price pressures without triggering a severe downturn. The current environment also highlights the increasing fragmentation of global economic policy, with different central banks pursuing divergent paths based on their domestic economic conditions, potentially leading to currency volatility and trade imbalances. This complex interplay of trends, policies, and historical lessons suggests that the current economic challenges are systemic and will likely necessitate adaptive strategies from businesses, governments, and investors alike.
+What Comes Next: Navigating the Uncertain Path Ahead
+The coming months and years will be crucial in determining the long-term trajectory of the global economy amidst persistent inflation and elevated interest rates. In the short term, markets will remain highly sensitive to incoming economic data, particularly inflation reports and central bank communications. Any signs of inflation re-accelerating could prompt further hawkish rhetoric from central banks, leading to increased market volatility and potential further rate hikes in some regions. Conversely, a clearer trend of disinflation, coupled with signs of economic softening, could pave the way for more significant interest rate cuts, potentially boosting equity markets. Investors should brace for continued swings as central banks finely tune their policies, reacting to evolving economic conditions. The market-implied probability of Fed rate cuts, for instance, has already seen significant shifts, underscoring the dynamic nature of expectations.
+For businesses, strategic pivots and adaptations will be paramount. Companies will need to focus on enhancing operational efficiency, optimizing supply chains to mitigate inflationary pressures, and carefully managing debt loads. Innovation, particularly in areas like automation and artificial intelligence, could offer avenues for cost reduction and productivity gains, providing a competitive edge. Market opportunities may emerge in sectors that are traditionally resilient during economic downturns, such as utilities, healthcare (
+NYSE: JNJ
+, 
+NYSE: PFE
+), and certain consumer staples (
+NYSE: PG
+, 
+NYSE: KO
+), which tend to offer more stable demand. Additionally, companies with strong cash flows and undervalued assets might become attractive acquisition targets.
+Looking further ahead, several potential scenarios and outcomes could unfold. One scenario involves a "soft landing," where inflation gradually recedes without triggering a deep recession, allowing central banks to ease monetary policy in a controlled manner. This would likely lead to a more stable and potentially growth-oriented market environment. Another possibility is a more prolonged period of "stagflation," characterized by persistent inflation alongside sluggish economic growth, which would present significant challenges for both businesses and investors. Finally, a "hard landing" scenario, involving a deeper recession, could occur if central bank tightening proves too aggressive or if external shocks materialize. Investors should closely monitor geopolitical developments, commodity price movements, and the labor market, as these factors will be key determinants of the economic path forward and will necessitate agile portfolio adjustments.
+Comprehensive Wrap-up: A New Era of Financial Prudence
+The current era of persistent inflation and high interest rates marks a significant departure from the accommodative monetary policies of the past decade, ushering in a new paradigm for global financial markets. The key takeaway is the pervasive uncertainty and the need for heightened financial prudence. While inflation shows signs of moderating in some regions, its stickiness in core components, particularly in the US, means that central banks are unlikely to revert to ultra-low rates anytime soon. This sustained higher cost of capital will continue to influence corporate investment decisions, consumer spending, and government fiscal policies.
+Moving forward, the market will likely remain characterized by increased volatility and a greater emphasis on fundamental value. Companies with strong balance sheets, sustainable business models, and the ability to adapt to changing cost structures will be better positioned to weather the storm. Investors should prioritize diversification, focus on long-term investment horizons, and be prepared for continued fluctuations in asset prices. The days of easy money and rapidly inflating asset bubbles appear to be behind us, at least for the foreseeable future.
+What investors should watch for in the coming months includes the trajectory of core inflation metrics, the employment data, and, crucially, the forward guidance from major central banks regarding their monetary policy intentions. Any unexpected shifts in these indicators could trigger significant market reactions. Geopolitical stability and the resolution of ongoing supply chain issues will also play a critical role in shaping the economic outlook. Ultimately, this period demands a cautious yet adaptable approach, as the global economy navigates a complex transition towards a potentially more disciplined and fundamentally driven financial environment.
+
+
+"
+  },
+
+
+
+
+
+
+{ 
+  "source": "Reuters",
+  "url": "https://www.reuters.com/world/trump-says-us-will-permanently-pause-migration-third-world-countries-2025-11-28/",
+  "date": "2025-11-27",
+  "title": "Trump says US will permanently pause migration from 'Third World Countries'",
+  "categories": ["politics", "immigration", "us"],
+  "text": "Nov 27 (Reuters) - U.S. President Donald Trump said on Thursday his administration will ‘permanently pause’ migration from all ‘Third World Countries’, following the death of a National Guard member in an attack near the White House.
+The comments mark a further escalation of migration measures Trump has ordered since the shooting on Wednesday that investigators say was carried out by an Afghan national who entered the U.S. in 2021 under a resettlement program. Trump did not identify any countries by name or explain what he meant by third-world countries or "permanently pause". He said the plan would include cases approved under former President Joe Biden's administration.
+"I will permanently pause migration from all Third World Countries to allow the U.S. system to fully recover, terminate all of the millions of Biden illegal admissions, including those signed by Sleepy Joe Biden’s autopen, and remove anyone who is not a net asset to the United States," he said on his social media platform, Truth Social. 'NON-COMPATIBLE WITH WESTERN CIVILIZATION'
+Trump said he would end all federal benefits and subsidies for "non-citizens", adding he would "denaturalize migrants who undermine domestic tranquility" and deport any foreign national deemed a public charge, security risk, or "non-compatible with Western civilization."
+White House and U.S. Citizenship and Immigration Services did not immediately respond to Reuters' requests for comment.
+U.N. agencies appealed to Washington to continue allowing asylum seekers access to the country and to be given due process. "We expect all countries, including the United States, to honour their commitments under the 1953 Refugee Convention," Farhan Haq, the deputy spokesperson for the U.N. secretary general, told Reuters.
+U.N. human rights office spokesperson Jeremy Laurence told a Geneva press briefing: ‘They are entitled to protection under international law, and that should be given due process.’
+TRUMP CLAIMS HUNDREDS OF THOUSANDS OF MIGRANTS ARE UNVETTED" Trump's remarks followed the death on Thursday of National Guard member Sarah Beckstrom, 20, who was shot in the ambush. Fellow Guardsman Andrew Wolfe,24, was "fighting for his life", Trump said. Earlier, officials from the Department of Homeland Security said Trump had ordered a widespread review of asylum cases approved under Biden's administration and Green Cards issued to citizens of 19 countries.
+The alleged gunman, identified by officials as 29-year-old Rahmanullah Lakanwal, was granted asylum this year under Trump, according to a U.S. government file seen by Reuters.
+He entered the U.S. in a resettlement program set up by Biden after the U.S. military withdrawal from Afghanistan in August 2021 that led to the rapid collapse of the Afghan government and the country's takeover by the Taliban.
+In a separate post prior to his "permanently pause" announcement, Trump claimed that hundreds of thousands of people poured into the U.S. totally "unvetted and unchecked" during what he described as the "horrendous" airlift from Afghanistan.
+The U.S. Citizenship and Immigration Services on Wednesday stopped processing all immigration requests relating to Afghan nationals indefinitely.
+TRUMP PUSHES REVERSE MIGRATION
+Trump indicated that his administration's goals are aimed at significantly reducing "illegal and disruptive populations", suggesting that measures would be taken to achieve this outcome.
+"Only REVERSE MIGRATION can fully cure this situation."
+Even though Lakanwal was in the country legally, the incident bolsters Trump's immigration agenda. Cracking down on both legal and illegal immigration has been a key focus of his presidency, and this case gave him an opportunity to broaden the debate beyond legality to include stricter vetting of immigrants.
+Trump has already deployed additional immigration officers to major U.S. cities to achieve record deportation levels, including many long-term residents and individuals with no criminal record.
+Over two-thirds of the roughly 53,000 people arrested by U.S. Immigration and Customs Enforcement and detained as of November 15 had no criminal convictions, according to ICE statistics.”
+}
+{ 
+  "source": "Reuters",
+  "url": "https://www.reuters.com/world/europe/germany-says-trump-should-invite-south-africa-g20-summit-2025-11-27/",
+  "date": "2025-11-27",
+  "title": "Germany says Trump should invite South Africa to G20 summit",
+  "categories": ["politics", "foreign_policy", "g20"],
+  "text": "JOHANNESBURG/BERLIN, Nov 27 (Reuters) - Germany said on Thursday that it would seek to persuade Donald Trump to reverse his decision to exclude South Africa from next year's G20 summit in Florida following the U.S. president's false claims that the country mistreated its white minority.
+Since taking office for a second time in January, Trump has repeatedly alleged that South Africa's black-majority government persecutes its white population. In May, Trump confronted President Cyril Ramaphosa at the White House with widely discredited reports of a genocide of white farmers that has also been mentioned by Trump's South African-born ally Elon Musk. Washington boycotted the G20 leaders' meeting in Johannesburg this month, citing "human rights abuses" in South Africa. The group adopted a declaration addressing the climate crisis and other global challenges, despite U.S. objections.
+Trump said in a Wednesday social media post "South Africa has demonstrated to the world they are not a country worthy of membership anywhere" and that he would not invite it to next year's summit. Ramaphosa's spokesperson Vincent Magwenya told Reuters that "a lot" of G20 members had sent private messages of support to South Africa, without identifying specific countries.
+German Chancellor Friedrich Merz said publicly that he would seek to persuade Trump to extend an invitation to South Africa.
+"In my view, the G7 and G20 are formats that should not be made smaller without good reason," Merz told reporters in Berlin. "I will try to convince him (Trump) to invite the South African government as well." SOUTH AFRICA SAYS WON'T BE CANVASSING OTHER G20 MEMBERS
+Ramaphosa's office said South Africa would continue to participate in the G20 and "does not appreciate insults from another country about its worth in participating in global platforms".
+However his spokesperson said South Africa would not lobby individual nations for support.
+"We ... understand and appreciate that at a bilateral level, some of these countries are in a precarious sort of position with the United States," Magwenya told local radio station 702. In his Wednesday post, Trump cited as a reason for excluding Pretoria from G20 meetings that it had refused to hand off the G20 presidency to a representative from the U.S. Embassy at the end of the Johannesburg summit.
+South Africa says the U.S. delegation was not present at the summit and that the presidency was handed over to an embassy official this week.
+U.S. COULD DENY VISAS TO SOUTH AFRICAN OFFICIALS
+It is unclear how Trump could formally exclude South Africa, a founding member of the G20, from the next summit. Sikho Luthango, a researcher at the Cambridge University Institute for Sustainability Leadership focused on the G20, said the U.S. could deny its representatives visas. The diplomatic standoff adds pressure to ongoing U.S.-South Africa trade negotiations, already strained by Washington's imposition of a 30% tariff on imports from South Africa in August - one of the highest in Africa.
+In February, Trump also signed an executive order to cut U.S. financial assistance to South Africa, most of which went to the fight against HIV/AIDS."
+}
+{ 
+  "source": "Reuters",
+  "url": "https://www.reuters.com/world/europe/us-peace-plan-ukraine-drew-russian-document-sources-say-2025-11-26/",
+  "date": "2025-11-26",
+  "title": "Exclusive: US peace plan for Ukraine drew from Russian document, sources say",
+  "categories": ["politics", "foreign_policy", "ukraine"],
+  "text": "Nov 26 (Reuters) - The U.S.-backed 28-point peace plan to end the war in Ukraine, which became public last week, drew from a Russian-authored paper submitted to the Trump administration in October, according to three sources familiar with the matter.
+The Russians shared the paper, which outlined Moscow's conditions for ending the war, with senior U.S. officials in mid-October, following a meeting between U.S. President Donald Trump and Ukrainian President Volodymyr Zelenskiy in Washington, the sources said.  The paper, a non-official communication known in diplomatic parlance as a "non-paper," contained language that the Russian government had previously put forward at the negotiating table, including concessions that Ukraine had rejected such as ceding a significant chunk of its territory in the east.
+This is the first confirmation that the document - whose existence was initially reported by Reuters in October - was a key input in the 28-point peace plan. The U.S. State Department and the Russian and Ukrainian embassies in Washington did not respond to a request for comment.
+The White House did not comment directly on the non-paper but cited Trump's comments that he was optimistic about the 28-point plan's progress.
+"In the hopes of finalizing this Peace Plan, I have directed my Special Envoy Steve Witkoff to meet with President Putin in Moscow and, at the same time, Secretary of the Army Dan Driscoll will be meeting with the Ukrainians," Trump wrote.  It is unclear why and how the Trump administration had come to rely on the Russian document to help shape its own peace plan. Some senior U.S. officials who reviewed it, including Secretary of State Marco Rubio, believed the demands made by Moscow would likely be rejected outright by the Ukrainians, the sources said.
+SKEPTICISM OVER RUSSIAN INFLUENCE
+After the paper's submission, Rubio held a call with Russian Foreign Minister Sergei Lavrov during which the paper was discussed, the sources said. Speaking to reporters in Geneva this week, Rubio acknowledged receiving "numerous written non-papers and things of this nature," without elaborating.
+Since the peace plan was first reported by Axios last week, skepticism has mounted among U.S. officials and lawmakers, many of whom see the plan as a list of Russian positions and not a serious proposal.
+The United States has put pressure on Ukraine, nonetheless, warning it could curb its military assistance, opens new tab if Ukraine did not sign. The plan was composed at least in part during a meeting between Trump's son-in-law Jared Kushner, special envoy Steve Witkoff and Kirill Dmitriev, the head of one of Russia's sovereign wealth funds, in Miami last month. Few inside the State Department and White House were briefed on that encounter, two sources familiar with the matter told Reuters.
+On Tuesday, Bloomberg reported that Witkoff had offered advice to high-ranking Kremlin aide Yuri Ushakov regarding how Putin should speak to Trump. According to call transcripts obtained by the news agency, Ushakov and Witkoff alluded to a possible "20-point plan" as early as October 14. The scope of that plan apparently widened during subsequent conversations with Dmitriev, it added.
+PLAN REVISED AFTER GLOBAL BACKLASH
+The U.S. proposal, which caught officials in Washington and Europe off-guard, triggered a flurry of diplomacy across three continents. The original plan has changed dramatically since then: Nine of the original 28 points have been cut following talks between senior U.S. and Ukrainian officials, according to ABC News.
+A bipartisan group of U.S. senators said on Saturday that Rubio had told them the 28-point plan was not a U.S. plan but instead a Russian wish list, although the White House and State Department vigorously denied that Rubio had characterized it as such.
+In the discussions that followed, a senior U.S. delegation that included Rubio agreed to excise or modify some of the most pro-Russian parts of the plan during meetings in Geneva with European and Ukrainian officials.
+Driscoll is currently meeting with a Russian delegation in Abu Dhabi. A Ukrainian delegation is also in the UAE for talks with the U.S. team, according to a U.S. official.
+On Tuesday, Ukrainian officials said they supported the modified peace deal framework that had emerged from the latest talks, but stressed that the most sensitive issues - territorial concessions are especially contentious - needed to be fixed at a potential meeting between Zelenskiy and Trump."
+}
+{ 
+  "source": "Reuters",
+  "url": "https://www.reuters.com/world/us/us-house-returns-washington-vote-end-government-shutdown-2025-11-11/",
+  "date": "2025-11-12",
+  "title": "US House returns to Washington for vote to end government shutdown",
+  "categories": ["politics", "congress", "budget", "us"],
+  "text": "WASHINGTON, Nov 11 (Reuters) - Members of the House of Representatives headed back to Washington on Tuesday, after a 53-day break, braving the congestion at the nation's tangled airports for a vote that could bring the longest U.S. government shutdown in history to a close.
+With nearly 1,200 flights canceled on Tuesday due to the shutdown, lawmakers including Republican Representatives Rick Crawford of Arkansas and Trent Kelly of Mississippi said they were carpooling to the Capitol, while Representative Derrick Van Orden said he was making the 16-hour drive from Wisconsin on his motorcycle. "It's going to be a little chilly, but I will do my duty," the Republican lawmaker said in a video posted to social media.
+The Republican-controlled House is due to vote Wednesday afternoon on a compromise that would restore funding to government agencies and end a shutdown that started on October 1 and is now in its 42nd day. The Republican-controlled Senate approved the deal on Monday night and House Speaker Mike Johnson has said he expects it to pass his chamber as well. President Donald Trump is expected to sign it into law. "We're opening up our country. Should have never been closed," he said at a Veterans Day event in Arlington, Virginia.
+The deal would extend funding through January 30, setting the stage for another potential shutdown showdown and leaving the federal government for now on a path to keep adding about to its $38 trillion in debt.
+Within days, the U.S. government could be fully functional again, bringing relief to federal workers who have missed paychecks and low-income families who depend on food subsidies. However, it could take several days for the nation's air travel system to return to normal. The deal has divided Democrats, who had sought to extend healthcare subsidies for 24 million Americans past the end of the year, when they are due to expire. Senate Republicans have agreed to hold a separate vote on those subsidies in December, but there is no guarantee it will pass the chamber, and Johnson has yet to say whether the House will even hold a vote.
+Johnson has kept the House out of session since it passed a stopgap funding bill on September 19, in a bid to pressure Senate Democrats to reopen the government. Trump, for his part, withheld billions of dollars from Democratic-led states and cities and sought to fire thousands of federal workers from what he termed "Democrat agencies."  The Democratic Party's liberal base has reacted to the deal with fury, arguing that Senate Democrats had capitulated in a fight they were winning.
+A late October Reuters/Ipsos poll found that 50% of Americans blamed Republicans for the shutdown, while 43% blamed Democrats.
+Trump has unilaterally canceled billions of dollars in spending and trimmed federal payrolls by hundreds of thousands of workers, intruding on Congress' constitutional authority over fiscal matters.
+The deal does not appear to include any specific guardrails to prevent Trump from enacting further spending cuts.
+However, it would stall his campaign to downsize the federal workforce, prohibiting him from firing employees until January 30.
+The deal would also ensure that the SNAP food aid program for the poor, which has been disrupted by the shutdown, would continue uninterrupted until September 30, 2026, the end of the fiscal year. "
+}
+{ 
+  "source": "Reuters",
+  "url": "https://www.reuters.com/world/us/live-us-house-vote-bill-that-could-end-longest-government-shutdown-2025-11-12/",
+  "date": "2025-11-13",
+  "title": "How the US government shutdown ended – as it happened",
+  "categories": ["politics", "congress", "budget", "us"],
+  "text": "Trump signed legislation ending the longest government shutdown in U.S. history, roughly two hours after the House of Representatives voted for a bill to restart government funding.
+
+
+The Republican-controlled chamber passed the package by a vote of 222-209, in the face of vehement opposition from House Democrats, who are angry that the long standoff failed to secure a deal to extend federal health insurance subsidies.
+
+
+The vote came on the House's first day in session since mid-September, and also set the clock ticking on a vote to release all unclassified records related to the late convicted sex offender Jeffrey Epstein, something Johnson and Trump have resisted up to now.
+
+
+Democrat Adelita Grijalva, who won a September special election to fill the Arizona seat of her late father, Raul Grijalva, was sworn in. She provided the final signature needed for a petition to force a House vote on the Epstein records issue, hours after House Democrats released a new batch of Epstein documents.
+
+
+The funding package would also allow eight Republican senators to seek hundreds of thousands of dollars in damages for alleged privacy violations stemming from the federal investigation of the January 6, 2021, attack on the U.S. Capitol by Trump's supporters.
+
+
+We are wrapping our coverage of the passing of the bill to end the longest U.S. shutdown in history now, but you can follow all further developments here. The 43-day government shutdown disrupted funds for food assistance, suspended pay for hundreds of thousands of federal workers and hobbled the air-traffic control system, leading to thousands of cancelled flights.  Trump's signature on the bill will:
+
+
+Bring federal workers idled by the 43-day shutdown back to their jobs starting as early as Thursday, although just how quickly full government services and operations will resume is unclear.
+Extend funding through January 30, leaving the federal government on a path to keep adding about $1.8 trillion a year to its $38 trillion in debt.
+Offer some hope that services crucial to air travel would have some time to recover ahead of the Thanksgiving holiday travel wave in two weeks away.
+Restore food aid to millions of families which may also make room in household budgets for spending as the Christmas shopping season moves into high gear.
+In coming days, restore the flow of data on the U.S. economy from key statistical agencies. The absence of data had left investors, policymakers and households largely in the dark about the health of the job market, the trajectory of inflation and the pace of consumer spending and economic growth overall. Some data gaps are likely to be permanent, however, with the White House saying employment and Consumer Price Index reports covering the month of October might never be released."
+}
+{ 
+  "source": "Reuters",
+  "url": "https://www.reuters.com/sustainability/sustainable-finance-reporting/us-government-opens-back-up-deep-political-divisions-remain-2025-11-13/",
+  "date": "2025-11-13",
+  "title": "US government opens back up but deep political divisions remain",
+  "categories": ["politics", "congress", "budget", "us"],
+  "text": "Nov 13 (Reuters) - The U.S. government is due to lumber back to life on Thursday after the longest shutdown in U.S. history snarled air traffic, cut food assistance to low-income Americans and forced more than 1 million workers to go unpaid for more than a month.
+But the deep political divisions that caused the 43-day shutdown in the first place remain unresolved. The funding package contains few guardrails to restrain Republican President Donald Trump from withholding spending, in an administration that has regularly challenged Congress' constitutional authority over money. And it does not address the soon-to-expire health subsidies that led Senate Democrats to begin the shutdown in the first place.  "
+}
+{ 
+  "source": "Reuters",
+  "url": "https://www.reuters.com/world/us/its-over-now-2025-11-13/",
+  "date": "2025-11-13",
+  "title": "The U.S. shutdown is over, for now",
+  "categories": ["politics", "congress", "budget", "us"],
+  "text": "Reflects on the political fallout from the shutdown’s end, describing how both Republicans and Democrats continue to trade blame while the White House seeks to frame the standoff as a strategic win. The shutdown also exposed divides within the Democratic Party between its liberal base, which has demanded its leaders do whatever necessary to rein in Trump, and moderates who feel their options are limited so long as Republicans hold majorities in both chambers of Congress. Senate Democratic Leader Chuck Schumer is facing calls to step down, even though he voted against the deal.
+Roughly 1.4 million federal workers, who had toiled without pay through the shutdown, will begin to receive back pay on Saturday with all payments due to be completed by Wednesday, the White House said. Trump's White House had threatened to withhold pay for some of those workers, though there was no indication that it would do so. "I'm happy to see all my coworkers again. I brought in some pastries for everybody so we can enjoy our first day back," said federal employee Stanley Stocker as he arrived at the Department of the Interior.
+Trump fired several thousand workers during the shutdown, but the funding deal that reopened the government ensures they will keep their jobs. Trump's administration ordered agencies to revoke their dismissals within five days.  The deal pauses Trump's broader downsizing campaign until the end of January. Trump is on track to reduce the 2.2 million-strong civil service by 300,000 workers by the end of the year.
+The nation's air travel system has begun returning to normal, after thousands of flight cancellations brought on by high absentee rates among the nation's air traffic controllers. The Department of Homeland Security said it would issue $10,000 bonus checks to airport security screeners who took extra shifts during the shutdown. The Agriculture Department said most states would receive funding for the SNAP food aid program within 24 hours, ending a dispute that threatened to cut off subsidies that help 42 million Americans buy groceries.
+The Smithsonian Institution said some of its high-profile museums along Washington's National Mall would reopen on Friday, while the National Zoo and other buildings would be open to the public by Monday.
+AMERICANS BLAME REPUBLICANS AND DEMOCRATS ALMOST EQUALLY The return to normality could be short-lived, as the deal only funds the government until January 30, raising the prospect of another shutdown early next year.
+Neither party appears to have emerged as a clear winner. A Reuters/Ipsos poll released on Wednesday found that 50% of Americans blamed Republicans for the shutdown while 47% blamed Democrats.
+This shutdown also stood out for what was largely absent: debate over the $38 trillion national debt, which Congress for now leaves on a path to keep growing by about $1.8 trillion per year.
+Democrats secured no guarantees on health subsidies, only a promise that the Republican-controlled Senate will hold a vote on the matter.
+But they argued that they elevated the issue at a time when polls show Americans are concerned about the rising cost of living. The subsidies benefit 24 million Americans, disproportionately residents of Republican-controlled states.
+"The healthcare of the American people is a fight worth having, and I'm proud that Democrats held together for this long to fight this battle," Representative Hank Johnson of Georgia told Reuters. "The American people are more aware of the high stakes."
+Republicans, meanwhile, argued that the shutdown had been a pointless exercise that caused needless damage - an argument Democrats have made in 2013 and 2019, when Republicans forced shutdowns over health and immigration issues.
+"This is just absolutely insane, insane that we're now using government shutdowns as leverage for policy. That can never happen," Republican Representative Brian Fitzpatrick told Reuters.
+ECONOMIC DAMAGE
+The shutdown has prevented the government from releasing an array of economic data, forcing investors and the Federal Reserve to operate in the dark as they tried to assess the state of the world's largest economy. White House economic adviser Kevin Hassett said data on the unemployment rate for October may never be available.
+The shutdown also spooked consumers ahead of the year-end holiday shopping season. The nonpartisan Congressional Budget Office estimated it would delay roughly $50 billion in spending and lower U.S. GDP by 1.5 percentage points. The CBO said the economy will largely bounce back when the shutdown ends, though up to $14 billion in lost activity will not be recovered.
+The U.S. Small Business Administration said the shutdown had delayed $5.3 billion worth of loans to 10,000 small businesses. "
+}
+{ 
+  "source": "AP News",
+  "url": "https://apnews.com/article/government-shutdown-longest-trump-republican-senators-democrats-9712df6c11ef19c5df8f18c8a4f7b341",
+  "date": "2025-11-05",
+  "title": "Trump lashes out and Democrats dig in as shutdown sets record",
+  "categories": ["politics", "congress", "budget", "us"],
+  "text": "WASHINGTON (AP) — President Donald Trump lashed out Wednesday at Senate Republicans to end the government shutdown, now the longest ever at 36 days, blaming the impasse for the party’s defeat in closely-watched elections while Democrats, emboldened by their off-year victories, dug in for a fight.
+
+
+Trump, whose first term at the White House set the previous government shutdown record, said this one was a “big factor, negative” in Tuesday’s races. He revived his demands for Republicans to end the Senate filibuster as a way to reopen government — something senators have refused to do.
+
+
+At the same time, Democrats hardened their resolve after sweeping governor’s races in Virginia and New Jersey and the mayor’s race in New York. The Democratic leaders said Trump needs to get serious about negotiating an end to the stalemate and resolve the problem of expiring health care subsidies that are central to the debate.
+
+
+“The election results ought to send a much needed bolt of lightning to Donald Trump that he should meet with us to end this crisis,” said Senate Democratic Leader Chuck Schumer of New York. Now into a sixth week, the shutdown and its impacts have deepened nationwide. The federal closures are disrupting the lives of millions of Americans with program cuts, flight delays and workers scrambling to make do without paychecks. Officials have warned of a worsening climate to come, including chaos in the skies. The Federal Aviation Administration said it will reduce air traffic starting Friday in major markets. Expectations were high that the logjam would break once results were tallied in elections that were widely watched as a gauge of voter sentiment over Trump’s second term.
+
+
+
+
+But Trump’s demands on Wednesday that Republican senators get rid of the filibuster as a way to end the shutdown complicated an already difficult situation. And Democrats facing divisions within their progressive and moderate ranks said the results showed that voters will reward them for the fight. “It’s time for Republicans to do what they have to do, and that’s terminate the filibuster,” Trump said during a breakfast meeting Wednesday with GOP senators at the White House.
+
+
+Trump told the GOP senators they could bring the shutdown to a close by ending the Senate rule, which requires a 60-vote threshold for advancing most legislation, and steamroll the Democratic minority. Republicans now hold a 53-47 majority in the Senate, and Democrats have been able to block legislation that would fund the government, having voted more than a dozen times against.
+
+
+That push from Trump is likely to go unheeded by Republican senators — Senate Majority Leader John Thune said later changing the filibuster does not have support and is “not happening” — but it could spur them to deal with the Democrats.
+
+
+Trump sets another shutdown record
+Trump’s approach to the shutdown stands in marked contrast to his first term, when the government was partially closed for 35 days over his demands for money to build the U.S.-Mexico border wall. At that time, he met publicly and negotiated with congressional leaders. Unable to secure the money, he relented in 2019.
+
+
+This time, Trump stayed out of the shutdown debate, instead keeping a robust schedule of global travel and events, including at his private Mar-a-Lago club in Florida. And it’s not just Trump declining to engage in talks. The congressional leaders are at a standoff, and House Speaker Mike Johnson, R-La., sent lawmakers home in September after they approved their own funding bill, refusing further negotiations. The Democrats said Trump’s postelection unease with the shutdown should spark talks. But they also question whether the Republican president will keep his word, particularly after the administration restricted SNAP food aid despite court orders to ensure funds are available to prevent hunger.
+
+
+And while moderate Democrats are quietly working toward an offramp, progressive Democrats are holding out for the best deal possible.
+
+
+“It would be very strange for the American people to have weighed in, in support of Democrats standing up and fighting for them, and within days for us to surrender without having achieved any of the things that we’ve been fighting for,” said Sen. Chris Murphy, D-Conn.
+
+
+In the meantime, food aid, child care money and countless other government services are being seriously interrupted. Hundreds of thousands of federal workers have been furloughed or expected to come to work without pay.
+
+
+“Can this be over now?” Thune, R-S.D., said as he returned from the White House breakfast. “Have the American people suffered enough?” Skyrocketing health insurance costs at issue
+Central to any resolution will be a series of agreements that would need to be upheld not only by the Senate, but also by the House, and the White House, which is not at all certain.
+
+
+Senators from both parties are pushing to ensure the normal government funding process in Congress can be put back on track, eyeing a smaller package of bills that has widespread support to fund various aspects of government such as agricultural programs and military construction projects at bases.
+
+
+More difficult, a substantial number of senators also want some resolution to the standoff over the funding for the Affordable Care Act subsidies that are set to expire at year’s end.
+
+
+With insurance premium notices being sent, millions of people are experiencing sticker shock on skyrocketing prices. The loss of enhanced federal subsidies, which were put in place during the COVID-19 pandemic and come in the form of tax credits, are expected to leave many people unable to buy health insurance.
+
+
+Republicans are reluctant to fund the health care program, also known as Obamacare, without changes, but negotiating a compromise with Democrats is expected to take time, if a deal can be reached at all.
+
+
+Thune has promised Democrats at least a vote on their preferred health care proposal, as part of any deal to reopen government. But that’s not enough for some senators, who see the health care deadlock as part of their broader concerns with Trump’s direction for the country and want assurance it will be resolved."
+}
+{ 
+  "source": "AP News",
+  "url": "https://apnews.com/article/virginia-new-jersey-trump-election-democrat-republican-fad109893cfd4be5b49a5bb1b0138d8d",
+  "date": "2025-11-04",
+  "title": "Takeaways on Election Day 2025",
+  "categories": ["politics", "elections", "us"],
+  "text": "WASHINGTON (AP) — Democrats dominated the first major Election Day since President Donald Trump returned to the White House.
+
+
+And while a debate about the future of the Democratic Party may have only just begun, there are signs that the economy — specifically, Trump’s inability to deliver the economic turnaround he promised last fall — may be a real problem for Trump’s GOP heading into next year’s higher-stakes midterm elections.
+
+
+Democrats on Tuesday won governor’s races in Virginia and New Jersey, the only states electing new chief executives this year. They also swept a trio of state Supreme Court contests in swing-state Pennsylvania and ballots measures from Colorado to Maine. Trump was largely absent from the campaign trail, but GOP candidates closely aligned themselves with the president, betting that his big win last year could provide a path to victory this time. They were wrong. Democrats are hoping the off-year romp offers a new winning playbook, but some caution may be warranted. Tuesday’s elections were limited to a handful of states, most of which lean blue, and the party that holds the White House typically struggles in off-year elections. Meanwhile, Republicans in Washington may be more excited than Democrats that a self-described democratic socialist will become New York City’s next mayor.
+
+
+Here’s some top takeaways:
+
+
+
+
+A new Democratic playbook emerges
+Former Rep. Abigail Spanberger will become Virginia’s next governor — and its first female chief executive — while Rep. Mikie Sherrill won the New Jersey governor’s office by running campaigns focused largely on the economy, public safety and health care.
+
+
+Early results showed Democrats outperforming their margins from four years ago in fast-growing suburbs, rural areas and even places with high concentrations of military voters.
+
+
+The Democrats won by actively distancing themselves from some of the Democratic Party’s far-left policies and emphasized what Spanberger described in her victory speech as “pragmatism over partisanship.” A growing collection of Democratic leaders believe the moderate approach holds the key to the party’s revival after the GOP won the White House and both congressional chambers last year.
+
+
+Above all, the Democrats in both states focused on rising costs such as groceries, energy and health care, which Trump has struggled to control. In addition to tacking to the middle on economic issues, Spanberger and Sherrill downplayed their support for progressive priorities, including LGBTQ rights and resistance against Trump’s attack on American institutions. Spanberger rarely even mentioned Trump’s name on the campaign trail. Both also have resumes that appealed to the middle.
+
+
+Spanberger is a former CIA case officer who spent years abroad working undercover, while Sherrill spent a decade as an active-duty helicopter pilot for the Navy before entering Congress. Both played up their public safety backgrounds as a direct response to the GOP’s attack that Democrats are soft on crime. It’s (still) the economy, stupid
+Trump and his Republican allies have been especially focused on immigration, crime and conservative cultural issues.
+
+
+But voters who decided Tuesday’s top elections were more concerned about the economy, jobs and costs of living. That’s according to the AP Voter Poll, an expansive survey of more than 17,000 voters in New Jersey, Virginia, California and New York City suggesting that many voters felt they can’t get ahead financially in today’s economy. Ironically, the same economic anxieties helped propel Trump to the White House just one year ago. Now, the economic concerns appear to be undermining his party’s political goals in 2025 — and could be more problematic for the GOP in next year’s midterm elections, which will decide the balance of power for Trump’s final two years in office.
+
+
+That’s even as Trump regularly brags about stock prices booming and boasted about leading a new renaissance of American manufacturing.
+
+
+About half of Virginia voters said the economy was the most important issue facing their state while most New Jersey voters said either taxes or the economy were the top issue in their state. Just over half of New York City voters said cost of living was their top concern.
+
+
+It was unclear whether kitchen table concerns weighing so heavily on voters might help break the impasse that has prompted the government shutdown, which has spanned more than a month. This was the first election since Trump’s return to the presidency and voters rejected candidates and causes aligned with his Republican Party from Virginia and Pennsylvania to Maine and New Jersey. It was, in fact, difficult to point to any significant victory for Trump’s party.
+
+
+They also expressed strong feelings about the direction of the country under his leadership.
+
+
+About 6 in 10 voters in Virginia and New Jersey said they are “angry” or “dissatisfied” with the way things are going in the country today, according to the AP Voter Poll. Just one-third said they are “enthusiastic” or “satisfied.” In a sign of the extent of the GOP’s struggles, Republicans lost the Virginia attorney general’s race to Democrat Jay Jones, who was forced to apologize after text messages surfaced weeks before Election Day in which he depicted the murder of political opponents. Fearing a bad night, Trump tried to distance himself from the election results.
+
+
+The president endorsed Ciattarelli in New Jersey but held only a pair of tele-town halls on his behalf, including one Monday night. Trump also did a Monday night tele-town hall for Virginia Republican candidates, but he focused mostly in favor of the GOP candidate for attorney general, who also lost.
+
+
+Despite Trump’s distance, his policies — including his “big, beautiful” budget bill and his massive cuts to the federal workforce — played a central role in Virginia, New Jersey and even New York City’s mayoral contest. And the Republicans in each refused to distance themselves from the president or his agenda.
+
+
+The results left the president ducking blame.
+
+
+“TRUMP WASN’T ON THE BALLOT, AND SHUTDOWN, WERE THE TWO REASONS THAT REPUBLICANS LOST ELECTIONS TONIGHT,” according to pollsters, he posted on his social media account.
+
+
+Trump planned to have breakfast Wednesday at the White House with Senate Republicans who have so far opposed his calls to end the shutdown by abandoning the legislative filibuster, the 60-vote minimum needed to pass most major legislation though the Senate. Moderates won in Virginia and New Jersey. But it was a self-described democratic socialist who cruised to victory in New York City.
+
+
+Zohran Mamdani, a 34-year-old state legislator who backs radical changes to address economic inequality, will serve as the next mayor of the nation’s largest city.
+
+
+His bold agenda and inspirational approach helped generate the largest turnout in a New York City mayoral race in at least three decades. It also spooked some business leaders and voices in the Jewish community, who otherwise support Democrats but oppose some of Mamdani’s past statements about personal wealth accumulation and Israel. Trump, who actually endorsed Mamdani’s independent opponent, former Democratic Gov. Andrew Cuomo, falsely called Mamdani a communist on the eve of the election.
+
+
+Some Republicans in Washington were quietly rooting for a Mamdani victory. Even before his win was final, Republican campaign committees launched attack ads against more than a dozen vulnerable House Democrats in New York and New Jersey linking them to Mamdani and his far-left politics.
+
+
+The ad campaign is expected to extend to Democrats across the country ahead of next year’s midterms.
+
+
+More Democratic wins
+The Democratic successes extended beyond Virginia, New Jersey and New York.
+
+
+In Pennsylvania, Democrats swept all three elections for state supreme court justices. The wins could have implications for key cases involving redistricting and balloting for midterm elections — and the 2028 presidential race — in the nation’s most populous swing state.
+
+
+Conservative causes struggled on ballot questions in other states as well.
+
+
+Maine voters defeated a measure that would have mandated showing an ID at the polls while approving a “red flag” rule meant to make it easier for family members to petition a court to restrict a potentially dangerous person’s access to guns.
+
+
+Colorado approved raising taxes on people earning more than $300,000 to fund school meal programs and food assistance for low-income state residents. And in California, Gov. Gavin Newsom, frequently mentioned as a 2028 presidential hopeful, led a triumphant charge to redraw congressional maps to give Democrats as many as five more House seats in upcoming elections.
+
+
+The push is the centerpiece of a Democratic effort to counter new Republican maps in Texas and elsewhere that were drawn to boost the GOP’s chances in next year’s fight to control Congress. For the new maps to count in 2026, however, Californians had to vote on a yes-or-no ballot question known as Proposition 50. It was easily approved.
+ "
+}
+{ 
+  "source": "AP News",
+  "url": "https://apnews.com/article/election-2025-results-takeaways-charts-e440e2b57f751acb5e173ab35aab1bc6",
+  "date": "2025-11-07",
+  "title": "Takeaways from the 2025 general election, in charts",
+  "categories": ["politics", "elections", "us"],
+  "text": "WASHINGTON (AP) — After voters swung toward Republican Donald Trump during last fall’s presidential election, states like Virginia and New Jersey swung back towards Democratic candidates at nearly the same velocity as 2024’s shift, an Associated Press analysis of election data from this week found.
+
+
+From populous suburbs to big cities to military-heavy counties, this year’s electorate moved decisively towards the Democratic Party. Some of these areas had the largest shifts towards Trump last year, particularly in New York and New Jersey, but on Tuesday, the returns more closely resembled 2020 margins.
+
+
+This came alongside relatively high turnout, at least compared to recent off-year elections, suggesting that one pattern of the last decade in American politics — Republicans doing well when Trump is on the ballot, and Democrats doing better when he is not — continues to hold.
+
+
+The AP’s analysis is based off county- and precinct-level data. In all cases, 2025 margins are as of 10:45 a.m. on Nov. 7. Additional votes will be counted as election officials tabulate late-arriving mail and provisional ballots. Here are some of the findings. Virginia and New Jersey, the two states that elect governors in the year following a presidential election, both have a tradition of moving against the party in the White House.
+
+
+Starting in 1976, every time a party has won back control of the presidency, Virginia voters have chosen a governor from the opposing party the following year. And in New Jersey, voters elected a governor from the opposite party of the sitting president in every election from 1989 to 2017.
+
+
+Democrats Abigail Spanberger and Mikie Sherrill continued this trend with double-digit victories.
+
+
+Spanberger’s victory was especially notable for its scale. In the last 12 Virginia gubernatorial elections, the average margin of victory was 8.6 percentage points.
+
+
+Spanberger’s 14.4-point win — coming a year after Democratic presidential nominee Kamala Harris won the state by just 5.8 percentage points — was bolstered by big margins in Northern Virginia, home to Washington, D.C., suburbs heavily affected by federal government cuts and the ongoing government shutdown. It also greatly exceeded former President Joe Biden’s 10.1-point victory in 2020. These shifts helped Spanberger win 15 counties and independent cities that her predecessor, Republican Gov. Glenn Youngkin, had won four years earlier. Six of those jurisdictions — Spotsylvania, Lynchburg, Nelson, Waynesboro, Prince Edward and Surry — also supported Trump in 2024.
+
+
+Spanberger also benefited from a spending advantage of around $27 million and Trump’s reluctance to endorse her Republican opponent.
+
+
+In succeeding term-limited Democratic Gov. Phil Murphy, Sherrill not only restarted New Jersey’s history of voting for the party not in power but also broke a 60-year streak. No party has held the New Jersey governorship for more than three consecutive terms since the 1960s, when a two-term Democratic governor succeeded another two-term Democratic governor.
+
+
+Recent voting patterns in New Jersey suggested the governor’s race could have been much tighter. And in addition to receiving Trump’s endorsement, Republican Jack Ciattarelli kept pace with Sherrill in terms of spending.
+
+
+He also got close the election prior. Ciattarelli came within 3 points of ousting Murphy in 2021. And between Ciattarelli’s 2021 and 2025 campaigns, Trump made massive inroads in New Jersey: He flipped five counties that Biden won in 2020 and cut the Republican margin in the state down to just 5.9 percentage points.
+
+
+How presidential margin shifted in New Jersey from 2020 to 2024
+
+
+
+
+Sherrill’s 13.5-point win indicated a return to pre-2024 levels. While she fell short of Biden’s 15.9-point win, she returned all five of the counties Trump flipped to the Democratic column. She also improved on Harris’ margin in Bergen County, the state’s largest, by more than 8 points. Some of Tuesday’s elections were notable outliers in terms of the number of people they brought to the polls, while others were more in line with past races.
+
+
+In New York City, state assemblymember Zohran Mamdani juiced turnout in his successful primary campaign and built on that in the general election. More than two million New Yorkers voted for mayor this year, a level of voter enthusiasm the city hasn’t seen in a mayoral election since 1969, when John Lindsay won a second term.
+
+
+The governor races were more of a mixed bag. New Jersey had the highest turnout rate in a governor election since 2009, when Republican Chris Christie beat incumbent Democrat Gov. Jon Corzine. As of Friday morning, this year’s turnout was just under 50%.
+
+
+Virginia’s turnout rate was just shy of 2021 levels as of Friday morning. It is not yet clear if turnout in 2025 will meet or exceed 2021 as ballots continue to be counted.
+
+
+Mamdani made strides among voters of color
+
+
+
+
+Before the general election, Mamdani drew skepticism from political pundits for perceived weakness with some voters of color in New York City. While he did well in June’s primary among neighborhoods with large Asian and Muslim populations, he generally fell short of former Gov. Andrew Cuomo in predominantly Black and Hispanic neighborhoods.
+
+
+The general election was a different story. Whether it was because of outreach, the benefit of running on the Democratic ballot line, or his mega-viral campaign videos, Mamdani won nearly every single majority Black and majority Hispanic neighborhood.
+
+
+In general, Mamdani did well in areas and among demographics that moved toward Trump over the last two presidential elections.
+
+
+Forty-seven New York City neighborhoods shifted at least 25 points towards Trump in 2024. Mamdani won 37 of them.
+
+
+Mamdani won most of the city’s neighborhoods that experienced the greatest shift right in 2024
+
+
+
+
+And a year after Trump eroded Democrats’ advantage among young voters nationally, Mamdani won about three-quarters of voters under the age of 30, according to the AP Voter Poll.
+
+
+
+
+
+
+California becomes the first state to draw more Democratic seats
+There was only one race on the ballot in California, but it had major implications for control of the U.S. House in next year’s midterm elections. In passing Proposition 50, which temporarily substitutes a Democratic-drawn congressional map for the map created by an independent redistricting commission, California voters could flip as many as five Republican-held U.S. House seats next year.
+
+
+
+
+
+
+California became the first state to adopt a new map that would add Democratic seats. Four other states — Texas, Missouri, North Carolina and Ohio — have also enacted new maps since Trump began encouraging states to redistrict over the summer. Those four states all changed their district lines to create winnable Republican seats.
+
+
+Federal workers voted blue...
+
+
+
+
+Two groups that have been particularly affected by the ongoing government shutdown are military families and federal workers. Many in these groups have been furloughed or are working without pay as the shutdown stretches into a sixth week.
+
+
+Democrats sought to capitalize on this in both gubernatorial campaigns.
+
+
+In Virginia, home to one of the largest concentrations of federal workers as well as major military bases, federal workers in particular supported Spanberger.
+
+
+...Military households were more split
+
+
+
+
+
+
+
+
+Households with a current or former member of the military were evenly split between the two candidates in Virginia and favored Ciattarelli in New Jersey.
+
+
+"
+}
+{ 
+  "source": "AP News",
+  "url": "https://apnews.com/article/virginia-new-jersey-new-york-california-election-d5fe9ff4175bba3af0ff8f2811b75b34",
+  "date": "2025-11-02",
+  "title": "Election 2025: What to watch on Nov. 4",
+  "categories": ["politics", "elections", "us"],
+  "text": "WASHINGTON (AP) — One year after Donald Trump retook the White House and set into motion a dramatic expansion of executive power, the Republican president figures prominently in state and local elections being held Tuesday.
+
+
+The results of those contests — the first general election of Trump’s second term — will be heralded by the victors as either a major repudiation or resounding stamp of approval of his second-term agenda. That’s especially true in high-profile races for Virginia and New Jersey governor, New York City mayor and a California proposition to redraw its congressional district boundaries.
+
+
+More than half of the states will hold contests on Tuesday. Here’s a look at some of the major statewide and local races on the ballot:
+
+
+
+
+Governors: New Jersey and Virginia
+In New Jersey, Democrat Mikie Sherrill and Republican Jack Ciattarelli are the nominees to succeed term-limited Democratic Gov. Phil Murphy. Sherrill is a four-term U.S. representative and former Navy helicopter pilot. Ciattarelli is a former state Assemblyman backed by Trump. In 2021, Ciattarelli came within about 3 percentage points of toppling Murphy.
+
+
+In Virginia, Republican Lt. Gov. Winsome Earle-Sears and Democratic former U.S. Rep. Abigail Spanberger look to replace term-limited Republican Gov. Glenn Youngkin. While Spanberger has made some efforts to focus on topics other than Trump in stump speeches, the president remained a major topic of conversation throughout the campaign, from comments Earle-Sears made about him in 2022 to some of his more polarizing policies, such as the so-called One Big Beautiful Bill tax and spending cut measure and the widespread dismissal of federal workers, many of whom live in northern Virginia.
+
+
+
+
+
+
+
+
+As the only gubernatorial races held in the year following a presidential election, the contests have long served as the first major test of voter sentiment toward the party holding the White House. In every race for governor since 1973, one or both states have elected a governor from a party different than that of the sitting president.
+
+
+
+
+New York City Mayor
+The race to lead the nation’s largest city features Democratic state legislator Zohran Mamdani, independent candidate and former Democratic Gov. Andrew Cuomo and Republican Curtis Sliwa.
+
+
+Mamdani’s comfortable victory over Cuomo in the June primary generated excitement from the party’s more progressive wing and apprehension among the party establishment. Party leaders like Gov. Kathy Hochul and U.S. House Democratic leader Hakeem Jeffries eventually endorsed the self-described democratic socialist months after he won the nomination.
+
+
+The winner will replace outgoing Mayor Eric Adams, who initially sought renomination as a Democrat. After losing the primary Adams opted to run as an independent, but dropped out of the race in September and eventually endorsed Cuomo. In February, the Trump Justice Department asked a court to drop corruption charges against Adams because the case impeded Trump’s “ immigration objectives.” Trump later said he’d like to see both Adams and Sliwa drop out of the race in an effort to defeat Mamdani.
+
+
+
+
+California Proposition 50
+California voters will decide a statewide ballot measure that would enact a new congressional map that could flip as many as five Republican-held U.S. House seats to Democratic control.
+
+
+Proposition 50, championed by Democratic Gov. Gavin Newsom, is in response to a new Texas map that state Republicans enacted in August as part of Trump’s efforts to keep the U.S. House under Republican control in the 2026 midterms. The Texas plan, which could help Republicans flip five Democratic-held U.S. House seats, has sparked an escalating gerrymandering arms race among states to pass new maps outside of the regular once-a-decade schedule.
+
+
+Pennsylvania Supreme Court
+Control of the Pennsylvania Supreme Court will be at stake when voters cast Yes or No votes on whether to retain three justices from the high court’s 5-2 Democratic majority.
+
+
+Partisan control of the court could have major implications for the 2028 presidential race, since justices might be asked to rule on election disputes, as they did in 2020. Spending on Tuesday’s contests is on track to exceed $15 million as Republicans have campaigned to end the majority and Democrats have responded.
+
+
+If all three justices are ousted, a deadlock in the confirmation process to replace them could result in a court tied at 2-2. An election to fill any vacant seats for full 10-year terms would be held in 2027.
+
+
+
+
+Other notable contests
+VIRGINIA ATTORNEY GENERAL: Republican incumbent Jason Miyares seeks a second term against Democrat Jay Jones. Much of the fall campaign has focused on text messages suggesting violence against political rivals that Jones sent in 2022.
+
+
+TEXAS-18: Sixteen candidates hope to fill a vacant congressional seat previously held by the late Democratic U.S. Rep. Sylvester Turner.
+
+
+STATE LEGISLATURES: Control of the Minnesota Senate and Virginia House of Delegates is at stake, while New Jersey Democrats defend their 52-28 General Assembly majority.
+
+
+BALLOT MEASURES: Maine voters will decide statewide questions on voting and a “red flag” law aimed at preventing gun violence. Texas’ 17 ballot measures include constitutional amendments on parental rights and limiting voting to U.S. citizens. Colorado and Washington also have statewide measures on the ballot.
+
+
+MAYORS: Detroit, Pittsburgh, Jersey City and Buffalo will elect new mayors, while incumbents in Atlanta, Minneapolis and Cincinnati seek another term."
+},
+    {
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/trump-aims-boost-ai-innovation-build-platform-harness-government-data-2025-11-24/",
+      "date": "2025-11-24",
+      "title": "Trump aims to boost AI innovation, build platform to harness government data",
+      "categories": ["technology", "politics"],
+      "text": "WASHINGTON, Nov 24 (Reuters) - U.S. President Donald Trump on Monday signed an executive order to launch a government-wide effort to build an integrated artificial intelligence platform to harness federal scientific datasets to train next-generation technologies.
+The effort, dubbed the Genesis Mission, aims to transform scientific research and speed scientific discoveries by using massive government scientific datasets "to train scientific foundation models and create AI agents to test new hypotheses, automate research workflows, and accelerate scientific breakthroughs." Trump directed the U.S. Energy Department and U.S. National Laboratories "to unite America’s brightest minds, most powerful computers, and vast scientific data into one cooperative system for research."
+DOE will create a closed-loop AI experimentation platform integrating U.S. supercomputers and datasets to generate foundation models and power robotic laboratories.
+Michael Kratsios, who heads the White House Office of Science and Technology Policy, said the effort aims to unlock federal datasets and "massively accelerate the rate of scientific breakthrough." He said the Genesis Mission aims to use AI to "automate experiment design, accelerate simulation and generate predictive models for everything from protein folding to fusion plasma dynamics. This will shorten discovery timelines from years to days or even hours."
+Energy Secretary Chris Wright noted the massive private-sector investment in AI but said the government wanted to pivot those efforts to "focus on scientific discovery, engineering advancements, and to do that, you need the data sets that are contained across our national labs." The order pays particular attention to U.S. national, economic, and health security, including biotechnology, critical materials, nuclear fission and fusion energy, space exploration, quantum information science, semiconductors and microelectronics.
+Trump has prioritized winning the AI race against China. Soon after taking office in January, Trump ordered his administration to produce an AI Action Plan that would make "America the world capital in artificial intelligence" and reduce regulatory barriers to its rapid expansion. He also rescinded an AI safety executive order signed by his predecessor Joe Biden.
+"
+    },
+
+
+
+
+    {
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/retail-consumer/amazon-invest-15-billion-indiana-boost-data-center-infrastructure-2025-11-24/",
+      "date": "2025-11-24",
+      "title": "Amazon to invest $15 billion in Indiana to boost data center infrastructure",
+      "categories": ["technology"],
+      "text": "Nov 24 (Reuters) - Amazon.com (AMZN.O)
+, opens new tab
+ is planning to invest about $15 billion in Northern Indiana to build data center campuses, the tech giant said as it looks to boost its cloud computing capacity to support booming artificial intelligence demand.
+The new data center project, which comes on top of an $11 billion outlay announced last year, will add 2.4 gigawatts of capacity in the region, Amazon said on Monday. It is also expected to create 1,100 jobs". The e-commerce behemoth, which is also the largest cloud services provider in the world, has invested more than $31.3 billion in Indiana since 2010.
+Tech companies like Alphabet (GOOGL.O)
+, opens new tab
+, Microsoft (MSFT.O)
+, opens new tab
+ and Meta (META.O)
+, opens new tab
+ are spending billions of dollars to develop AI infrastructure, even though the returns from the investments have been low.
+Earlier in the day, Amazon also announced plans to invest up to $50 billion to expand AI and supercomputing capabilities for U.S. government customers of its cloud unit, Amazon Web Services. The Monday announcements are two separate investments, Amazon said.
+For the Indiana project, Amazon has struck an agreement with NIPSCO, one of Indiana's top natural gas and electric companies, for the project.
+The company has agreed to pay fees to use existing power and cover the costs for any new power needs for the data center project, without additional costs for local residents and businesses.
+    },
+    {
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/apple-cuts-jobs-across-its-sales-organization-bloomberg-news-reports-2025-11-24/",
+      "date": "2025-11-24",
+      "title": "Apple cuts jobs across sales team",
+      "categories": ["technology"],
+      "text": "Nov 24 (Reuters) - Apple (AAPL.O)
+, opens new tab
+ said on Monday it is cutting jobs across its sales teams to strengthen its customer engagement efforts, noting that only a small number of roles will be impacted by the layoffs.
+An Apple spokesperson told Reuters that the company is continuing to hire and the affected employees can apply for new roles. The impacted employees include account managers serving major businesses, schools and government agencies, according to Bloomberg News, which had reported the news earlier in the day. Staff who operate Apple's briefing centers for institutional meetings and product demonstrations for prospective customers were also affected, Bloomberg said.
+One of the major targets of the layoffs was a government sales team working with agencies, including the U.S. Defense Department and Justice Department, per the report.
+The team had already been facing tough conditions after the 43-day government shutdown and cutbacks imposed by the Department of Government Efficiency, or DOGE, Bloomberg added.
+
+
+"
+    },
+    {
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/retail-consumer/amazon-pushes-in-house-ai-coding-tool-kiro-over-competitors-memo-shows-2025-11-25/",
+      "date": "2025-11-25",
+      "title": "Amazon pushes in-house AI coding tool Kiro over competitors', memo shows",
+      "categories": ["technology"],
+      "text": "SAN FRANCISCO, Nov 24 (Reuters) - Amazon suggested its engineers eschew AI code generation tools from third-party companies in favor of its own, a move to bolster its proprietary Kiro service, which it released in July, according to an internal memo viewed by Reuters.
+In the memo, posted to Amazon's internal news site, the company said, "While we continue to support existing tools in use today, we do not plan to support additional third party, AI development tools." "As part of our builder community, you all play a critical role shaping these products and we use your feedback to aggressively improve them," according to the memo.
+The guidance would seem to preclude Amazon employees from using other popular software coding tools like OpenAI's Codex, Anthropic's Claude Code, and those from startup Cursor.
+That is despite Amazon having invested about $8 billion into Anthropic and reaching a seven-year $38 billion deal with OpenAI to sell it cloud-computing services. Amazon has been fighting a reputation that it is trailing competitors in development of AI tools as rivals like OpenAI and Google speed ahead. Kiro is Amazon's homegrown AI tool for code generation, the technique for creating websites and apps using just plain English commands. It relies in large part on versions of coding tools from Anthropic, but not specifically Claude Code.
+"To make these experiences truly exceptional, we need your help," according to the memo, which was signed by Peter DeSantis, senior vice president of AWS utility computing, and Dave Treadwell, senior vice president of eCommerce Foundation. "We're making Kiro our recommended AI-native development tool for Amazon." The internal guidance comes on the heels of Amazon widening Kiro's availability last week to a worldwide audience along with some new features.
+Spokespeople for Anthropic, OpenAI and Cursor did not immediately respond to requests for comment. An Amazon spokesperson confirmed the memo.
+Codex, Cursor and Claude Code have become popular ways for engineers to quickly spin up new services. Cursor, for instance, was valued at nearly $30 billion after completing a funding round earlier this month. In October, Amazon revised its internal guidance for OpenAI's Codex to "Do Not Use" following a roughly six month assessment, according to a memo reviewed by Reuters. And Claude Code was briefly designated as "Do Not Use," before that was reversed following a reporter inquiry at the time.
+
+
+"
+    },
+    {
+      "source": "Reuters",
+      "url": "https://www.reuters.com/technology/tax-customs-police-raid-two-amazon-sites-italy-china-smuggling-probe-sources-say-2025-11-24/",
+      "date": "2025-11-24",
+      "title": "Amazon suspected of acting as 'Trojan horse' in Italy customs fraud case",
+      "categories": ["technology"],
+      "text": "MILAN, Nov 24 (Reuters) - Italian police raided two Amazon (AMZN.O)
+, opens new tab
+ sites on Monday as part of a growing investigation into alleged customs and tax fraud involving Chinese imports, three sources with direct knowledge of the case said.
+Prosecutors suspect the e-commerce giant acted like a "Trojan horse", bringing Chinese goods into Italy without paying sales taxes or customs duties, according to a court document seen by Reuters. The scheme could have cost the state hundreds of millions of euros and may extend across the European Union, sources said.
+Dozens of officers from the Guardia di Finanza and the customs agency seized around 5,000 products at a logistics hub operated by the e-commerce giant in Cividate al Piano, in the northern province of Bergamo, the sources said.
+At Amazon’s Italian headquarters in central Milan, police seized IT equipment and identified the manager responsible for the movement of goods within Italy. Amazon declined to comment on the raids but said it was "committed to complying with all applicable tax laws and we cooperate fully with all relevant authorities".
+NEW LINE OF INQUIRY STEMMING FROM PREVIOUS CASE
+Among the products seized at the Bergamo centre were toys, mobile phone covers, air fryers, pens and small scissors.
+The case is a new line of inquiry stemming from an investigation into an alleged 1.2 billion euro tax evasion case.
+Milan prosecutors, working with the Monza branch of the Guardia di Finanza, suspect that goods are being imported from China into Europe and then moved into Italy through undisclosed channels to be distributed and sold via Amazon’s marketplace. This constitutes smuggling and violates EU customs laws, prosecutors say.
+Three sources said the number of products involved could reach half a million, with dozens of Italian companies, many believed to be fronts for Chinese entities, part of the scheme.
+It was not immediately clear what impact the raids would have on Amazon operations in Italy.
+PROBE EXPECTED TO EXPAND TO OTHER EU NATIONS, SOURCES SAY
+The investigation is expected to be extended to the rest of the 27-nation EU, a source said. Milan prosecutors were summoned in July to The Hague headquarters of the EU agency for criminal justice cooperation, Eurojust, where they presented their inquiry to counterparts from several EU countries including Germany, France, the Netherlands, Poland, Spain, Belgium, Sweden and Ireland.
+Disputes over customs duties and sales taxes have fueled growing tensions with the United States over the past year, but it is unclear how this case involving China will be viewed in Washington and Brussels. EU PROSECUTORS ALSO INVESTIGATING AMAZON'S ACCOUNTS
+In the original 1.2 billion euro tax evasion case, Milan prosecutors investigated three managers and Amazon's Luxembourg-based European unit over alleged tax fraud related to online sales in Italy between 2019 and 2021.
+In relation to that case, Italy's tax agency has submitted a settlement proposal to Amazon on which the U.S. group must decide by December.
+Prosecutors believe Amazon’s algorithm enables goods from non-EU sellers, mostly Chinese, to be sold in Italy without identifying the supplier, helping them avoid VAT.
+Under Italian law, platforms offering goods for sale are jointly liable for unpaid taxes by non-EU sellers.
+Amazon has previously said it complies with all tax laws.
+Separately, the European Public Prosecutor's Office has opened its own investigation into Amazon’s accounts from 2021 to 2024 after new EU rules imposed stricter sales tax obligations on marketplaces.
+"
+    },
+    {
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/india/google-accel-partner-back-indian-ai-startups-2025-11-25/",
+      "date": "2025-11-25",
+      "title": "Google, Accel partner to back Indian AI startups",
+      "categories": ["technology"],
+      "text": "BENGALURU, Nov 25 (Reuters) - Alphabet's Google (GOOGL.O)
+, opens new tab
+ and venture capital firm Accel will partner to fund at least 10 early-stage Indian AI startups, marking the U.S. technology giant's first such funding partnership, top executives at the companies said on Thursday.
+The move comes as several U.S. tech firms like Microsoft (MSFT.O)
+, opens new tab
+, Amazon (AMZN.O)
+, opens new tab
+ and OpenAI make a beeline for the world's most populous nation, seen as a critical growth market where nearly a billion users access the internet. Under the partnership, Google's AI Futures Fund and Accel will co-invest up to $2 million in each startup, Prayank Swaroop, partner at Accel, told Reuters in an interview, with the investments focussed on the wide areas of entertainment, creativity, work and coding.
+The announcement comes after Google in October said it would invest $15 billion over five years to set up an AI data centre in the southern Indian state of Andhra Pradesh, its biggest-ever investment in the country. Its AI Futures Fund, launched six months ago, has funded over 30 companies, including Indian webtoon startup Toonsutra and U.S.-based legal-tech firm Harvey. Google has also teamed up with India's largest telecom operator Reliance Jio to provide free access to Gemini AI for 505 million users.
+"We firmly believe that the founders in India, they are going to be playing a leading role in defining that next era of global technology," Jonathan Silber, co-founder and director of Google's AI Futures Fund, said. "...we think that it's critical to invest in the early stage. Particularly in key markets like India, so that we can be at the forefront of investing in the next generation of AI leaders."
+India's AI market is projected to reach $17 billion by 2027, according to IT industry body Nasscom and consulting firm BCG.
+Global AI spend is seen at nearly $1.5 trillion in 2025, and will exceed $2 trillion in 2026, as per market research firm Gartner.
+"
+    },
+    {
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/alphabet-races-toward-4-trillion-valuation-ai-fueled-gains-accelerate-2025-11-24/",
+      "date": "2025-11-24",
+      "title": "Alphabet races toward $4 trillion valuation as AI-fueled gains accelerate",
+      "categories": ["technology"],
+      "text": "Nov 24 (Reuters) - Alphabet closed in on a $4 trillion valuation on Monday, set to become only the fourth company to enter the exclusive club, as the Google parent rides an artificial intelligence-driven rally.
+Shares of the company (GOOGL.O)
+, opens new tab
+ rose more than 5% to hit a record high of $315.9, giving it a market capitalization of $3.82 trillion. The stock has climbed nearly 70% so far this year, far outperforming AI rivals Microsoft (MSFT.O)
+, opens new tab
+ and Amazon.com (AMZN.O) Nvidia (NVDA.O)
+, opens new tab
+, Microsoft (MSFT.O)
+, opens new tab
+ and Apple (AAPL.O)
+, opens new tab
+ have previously hit a $4 trillion valuation. Only Nvidia and Apple remain on the list.
+The surge reflects a striking reversal in sentiment toward Alphabet after some investors feared the company had lost its AI edge to OpenAI after the 2022 launch of ChatGPT, even though it invented much of the underlying technology behind generative AI.
+Alphabet has regained momentum this year by turning its cloud business, once an also-ran, into a key growth driver, drawing in Warren Buffett's Berkshire Hathaway (BRKa.N)
+, opens new tab
+ as an investor and winning strong early reviews for its new Gemini 3 model. Steve Sosnick, chief market analyst at Interactive Brokers, said Berkshire's stake has been a key draw for investors.
+"Even though it's doubtful Warren Buffett had any role in this purchase ... the market is still in the mindset of anything Berkshire does is worth emulating and to be fair, that's worked for a long time," Sosnick said.
+Google shares have also rallied as Big Tech emerged in recent months largely unscathed from the bipartisan antitrust push that began in U.S. President Donald Trump's first term. The company sidestepped a forced sale of its Chrome browser after a court found its search business to be an illegal monopoly but stopped short of ordering a breakup.
+Still, the milestone may fan fears about surging valuations that some business leaders warn have detached market movements from business fundamentals, sparking worries of a bubble reminiscent of the dot-com boom of the 1990s.
+A wave of circular deals involving OpenAI and Nvidia - two of the companies at the heart of the AI boom - have also amplified the fears. Still, analysts said Google is well-positioned in the AI race, thanks to its strong cash flow, in-house chips that serve as an alternative to Nvidia's pricey processors and a sprawling internet search business that is already benefiting from AI integration.
+
+
+"
+    },
+    {
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/autos-transportation/how-nexperia-chip-crisis-upended-auto-supply-chains-again-2025-11-24/",
+      "date": "2025-11-24",
+      "title": "How the Nexperia chip crisis upended auto supply chains - again",
+      "categories": ["technology"],
+      "text": DONGGUAN, China, Nov 24 (Reuters) - A factory next to a weed-ridden lot in China's industrial south has become a global choke point for automotive chips, upending a sector that just a few years ago swore it wouldn't be caught again by supply-chain disruptions.
+Automakers vowed to strengthen supply lines after COVID-19 snarled semiconductor output in 2020 and a Japanese factory fire aggravated the shortage a year later. But the crisis engulfing Dutch chipmaker Nexperia's plant exposed a blind spot: The industry never envisioned low-tech chips would become a lever for China against the West. "No one prepared for geopolitical disruption, and they're still not prepared," said Ambrose Conroy, CEO of U.S. firm Seraph Consulting, which advises automakers.
+The Dutch government took control of Netherlands-based Nexperia in late September, citing concerns its technology could be passed on to Chinese owner Wingtech (600745.SS)
+, opens new tab
+. Beijing retaliated by halting exports of finished Nexperia chips packaged at the plant in the Pearl River Delta. The Netherlands last week reversed course from its decision to take control of Nexperia, signalling a potential breakthrough.
+From its Dongguan factory, Nexperia ships semiconductors used in everything from car brakes to electric windows. They sell for fractions of a penny each, yet the shortage forced Nissan and Honda to cut production and drove German supplier Bosch to curtail factory working hours. This account of how the industry scrambled to respond to the unforeseen crisis is based on interviews with a dozen people, including auto executives, suppliers and chip distributors, who described how just-in-time inventory practices and limited supply-chain diversification left automakers vulnerable to geopolitical shock.
+The reporting shows how China's dominance reaches beyond cutting-edge technology and rare earths to mundane-yet-critical components and how Beijing wields that power to paralyse global production. Some details, including the size of Bosch's exposure and companies' struggles with requirements to trade in yuan, haven't previously been reported. While the Dutch government took control of the headquarters in Nijmegen, the operations in China remained under the control of Nexperia's Chinese parent.
+"The Dutch thought they had seized Nexperia, but they only took over an office building," said Li Xing, a professor of international relations at the Guangdong Institute for International Strategies, a think tank.
+"What this shows is that, even in mid- and low-end segments, they depend on China. If China wants to get a grip on you, it still can. You have no way out."
+In a statement, a spokesperson for Wingtech said Nexperia has become an industry leader since being acquired. "The current crisis shows that breaking up international companies harms supply chains and puts key industries at risk," the spokesperson said.
+China's commerce ministry didn't respond to requests for comment.
+A Nexperia spokesperson said the semiconductor industry's global complexity made it hard to foresee the impact of geopolitics.
+CASE STUDY FOR POLITICAL RISK
+Nexperia's chips were seen as so cheap and available that one European automaker didn't normally prepare alternative supplies, said one person at the carmaker. The chips are "very ordinary electronics with low prices," said this person, who like most of those interviewed spoke on condition of anonymity to discuss sensitive information.
+The Nexperia episode shows that manufacturers' strategic vulnerability stretches beyond high-tech components, said Alfredo Montufar-Helu, a managing director at Ankura Consulting in Beijing.
+Bosch didn't initially have sufficient alternatives ready, despite ordering 200 million euros ($231 million) worth of Nexperia products a year, according to a person with knowledge of the matter.
+Bosch declined to comment.
+Nexperia resumed sales to some domestic distributors in late October but required payment in yuan, instead of foreign currencies used previously. The currency change was an apparent bid by the Chinese business to operate more independently of Dutch headquarters, Reuters has reported. Ready-to-ship chips piled up at the Dongguan plant because it wasn't able to handle all the yuan transactions, according to two people briefed on the matter.
+The situation has since eased, they said.
+A Wingtech spokesperson said there hadn't been a chip backlog or systems issues with yuan payment, but didn't elaborate.
+China allowed some Nexperia exports to resume this month after U.S. President Donald Trump met with China's Xi Jinping in Busan. That came just in time for Bosch and suppliers Aumovio, ZF Group and Hella, which were days away from halting some production, according to a person briefed on the matter. Bosch, Aumovio and ZF declined to comment. A Hella spokesperson said it has maintained supply-chain stability.
+When Reuters visited the Dongguan plant on a recent weekday, some blinds were drawn and trucks came and went from a docking area. Dozens of scooters were parked outside.
+Austria's Melecs and Apple supplier JABIL have managed to source chips from Nexperia. Both have used Chinese entities, allowing them to settle in yuan, the two people briefed on the matter said.
+A Melecs spokesperson declined to comment. JABIL did not respond to multiple requests for comment.
+AUTOMAKERS DIDN'T LEARN LESSON
+The chip shortage showed automakers hadn't heeded lessons from the previous shock, said Julie Boote, autos analyst at Pelham Smithers Associates in London.
+"You would expect them to have several months' worth of supply inventory for chips," she said. "That's what they said after the last crisis."
+Nissan Chief Performance Officer Guillaume Cartier said replacing vulnerable supply chains takes time.
+"I know what everyone will tell me, 'Ah, but you didn't learn from the past,'" he told Reuters last month. "Yeah, OK. But do you believe you change all your supply in three years?"
+The Nexperia shortage forced Nissan to cut production of its top-selling Rogue SUV, Reuters has reported, and poses a continuing risk for this year.
+Conroy, the consultant, advises clients to hold extra inventory of critical components in the region where they're needed. That's a costly change for an industry that relies on "just-in-time" inventory management to minimize costs.
+Not all carmakers got whiplashed.
+Toyota instructs to stockpile several months' supply of chips as part of the business continuity plan developed after the devastating 2011 Japan earthquake, Reuters has reported.
+A Toyota spokesperson said there were risks that could impact vehicle production and they would continue to monitor developments closely.
+THE COST OF RESILIENCE
+Another supply speedbump involved how chips are integrated into vehicles. Nexperia semiconductors are widely used in components like power modules, which manage electricity, and are often soldered straight onto the components. That means they can't just be swapped out for another chip, said Nori Chiou, investment director at White Oak Capital Partners.
+Any new vehicle component needs to undergo testing that can add months to the process of securing alternative parts, Chiou said. Nexperia's spokesperson said substitution can't be completed "overnight" because parts that seem identical can perform differently in vehicles.
+Germany's Hella is considering alternative suppliers for Nexperia's chips but testing and approvals could take up to a year, longer than initially expected, according to one person in the auto-supply industry.
+Hella's spokesperson said it was shifting to "already qualified second sources wherever possible" to maintain stable supplies.
+Ankura Consulting's Montufar-Helu said preparing for chip choke points will not be easy — or cheap.
+"Everyone is going to start talking once again about building resilience, about diversification," he said. "And then they're going to realise how expensive it is."
+($1 = 0.8672 euros)
+
+
+"
+    },
+  
+             
+       {
+      "source": "Semiconductor Industry Association",
+      "url": "https://www.semiconductors.org/global-semiconductor-sales-increase-15-8-from-q2-to-q3-month-to-month-sales-grow-7-0-in-september/",
+      "date": "2025-11-03",
+      "title": "Global Semiconductor Sales Increase 15.8% from Q2 to Q3; Month-to-Month Sales Grow 7.0% in September",
+      "categories": ["technology"],
+      "text": "WASHINGTON—November 3, 2025—The Semiconductor Industry Association (SIA) today announced global semiconductor sales were $208.4 billion during the third quarter of 2025, an increase of 15.8% compared to Q2. Global sales were $69.5 billion during the month of September 2025, an increase of 25.1% compared to the September 2024 total of $55.5 billion and 7.0% more than sales in August 2025. Monthly sales are compiled by the World Semiconductor Trade Statistics (WSTS) organization and represent a three-month moving average. SIA represents 99% of the U.S. semiconductor industry by revenue and nearly two-thirds of non-U.S. chip firms.
+“Global chip sales continued to grow in the third quarter of this year, significantly outpacing sales from Q2,” said John Neuffer, SIA president and CEO. “Market growth was driven by increased demand across a range of semiconductor products, including memory and logic. And year-to-year growth was fueled by sales into the Asia Pacific region and the Americas.”
+Regionally, year-to-year sales in September were up in the Asia Pacific/All Other (47.9%), Americas (30.6%), China (15.0%), and Europe (6.0%), but decreased in Japan (-10.2%). Month-to-month sales in August increased in the Americas (8.2%), Asia Pacific/All Other (8.0%), China (6.0%), Europe (5.5%), and Japan (1.6%).
+For comprehensive monthly semiconductor sales data and detailed WSTS forecasts, consider purchasing the WSTS Subscription Package. For detailed historical information about the global semiconductor industry and market, consider ordering the SIA Databook.
+"
+    },
+    {
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/topics/semiconductors",
+      "date": "2025-11-22",
+      "title": "Memory chip prices surge amid strong demand from the AI sector: analysts",
+      "categories": ["technology"],
+      "text": "The steep rise in memory chip prices is expected to continue on the back of heightened demand from the artificial intelligence industry, while average consumers are likely to pay more for a new smartphone, according to analysts.
+
+
+
+
+
+
+
+
+
+
+
+
+Memory chip prices were forecast to increase 30 per cent in the fourth quarter this year and a further 20 per cent in 2026, following a 50 per cent surge year to date, Counterpoint Research said in a report on Thursday.
+
+
+The higher cost reflects the rapid shift in strategy for the major memory chipmakers, as they focus more on supplying large-capacity storage products for enterprises involved in AI projects and those running data centres.
+
+
+
+
+That has resulted in supplies of conventional memory products for consumer electronics being squeezed.
+
+
+LPDDR4 chips, for example, are in tight supply. These synchronous dynamic random-access memory products, designed for high-speed performance with low power consumption, are widely used in certain servers and smartphones.
+
+
+
+
+
+
+The price increase was expected to be turbocharged once US semiconductor giant Nvidia started using LPDDR4 chips in its AI servers to lower power consumption, according to Counterpoint.
+The high demand for DDR4 and LPDDR4 chips had led to a severe shortage and relentless price escalation in China, a Shenzhen-based agent of imported chips, who declined to be named, said on Friday.
+According to this agent, the memory chip shortage had become so severe on the mainland that all storage product lines had doubled their prices compared to six months ago. Prices on some of these memory chips had jumped five to sixfold, the agent added.
+
+
+
+
+The agent – who supplies to companies in the server, automotive and industrial sectors – said clients found it “extremely difficult” to cope with the increased cost, while their own demand remained stable.
+
+
+They had little choice but to “passively accept the prices or reduce their procurement volume”, the agent said.
+
+
+An Nvidia GH200 server made by Foxconn Technology Group is seen during the company’s Hon Hai Technology Day in Taipei, Taiwan, on October 18, 2023. Photo: EPA-EFE
+An Nvidia GH200 server made by Foxconn Technology Group is seen during the company’s Hon Hai Technology Day in Taipei, Taiwan, on October 18, 2023. Photo: EPA-EFE
+Average consumers have started to be affected, as Big Tech companies snap up more memory chips to build their AI infrastructure, while smartphone makers scramble to buy these chips at a higher cost.
+
+
+
+
+Further Reading
+Lenovo downplays surge in memory chip prices, pushes AI agent for devices
+China’s Huaqiangbei wholesale market sees surge in memory chip prices
+CXMT begins producing advanced LPDDR5X memory chips as China narrows tech gap
+
+
+The memory chip shortage had resulted in a 15 per cent jump in the bill of materials for some smartphone models, according to Counterpoint. It expected this supply shortage to impact the whole consumer electronics ecosystem.
+
+
+“Smartphone makers are basically taking a ‘take whatever is necessary’ approach [to absorb the rising cost],” Counterpoint senior analyst Ivan Lam said on Friday.
+
+
+“They will try to negotiate pricing and supply directly with memory chipmakers, or lower the cost through reusing some display or camera modules,” he said. “There are also technical specification downgrades or price increases in new product releases.”
+
+
+
+
+
+
+The memory price increase was already reflected in new handsets launched in the fourth quarter, such as Xiaomi’s Redmi K90.
+Xiaomi planned to offset this situation by optimising its product mix and increasing the average selling price of its products, according to company president Lu Weibing in an earnings call this week."
+    },
+ 
+        {
+      "source": "India Today",
+      "url": "https://www.indiatoday.in/technology/news/story/perplexity-brings-its-comet-ai-browser-to-android-soon-it-will-search-the-web-on-your-behalf-2823633-2025-11-21",
+      "date": "2025-11-21",
+      "title": "Perplexity brings its Comet AI browser to Android, soon it will search the web on your behalf",
+      "categories": ["technology"],
+      "text": "Perplexity has launched its Comet AI browser for Android phone users, expanding the company’s push into smartphones after rolling out the browser on desktop earlier this year. With the Android-specific browsing experience, the company aims to offer users an AI-assisted way to navigate the web directly on their smartphones. Users can access the AI browser app to automate tasks, research the web, and organise emails.
+
+
+
+
+
+
+The Android version includes the same core capabilities as its desktop counterpart. Users get an on-page AI assistant, a voice mode for hands-free interaction, and the option to set Perplexity as the default search engine. The AI assistant can answer questions related to the webpage a user is viewing, generate summaries of open tabs, and help with navigation without leaving the browser.
+
+
+What users can do on the Comet AI browser for Android
+The AI browser brings in several features, including:
+
+
+
+
+
+
+
+
+One of the key features on the Comet Android app is smart summarisation, which uses AI to produce quick, concise overviews of articles or open tabs. This summary tool helps users understand the main points of a page without reading through the entire text. It is useful when scanning reports, research material, or long-form content. “Smart summarisation on Comet for Android gives you the ability to summarise content across all your open tabs, not just the page you have open,” the company says.
+
+
+
+
+
+
+Voice Mode
+
+
+The Comet AI browser on Android also has a voice mode, allowing users to browse or request information without typing.
+
+
+AI assistant
+
+
+Comet for Android includes the same AI assistant found on desktop. Users can ask follow-up questions, get explanations, and assign tasks for the assistant to handle directly within the browser.
+
+
+More features coming soon
+Perplexity has confirmed that more capabilities are on the way. These include a conversational agent that can search across multiple websites and perform actions directly, custom shortcuts to speed up routine tasks, and a built-in password manager. For now, users can rely on Android’s native password manager until Perplexity’s own version is released.
+
+
+Growing competition for smarter and more automated browsing
+The launch of Comet AI for Android by Perplexity comes amid rising demand for smarter and more automated browsing tools, with new features and enhancements increasingly tailored for mobile platforms. While major competitors such as OpenAI, Opera, and The Browser Company (Arc) are still focusing primarily on desktop versions, Google’s Gemini inside Chrome offers AI features but functions more like an extension than a standalone AI browser. Perplexity, by contrast, is building an AI-centred browser with mobile support integrated from the start."
+    },
+       {
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/824786/google-gemini-synthid-ai-image-detection",
+      "date": "2025-11-21",
+      "title": "Google Gemini is getting better at identifying AI fakes",
+      "categories": ["technology"],
+      "text": "
+Google is making it easier for Gemini users to detect at least some AI-generated content. From today, you’ll be able to use the Gemini app to determine if an image was either created or edited by a Google AI tool, simply by asking Gemini “Is this AI-generated?”
+
+
+While the initial launch is limited to images, Google says verification of video and audio will come “soon,” and it also intends to expand the functionality beyond the Gemini app, including into Search.
+
+
+The more important expansion will come further down the line, when Google extends verification to support industry-wide C2PA content credentials. The initial image verification is based only on SynthID, Google’s own invisible AI watermarking, but an expansion to C2PA would make it possible to detect the source of content generated by a wider variety of AI tools and creative software, including OpenAI’s Sora.
+
+
+
+
+Google also announced that images generated by its Nano Banana Pro model, also revealed today, will have C2PA metadata embedded. It’s the second bit of good news for C2PA this week, after TikTok confirmed it would use C2PA metadata as part of its own invisible watermarking for AI-generated content.
+
+
+Manual content verification in Gemini is a useful step, but C2PA credentials, and other watermarks like SynthID, won’t be truly useful until social media platforms get better at flagging AI-generated content automatically, rather than putting the onus on users to confirm for themselves."
+    },
+        {
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2025/11/19/amazons-prime-video-is-getting-ai-generated-video-recaps-for-some-tv-shows/",
+      "date": "2025-11-19",
+      "title": "Amazon’s Prime Video is getting AI-generated Video Recaps for some TV shows",
+      "categories": ["technology"],
+      "text": "I guess we’re past the era of “and that’s what you missed on Glee.” Amazon’s Prime Video streamer is adding AI-generated “Video Recaps” to help viewers catch up between seasons of shows, the company announced on Wednesday.
+
+
+According to Amazon, the feature “utilizes generative AI to create theatrical-quality season recaps with synchronized narration, dialogue, and music.” It will begin rolling out in beta on Wednesday for select Prime Originals, like “Fallout,” “Tom Clancy’s Jack Ryan,” and “Upload.”
+
+
+Prime Video launched a similar AI-powered feature last year called “X-Ray Recaps,” which summarizes complete seasons, episodes, or parts of episodes — at the time, Amazon said that its AI model had guardrails in place to make sure that these recaps don’t inadvertently share spoilers.
+
+
+
+
+Image Credits:Prime Video
+Consumers have become accustomed to these kinds of text-based AI summaries, since they likely see them when their phone summarizes texts, or when they see a (perhaps unwanted) AI summary at the top of their Google results. But these video summaries veer into newer territory, which may appear more obtrusive in the viewing experience than text summaries — or, maybe they’ll be embraced by people who don’t remember what happened on “Bosch.”
+
+
+Prime Video’s competitors are also exploring how they can integrate generative AI into their products.
+
+
+YouTube TV, for example, uses a “Key Plays” feature to help viewers catch up on sports games if they start watching while the game is in progress. While it’s a bit imperfect (its algorithm seems to only be able to identify key offensive plays in baseball), the feature helped YouTube TV win its first Technical Emmy Award.
+
+
+Netflix, meanwhile, is using generative AI on the production side of its business.
+
+
+Earlier this year, Netflix said it used generative AI in the final footage for the first time in the Argentine show “The Eternaut” to create a scene of a building collapsing. After that, “Happy Gilmore 2” used generative AI to make characters look younger in the film’s opening scene, and the producers of “Billionaires’ Bunker” used it in pre-production to envision wardrobe and set design.
+
+
+The use of AI in the film industry has sparked much debate, as artists worry that these tools — which sometimes are trained without permission on their work — could endanger their livelihoods. But some argue that tools that speed up tedious busywork in animation or special effects, like Wonder Dynamics, could expand the capacity for artists to create."
+    }
+
+================================================================================
+Updated: 2025-12-09T17:26:33.058119
+================================================================================
+
+---
+Article 1
+Title: Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch
+Source: {'id': 'techcrunch', 'name': 'TechCrunch'}
+Published: 
+URL: https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/
+Content: Autonomous, AI-based players are coming to a gaming experience near you, and a new startup, Altera, is joining the fray to build this new guard of AI agents.
+The company announced Wednesday that it … [+6416 chars]
+---
+
+
+---
+Article 2
+Title: $450M for Noname, two billion-dollar rounds, and good news for crypto startups | TechCrunch
+Source: {'id': 'techcrunch', 'name': 'TechCrunch'}
+Published: 
+URL: https://techcrunch.com/2024/05/08/450m-for-noname-two-billion-dollar-rounds-and-good-news-for-crypto-startups/
+Content: Good news, crypto founders: Venture capital activity is picking up in your sector after falling to multi-year lows in late 2023. Put another way, venture folks appear more web3-bullish than before, e… [+1599 chars]
+---
+
+
+---
+Article 3
+Title: Watch: When did iPads get as expensive as MacBooks?
+Source: {'id': 'techcrunch', 'name': 'TechCrunch'}
+Published: 
+URL: https://techcrunch.com/2024/05/08/techcrunch-minute-when-did-ipads-get-as-expensive-as-macbooks/
+Content: Apple’s iPad event had a lot to like. New iPads with new chips and new sizes, a new Apple Pencil, and even some software updates. If you are a big fan of Apple hardware, well, it was probably a good … [+1385 chars]
+---
+
+
+---
+Article 4
+Title: Uber promises member exclusives as Uber One passes $1B run-rate | TechCrunch
+Source: {'id': 'techcrunch', 'name': 'TechCrunch'}
+Published: 
+URL: https://techcrunch.com/2024/05/08/uber-promises-member-exclusives-as-uber-one-passes-1b-run-rate/
+Content: Uber plans to deliver more perks to Uber One members, like member-exclusive events, in a bid to gain more revenue through subscriptions. 
+You will see more member-exclusives coming up where members … [+4676 chars]
+---
+
+
+---
+Article 5
+Title: Checkfirst raises $1.5M pre-seed, applying AI to remote inspections and audits | TechCrunch
+Source: {'id': 'techcrunch', 'name': 'TechCrunch'}
+Published: 
+URL: https://techcrunch.com/2024/05/08/checkfirst-raises-1-5m-pre-seed-applying-ai-to-remote-inspections-and-audits/
+Content: Weve all seen them. The inspector with a clipboard, walking around a building, ticking off the last time the fire extinguishers were checked, or if all the lights are working. They work in the TICC (… [+3279 chars]
+---
+
+
+---
+Article 6
+Title: UK challenger bank Monzo nabs another $190M as US expansion beckons | TechCrunch
+Source: {'id': 'techcrunch', 'name': 'TechCrunch'}
+Published: 
+URL: https://techcrunch.com/2024/05/08/uk-challenger-bank-monzo-nabs-another-190m-at-5-2b-valuation/
+Content: Monzo has raised another £150 million ($190 million), as the challenger bank looks to expand its presence internationally particularly in the U.S.
+The new round comes just two months after Monzo rai… [+1960 chars]
+---
+
+
+---
+Article 7
+Title: iRobot names former Timex head Gary Cohen as CEO | TechCrunch
+Source: {'id': 'techcrunch', 'name': 'TechCrunch'}
+Published: 
+URL: https://techcrunch.com/2024/05/08/irobot-names-former-timex-head-gary-cohen-as-ceo/
+Content: iRobot Tuesday announced the successor to longtime CEO, Colin Angle. Gary Cohen, who previous held chief executive role at Timex and Qualitor Automotive, will be heading up the company, marking a maj… [+2120 chars]
+---
+
+
+---
+Article 8
+Title: Google Deepmind debuts huge AlphaFold update and free proteomics-as-a-service web app | TechCrunch
+Source: {'id': 'techcrunch', 'name': 'TechCrunch'}
+Published: 
+URL: https://techcrunch.com/2024/05/08/google-deepmind-debuts-huge-alphafold-update-and-free-proteomics-as-a-service-web-app/
+Content: Google Deepmind has taken the wraps off a new version AlphaFold, their transformative machine learning model that predicts the shape and behavior of proteins. AlphaFold 3 is not only more accurate, b… [+7069 chars]
+---
+
+
+---
+Article 9
+Title: Mycocycle uses mushrooms to upcycle old tires and construction waste | TechCrunch
+Source: {'id': 'techcrunch', 'name': 'TechCrunch'}
+Published: 
+URL: https://techcrunch.com/2024/05/08/mycocycle-uses-mushrooms-to-upcycle-old-tires-and-construction-waste/
+Content: Usually, when something starts to rot, it gets pitched in the trash. But Joanne Rodriguez wants to turn the concept of rot on its head by growing fungus on trash to turn it into something better.
+We… [+4229 chars]
+---
+
+
+---
+Article 10
+Title: Controversial drone company Xtend leans into defense with new $40M round | TechCrunch
+Source: {'id': 'techcrunch', 'name': 'TechCrunch'}
+Published: 
+URL: https://techcrunch.com/2024/05/08/controversial-drone-company-xtend-leans-into-defense/
+Content: Close to a decade ago, brothers Aviv and Matteo Shapira co-founded Replay, a company that created a video format for 360-degree replays — the sorts of replays that have become part and parcel of majo… [+5398 chars]
+---
+
+
+---
+Article 11
+Title: Switch emulator Ryujinx shuts down development after “contact by Nintendo”
+Source: {'id': 'ars-technica', 'name': 'Ars Technica'}
+Published: 
+URL: https://arstechnica.com/gaming/2024/10/switch-emulator-ryujinx-shuts-down-development-after-contact-by-nintendo/
+Content: Enlarge/ These copyrighted Switch games shown on Ryujinx's former GitHub page probably didn't curry any favor with Nintendo.
+137
+Popular open source Nintendo Switch emulator Ryujinx has been remove… [+3110 chars]
+---
+
+
+---
+Article 12
+Title: Lab owner pleads guilty to faking COVID test results during pandemic
+Source: {'id': 'ars-technica', 'name': 'Ars Technica'}
+Published: 
+URL: https://arstechnica.com/science/2024/10/covid-fraudster-pleads-guilty-faces-20-years-for-role-in-83m-testing-scam/
+Content: Enlarge/ Residents line up for COVID-19 testing on November 30, 2020 in Chicago. 
+55
+The co-owner of a Chicago-based lab has pleaded guilty for his role in a COVID testing scam that raked in millio… [+2038 chars]
+---
+
+
+---
+Article 13
+Title: AI digests repetitive scatological document into profound “poop” podcast
+Source: {'id': 'ars-technica', 'name': 'Ars Technica'}
+Published: 
+URL: https://arstechnica.com/ai/2024/10/ai-digests-repetitive-scatological-document-into-profound-poop-podcast/
+Content: Enlarge/ This AI prompt stinks... or does it?
+57
+Imagine you're a podcaster who regularly does quick 10- to 12-minute summary reviews of written works. Now imagine your producer gives you multiple … [+3495 chars]
+---
+
+
+---
+Article 14
+Title: Crook made millions by breaking into execs’ Office365 inboxes, feds say
+Source: {'id': 'ars-technica', 'name': 'Ars Technica'}
+Published: 
+URL: https://arstechnica.com/security/2024/10/crook-made-millions-by-breaking-into-execs-office365-inboxes-feds-say/
+Content: 36
+Federal prosecutors have charged a man for an alleged hack-to-trade scheme that earned him millions of dollars by breaking into the Office365 accounts of executives at publicly traded companies a… [+4225 chars]
+---
+
+
+---
+Article 15
+Title: OpenAI unveils easy voice assistant creation at 2024 developer event
+Source: {'id': 'ars-technica', 'name': 'Ars Technica'}
+Published: 
+URL: https://arstechnica.com/information-technology/2024/10/openai-unveils-easy-voice-assistant-creation-at-2024-developer-event/
+Content: 28
+On Monday, OpenAI kicked off its annual DevDay event in San Francisco, unveiling four major API updates for developers that integrate the company's AI models into their products. Unlike last year… [+4956 chars]
+---
+
+
+---
+Article 16
+Title: T-Mobile pays $16 million fine for three years’ worth of data breaches
+Source: {'id': 'ars-technica', 'name': 'Ars Technica'}
+Published: 
+URL: https://arstechnica.com/tech-policy/2024/10/t-mobile-pays-16-million-fine-for-three-years-worth-of-data-breaches/
+Content: 45
+T-Mobile has agreed to pay a $15.75 million fine and improve its security in a settlement over a series of data breaches over three years that affected tens of millions of customers.
+"T-Mobile s… [+2919 chars]
+---
+
+
+---
+Article 17
+Title: Toxic chemicals from Ohio train derailment lingered in buildings for months
+Source: {'id': 'ars-technica', 'name': 'Ars Technica'}
+Published: 
+URL: https://theconversation.com/toxic-chemicals-from-ohio-train-derailment-lingered-in-buildings-for-months-heres-what-our-investigation-found-in-east-palestine-238511
+Content: Enlarge/ This video screenshot released by the US National Transportation Safety Board (NTSB) shows the site of a derailed freight train in East Palestine, Ohio.
+31
+On February 3, 2023, a train car… [+4556 chars]
+---
+
+
+---
+Article 18
+Title: “Extreme” Broadcom-proposed price hike would up VMware costs 1,050%, AT&T says
+Source: {'id': 'ars-technica', 'name': 'Ars Technica'}
+Published: 
+URL: https://arstechnica.com/information-technology/2024/10/broadcom-tried-to-jack-vmware-prices-by-1050-percent-att-claims/
+Content: 88
+Broadcom quoted AT&amp;T a 1,050 percent price hike for VMware offerings, AT&amp;T has claimed in legal documents.
+AT&amp;T sued Broadcom on August 29, accusing Broadcom of unlawfully denying it… [+5127 chars]
+---
+
+
+---
+Article 19
+Title: Car dealers renew their opposition to EV mandates
+Source: {'id': 'ars-technica', 'name': 'Ars Technica'}
+Published: 
+URL: https://arstechnica.com/cars/2024/10/car-dealers-renew-their-opposition-to-ev-mandates/
+Content: 199
+A group of more than 5,000 car dealers have made public their worries about a lack of demand for electric vehicles. Earlier this year the group lobbied the White House to water down impending fe… [+1893 chars]
+---
+
+
+---
+Article 20
+Title: eBay listings for banned chemicals shielded by Section 230, judge rules
+Source: {'id': 'ars-technica', 'name': 'Ars Technica'}
+Published: 
+URL: https://arstechnica.com/tech-policy/2024/10/ebay-defeats-doj-lawsuit-fighting-sale-of-toxic-pesticides-deadly-chemicals/
+Content: 84
+eBay has defeated a lawsuit that the US Department of Justice raised last fall, which alleged that eBay violated environmental protection and public safety laws by allowing users to sell hundreds… [+4439 chars]
+---
+
+
+---
+Article 21
+Title: The best robot vacuum and mop to buy right now
+Source: {'id': 'the-verge', 'name': 'The Verge'}
+Published: 
+URL: https://www.theverge.com/tech/625409/best-robot-vacuum-mops
+Content: <ul><li></li><li></li><li></li></ul>
+We pick the best multitasking robot floor cleaners.
+We pick the best multitasking robot floor cleaners.
+by
+Jennifer Pattison TuohyClose
+Jennifer Pattison Tuo… [+34118 chars]
+---
+
+
+---
+Article 22
+Title: The best iPad deals you can get right now
+Source: {'id': 'the-verge', 'name': 'The Verge'}
+Published: 
+URL: https://www.theverge.com/21280354/best-ipad-deals-apple
+Content: <ul><li></li><li></li><li></li></ul>
+The base iPad and iPad Mini offer the best discounts, but you can also save on the iPad Air and latest iPad Pro.
+The base iPad and iPad Mini offer the best disc… [+9514 chars]
+---
+
+
+---
+Article 23
+Title: The 34 best gifts that your teen will actually use
+Source: {'id': 'the-verge', 'name': 'The Verge'}
+Published: 
+URL: https://www.theverge.com/tech/785418/best-teen-gift-ideas-2025
+Content: <ul><li></li><li></li><li></li></ul>
+Whatever theyre into, weve rounded up the coolest gadgets and gear to make any teens holiday a little brighter.
+Whatever theyre into, weve rounded up the cooles… [+2604 chars]
+---
+
+
+---
+Article 24
+Title: The Apple Watch Series 11 just got a big $100 discount ahead of the holidays
+Source: {'id': 'the-verge', 'name': 'The Verge'}
+Published: 
+URL: https://www.theverge.com/gadgets/840161/apple-watch-series-11-holiday-deal-sale-2025
+Content: <ul><li></li><li></li><li></li></ul>
+At the discounted price, Apples latest smartwatch makes for a great gift.
+At the discounted price, Apples latest smartwatch makes for a great gift.
+by
+Brandon… [+3467 chars]
+---
+
+
+---
+Article 25
+Title: Lenovo’s next gaming laptop may have a rollable OLED screen that stretches ultrawide
+Source: {'id': 'the-verge', 'name': 'The Verge'}
+Published: 
+URL: https://www.theverge.com/news/840124/lenovo-rollable-legion-pro-gaming-laptop-rumor
+Content: <ul><li></li><li></li><li></li></ul>
+The lack of detail is suspicious, but this seems like something Lenovo would announce at CES.
+The lack of detail is suspicious, but this seems like something Le… [+2947 chars]
+---
+
+
+---
+Article 26
+Title: ICEBlock developer sues Trump administration over App Store removal
+Source: {'id': 'the-verge', 'name': 'The Verge'}
+Published: 
+URL: https://www.theverge.com/news/840164/iceblock-joshua-aaron-sues-trump-administration-apple-app-store-removeal
+Content: <ul><li></li><li></li><li></li></ul>
+Apple pulled the app in October, and Attorney General Pam Bondi said the DOJ demanded the removal.
+Apple pulled the app in October, and Attorney General Pam Bon… [+3639 chars]
+---
+
+
+---
+Article 27
+Title: It’s ugly, it’s beautiful, it’s how you know a game might be a classic
+Source: {'id': 'the-verge', 'name': 'The Verge'}
+Published: 
+URL: https://www.theverge.com/entertainment/840080/square-enix-hd2d-games-octopath-dragon-quest
+Content: <ul><li></li><li></li><li></li></ul>
+Square Enixs HD-2D titles have evolved to encompass a new philosophy for gaming graphics.
+by
+Joshua RiveraClose
+Joshua Rivera
+Posts from this author will be … [+9655 chars]
+---
+
+
+---
+Article 28
+Title: A first look at Google’s Project Aura glasses built with Xreal
+Source: {'id': 'the-verge', 'name': 'The Verge'}
+Published: 
+URL: https://www.theverge.com/tech/839392/project-aura-android-xr-software-headsets-ai-glasses
+Content: Teased at Google I/O, Project Aura is a collaboration between Xreal and Google. It's the second Android XR device (the first being Samsung's Galaxy XR headset) and is expected to launch in 2026. Putt… [+118 chars]
+---
+
+
+---
+Article 29
+Title: HP OmniBook 5 14 review: an OLED is almost enough
+Source: {'id': 'the-verge', 'name': 'The Verge'}
+Published: 
+URL: https://www.theverge.com/tech/839858/hp-omnibook-5-14-snapdragon-arm-oled-laptop-review
+Content: <ul><li></li><li></li><li></li></ul>
+A $700 laptop with a great screen and fantastic battery life? Whats the catch?
+If you buy something from a Verge link, Vox Media may earn a commission. See our … [+8115 chars]
+---
+
+
+---
+Article 30
+Title: Anthropic is bringing Claude Code to Slack
+Source: {'id': 'the-verge', 'name': 'The Verge'}
+Published: 
+URL: https://www.theverge.com/news/839817/anthropic-claude-code-slack-integration
+Content: <ul><li></li><li></li><li></li></ul>
+When you tag Claude in Slack, it will automatically scan your message for coding tasks to route to Claude Code.
+When you tag Claude in Slack, it will automatica… [+2581 chars]
+---
+
+
+---
+Article 31
+Title: Dr. Oz Tells His Federal Employees to Eat Less
+Source: {'id': 'wired', 'name': 'Wired'}
+Published: 
+URL: https://www.wired.com/story/dr-oz-centers-for-medicare-and-medicaid-services-tells-employees-to-eat-less/
+Content: Dr. Mehmet Oz, the administrator for the Centers for Medicare and Medicaid Services (CMS) and former daytime talk show star, has recently been emailing all federal workers in his agency weekly tips o… [+2555 chars]
+---
+
+
+---
+Article 32
+Title: For the First Time, Mutations in a Single Gene Have Been Linked to Mental Illness
+Source: {'id': 'wired', 'name': 'Wired'}
+Published: 
+URL: https://www.wired.com/story/mutations-in-a-single-gene-have-been-linked-to-mental-illness/
+Content: A team of physicians specializing in genetics and neurology discovered that mental illnesses such as schizophrenia are closely linked to mutations in the GRIN2A gene. The scientists mantain that iden… [+3050 chars]
+---
+
+
+---
+Article 33
+Title: The Longest Solar Eclipse for 100 Years Is Coming. Don’t Miss It
+Source: {'id': 'wired', 'name': 'Wired'}
+Published: 
+URL: https://www.wired.com/story/the-longest-solar-eclipse-for-100-years-is-coming-dont-miss-it/
+Content: The duration of a total solar eclipse always varies. In April 2024, the eclipse that crossed North America lasted 4 minutes and 28 seconds. By contrast, the one that will reach Spain in August 2026 w… [+808 chars]
+---
+
+
+---
+Article 34
+Title: This AI Model Can Intuit How the Physical World Works
+Source: {'id': 'wired', 'name': 'Wired'}
+Published: 
+URL: https://www.wired.com/story/how-one-ai-model-creates-a-physical-intuition-of-its-environment/
+Content: The original version ofthis storyappeared inQuanta Magazine.
+Heres a test for infants: Show them a glass of water on a desk. Hide it behind a wooden board. Now move the board toward the glass. If th… [+2099 chars]
+---
+
+
+---
+Article 35
+Title: Security News This Week: Oh Crap, Kohler’s Toilet Cameras Aren’t Really End-to-End Encrypted
+Source: {'id': 'wired', 'name': 'Wired'}
+Published: 
+URL: https://www.wired.com/story/security-news-this-week-oh-crap-kohlers-toilet-cameras-arent-really-end-to-end-encrypted/
+Content: An AI image creator startup left its database unsecured, exposing more than a million images and videos its users had createdthe overwhelming majority" of which depicted nudes and even nude images of… [+5084 chars]
+---
+
+
+---
+Article 36
+Title: Here’s What You Should Know About Launching an AI Startup
+Source: {'id': 'wired', 'name': 'Wired'}
+Published: 
+URL: https://www.wired.com/story/artificial-intelligence-startups-daydream-fashion-recommendations/
+Content: Julie Bornstein thought it would be a cinch to implement her idea for an AI startup. Her résumé in digital commerce is impeccable: VP of ecommerce at Nordstrom, COO of the startup Stitch Fix, and fou… [+4900 chars]
+---
+
+
+---
+Article 37
+Title: Former USIP Lawyer on DOGE: ‘Brass Knuckles on an Authoritarian Fist’
+Source: {'id': 'wired', 'name': 'Wired'}
+Published: 
+URL: https://www.wired.com/story/big-interview-event-inside-doge-leland-dudek/
+Content: George Foote still has vivid memories of the day operatives from Elon Musks so-called Department of Government Efficiency arrived at the headquarters of the United States Institute of Peace. The outs… [+2721 chars]
+---
+
+
+---
+Article 38
+Title: David Hogg to Democratic Establishment: Get the Message or Get Voted Out
+Source: {'id': 'wired', 'name': 'Wired'}
+Published: 
+URL: https://www.wired.com/story/big-interview-event-david-hogg/
+Content: To activist and organizer David Hogg, the future of the Democratic party is pretty clear: Establishment candidates and leaders are going to get the message or theyre going to get voted out.
+Speaking… [+2289 chars]
+---
+
+
+---
+Article 39
+Title: ‘Signalgate’ Inspector General Report Wants Just One Change to Avoid a Repeat Debacle
+Source: {'id': 'wired', 'name': 'Wired'}
+Published: 
+URL: https://www.wired.com/story/signalgate-inspector-general-report-hegseth-change/
+Content: A United States Inspector General report publicly released today found that Secretary of Defense Pete Hegseth could have put US troops and military operations at risk by using the consumer messaging … [+3159 chars]
+---
+
+
+---
+Article 40
+Title: Cloudflare Has Blocked 416 Billion AI Bot Requests Since July 1
+Source: {'id': 'wired', 'name': 'Wired'}
+Published: 
+URL: https://www.wired.com/story/big-interview-event-matthew-prince-cloudflare/
+Content: As the large language models powering generative AI tools slurp up ever more data across the web, Cloudflare cofounder and CEO Matthew Prince said at WIREDs Big Interview event in San Francisco on Th… [+2459 chars]
+---
+
+
+---
+Article 41
+Title: Blackstone Venture to Buy Hawaii Property Owner for $1.5 Billion
+Source: {'id': 'bloomberg', 'name': 'Bloomberg'}
+Published: 
+URL: https://www.bloomberg.com/news/articles/2025-12-08/blackstone-venture-to-buy-hawaii-property-owner-for-1-5-billion
+Content: A joint venture between Blackstone Inc.s real estate business, MW Group and DivcoWest struck a deal to purchase a Hawaiian commercial property owner Alexander &amp; Baldwin Inc. in a $1.5 billion all… [+248 chars]
+---
+
+
+---
+Article 42
+Title: US Farmers Say $12 Billion Bailout Won’t End Industry Slump
+Source: {'id': 'bloomberg', 'name': 'Bloomberg'}
+Published: 
+URL: https://www.bloomberg.com/news/articles/2025-12-08/us-farmers-say-12-billion-bailout-won-t-end-industry-slump
+Content: US growers say the Trump administrations $12 billion aid package brings temporary relief, but is unlikely to kickstart a lasting recovery for the American farm economy.
+President Donald Trump on Mon… [+185 chars]
+---
+
+
+---
+Article 43
+Title: Mexico to Hike China Tariffs, Raising Hopes of US Steel Relief
+Source: {'id': 'bloomberg', 'name': 'Bloomberg'}
+Published: 
+URL: https://www.bloomberg.com/news/articles/2025-12-08/mexico-to-hike-china-tariffs-raising-hopes-of-us-steel-relief
+Content: Mexicos Congress is set to vote this week on President Claudia Sheinbaums proposed tariffs on China, part of a broader plan to shield local producers and ease trade tensions with the US. The move is … [+385 chars]
+---
+
+
+---
+Article 44
+Title: Paramount Faces Lower Antitrust Bar Over Warner Bros. Bid
+Source: {'id': 'bloomberg', 'name': 'Bloomberg'}
+Published: 
+URL: https://www.bloomberg.com/news/articles/2025-12-08/paramount-faces-lower-antitrust-bar-over-warner-bros-bid
+Content: Just hours before Paramount Skydance Corp. Chief Executive Officer David Ellison launched a hostile bid for Warner Bros. Discovery Inc., he hobnobbed in Washington with some of the federal government… [+402 chars]
+---
+
+
+---
+Article 45
+Title: Trump Threatens New 5% Tariff on Mexican Goods in Water Fight
+Source: {'id': 'bloomberg', 'name': 'Bloomberg'}
+Published: 
+URL: https://www.bloomberg.com/news/articles/2025-12-08/trump-threatens-new-5-tariff-on-mexican-goods-in-water-fight
+Content: President Donald Trump threatened to impose an additional 5% tariff on imports from Mexico if the country did not release water that his administration says must be allowed to flow under a treaty, es… [+308 chars]
+---
+
+
+---
+Article 46
+Title: Banamex Aims to Expand Corporate Banking, Seek Brokerage License
+Source: {'id': 'bloomberg', 'name': 'Bloomberg'}
+Published: 
+URL: https://www.bloomberg.com/news/articles/2025-12-08/banamex-aims-to-expand-corporate-banking-seek-brokerage-license
+Content: Citigroup Inc.s Mexican retail banking unit aims to keep up aggressive growth in consumer credit and will seek to re-enter the corporate banking sector, as it operates more independently from its lon… [+291 chars]
+---
+
+
+---
+Article 47
+Title: China Should Raise Imports to Promote Yuan, Ex PBOC Adviser Says
+Source: {'id': 'bloomberg', 'name': 'Bloomberg'}
+Published: 
+URL: https://www.bloomberg.com/news/articles/2025-12-08/china-should-raise-imports-to-promote-yuan-ex-pboc-adviser-says
+Content: China should increase imports and settle them in the yuan to balance its foreign trade, a move a former central bank adviser says will boost the Chinese currencys usage globally.
+Foreign trade strat… [+253 chars]
+---
+
+
+---
+Article 48
+Title: Global Nuclear Stocks Remain in Vogue After $566 Billion Rally
+Source: {'id': 'bloomberg', 'name': 'Bloomberg'}
+Published: 
+URL: https://www.bloomberg.com/news/articles/2025-12-08/global-nuclear-stocks-remain-in-vogue-after-566-billion-rally
+Content: Global fund managers see this years surge in nuclear stocks continuing, on an improving regulatory outlook and demand drivers that extend beyond the voracious needs of artificial intelligence.
+A  ga… [+284 chars]
+---
+
+
+---
+Article 49
+Title: Gold Buying Frenzy Puts Thai Trading House on Record Trajectory
+Source: {'id': 'bloomberg', 'name': 'Bloomberg'}
+Published: 
+URL: https://www.bloomberg.com/news/articles/2025-12-08/gold-buying-frenzy-puts-thai-trading-house-on-record-trajectory
+Content: Unprecedented gold prices and a surge in retail sales may push revenue at Thailands largest gold trading house to a record 5 trillion baht ($156 billion) this year, according to Hua Seng Heng Chief E… [+321 chars]
+---
+
+
+---
+Article 50
+Title: Bank CEOs Expected to Meet Senators on Crypto Market Structure
+Source: {'id': 'bloomberg', 'name': 'Bloomberg'}
+Published: 
+URL: https://www.bloomberg.com/news/articles/2025-12-08/bank-ceos-expected-to-meet-senators-on-crypto-market-structure
+Content: Bank of America Corp. chief executive officer Brian Moynihan, Citigroup Inc. CEO Jane Fraser and Wells Fargo &amp; Co. CEO Charlie Scharf are scheduled to meet with senators in both parties on Thursd… [+432 chars]
+---
+
+
+---
+Article 51
+Title: Trump’s near-death redistricting push in Indiana appears to have a lifeline
+Source: {'id': 'politico', 'name': 'Politico'}
+Published: 
+URL: https://www.politico.com/news/2025/12/08/trump-redistricting-push-indiana-lifeline-00681125
+Content: Bray also addressed threats of violence against many of his own members received after signaling they dont support remapping the state ahead of next years midterm election.
+Its unsettling for all of… [+809 chars]
+---
+
+
+---
+Article 52
+Title: Jasmine Crockett set to announce Texas Senate bid
+Source: {'id': 'politico', 'name': 'Politico'}
+Published: 
+URL: https://www.politico.com/news/2025/12/08/crockett-announces-texas-senate-bid-00680505
+Content: In recent weeks, Crockett publicly debated whether to jump in, saying she would only do so if polling showed she could win. She has said she believes she can expand the electorate in Texas, a formida… [+2523 chars]
+---
+
+
+---
+Article 53
+Title: Colin Allred drops out of Texas Senate race
+Source: {'id': 'politico', 'name': 'Politico'}
+Published: 
+URL: https://www.politico.com/news/2025/12/08/allred-drops-out-of-texas-senate-race-00680502
+Content: Allred, in a statement, said he wanted to avoid a messy Senate primary and will instead run for Congress in the newly drawn 33rd Congressional District, which had its lines redrawn after the U.S. Sup… [+960 chars]
+---
+
+
+---
+Article 54
+Title: Indiana Republicans threaten to thwart Trump's redistricting onslaught
+Source: {'id': 'politico', 'name': 'Politico'}
+Published: 
+URL: https://www.politico.com/news/2025/12/08/trump-indiana-senate-republicans-redistricting-00680141
+Content: Speaker Mike Johnson has been calling reluctant Republican state senators in recent days reported here for the first time, based on accounts from two people granted anonymity to freely discuss sensit… [+8752 chars]
+---
+
+
+---
+Article 55
+Title: A MAGA World Cup? | The Playbook Podcast
+Source: {'id': 'politico', 'name': 'Politico'}
+Published: 
+URL: https://www.politico.com/video/2025/12/05/a-maga-world-cup-the-playbook-podcast-1869917
+Content: None
+---
+
+
+---
+Article 56
+Title: The nation’s cartoonists on the week in politics
+Source: {'id': 'politico', 'name': 'Politico'}
+Published: 
+URL: https://www.politico.com/gallery/2025/12/05/the-nations-cartoonists-on-the-week-in-politics-00677836
+Content: Cartoon Carousel 
+Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-s… [+261 chars]
+---
+
+
+---
+Article 57
+Title: Economy & Education: U.S. trade rep. Greer and teacher's union head Weingarten | The Conversation
+Source: {'id': 'politico', 'name': 'Politico'}
+Published: 
+URL: https://www.politico.com/video/2025/12/04/economy-education-u-s-trade-rep-greer-and-teachers-union-head-weingarten-the-conversation-1869075
+Content: None
+---
+
+
+---
+Article 58
+Title: Inside the overlooked multi-million dollar fight to block Republicans’ Missouri gerrymander
+Source: {'id': 'politico', 'name': 'Politico'}
+Published: 
+URL: https://www.politico.com/news/2025/12/04/missouri-redistricting-gerrymander-fight-00675360
+Content: Imagine the kind of democratic paralysis our state would be in if this happened every 10 years, or every time we decided to draw new maps, said Aaron Blake, a GOP strategist based in Missouri. That w… [+6873 chars]
+---
+
+
+---
+Article 59
+Title: Dems keep beating Republicans on affordability. Our new poll shows why.
+Source: {'id': 'politico', 'name': 'Politico'}
+Published: 
+URL: https://www.politico.com/news/2025/12/04/poll-americans-trump-voters-affordability-crisis-00674747
+Content: Those are among the new results from The POLITICO Poll that crystallize a growing warning sign for Republicans ahead of next years midterms: Some of the very groups that powered Trumps victory last y… [+4463 chars]
+---
+
+
+---
+Article 60
+Title: Democrats eye a red-state push even as intraparty fighting persists
+Source: {'id': 'politico', 'name': 'Politico'}
+Published: 
+URL: https://www.politico.com/news/2025/12/04/democrats-tennessee-election-optimism-2026-00676387
+Content: Former Democratic Rep. Conor Lamb of Pennsylvania, who flipped a deep-red district in a 2018 special election, called the race a missed opportunity.
+It just sort of looks like we ran a standard to p… [+7766 chars]
+---
+
+
+---
+Article 61
+Title: Trump greenlights exports of Nvidia H200 chips to China
+Source: {'id': 'cnn', 'name': 'CNN'}
+Published: 
+URL: https://www.cnn.com/2025/12/08/tech/nvidia-h200-chips-china-trump-export
+Content: President Donald Trump announced on Monday in a Truth Social post that hes removing export controls on Nvidias H200 chips to China, a key reversal in whats become part of a broader trade war between … [+1999 chars]
+---
+
+
+---
+Article 62
+Title: Battle over future of Warner Bros. Discovery captures Trump’s attention
+Source: {'id': 'cnn', 'name': 'CNN'}
+Published: 
+URL: https://www.cnn.com/2025/12/08/politics/netflix-paramount-trump-warner-bros-future
+Content: The mounting battle to purchase one of Hollywoods biggest prizes Warner Bros. Discovery has captured President Donald Trumps attention as he sees his own interests entwined in the transaction and app… [+6134 chars]
+---
+
+
+---
+Article 63
+Title: Behind the scenes of Paramount’s hostile takeover bid for Warner Bros. Discovery | CNN Politics
+Source: {'id': 'cnn', 'name': 'CNN'}
+Published: 
+URL: https://www.cnn.com/2025/12/08/politics/video/wbd-netflix-paramount-bid-media-president-trump-kara-swisher-lead-jake-tapper
+Content: None
+---
+
+
+---
+Article 64
+Title: Fact check: Trump denies saying something he said on camera five days ago
+Source: {'id': 'cnn', 'name': 'CNN'}
+Published: 
+URL: https://www.cnn.com/2025/12/08/politics/fact-check-trump-september-strike-video
+Content: President Donald Trump on Monday falsely denied making a comment he had made on camera just five days prior. Then he launched a personal attack against the reporter who had accurately repeated his pr… [+2571 chars]
+---
+
+
+---
+Article 65
+Title: Tech trouble, most wanted fugitive, space junk: Catch up on the day’s stories
+Source: {'id': 'cnn', 'name': 'CNN'}
+Published: 
+URL: https://www.cnn.com/2025/12/08/us/5-things-pm-december-8-trnd
+Content: Welcome to 5 Things PM! The Golden Globes nominations were revealed, and One Battle After Another led the way with nine. There were a few surprises and some snubs.
+Heres what else you might have mis… [+1963 chars]
+---
+
+
+---
+Article 66
+Title: Congress will vote on limiting Hegseth’s travel budget unless he releases unedited video of boat strikes
+Source: {'id': 'cnn', 'name': 'CNN'}
+Published: 
+URL: https://www.cnn.com/2025/12/08/politics/hegseth-travel-budget-strikes-video-congress
+Content: Tucked into Congress massive defense policy bill is a provision that would limit Defense Secretary Pete Hegseths travel budget unless he provides the House and Senate Armed Services committees with u… [+2398 chars]
+---
+
+
+---
+Article 67
+Title: All the ways the Trump administration has changed its story on the boat strikes
+Source: {'id': 'cnn', 'name': 'CNN'}
+Published: 
+URL: https://www.cnn.com/2025/12/08/politics/boat-strikes-venezuela-trump-administration
+Content: Shortly after the Trump administration carried out its first known attack on an alleged drug vessel in the Caribbean in early September, Defense Secretary Pete Hegseth appeared with his old colleague… [+7826 chars]
+---
+
+
+---
+Article 68
+Title: Paramount launches a hostile takeover bid for Warner Bros. Discovery
+Source: {'id': 'cnn', 'name': 'CNN'}
+Published: 
+URL: https://www.cnn.com/2025/12/08/business/paramount-hostile-takeover-bid-wbd
+Content: Paramount has gone straight to Warner Bros. Discoverys shareholders with an all-cash offer for the company that it says is more valuable than Netflixs deal announced Friday.
+Paramount was widely exp… [+963 chars]
+---
+
+
+---
+Article 69
+Title: Hegseth in 2016 repeatedly warned of Trump issuing unlawful military orders
+Source: {'id': 'cnn', 'name': 'CNN'}
+Published: 
+URL: https://www.cnn.com/2025/12/08/politics/hegseth-trump-warned-unlawful-orders-kfile
+Content: In 2016, as then-presidential candidate Donald Trump vowed that US troops would carry out even his most extreme battlefield orders as commander in chief some of which former military leaders said wou… [+5571 chars]
+---
+
+
+---
+Article 70
+Title: Watch CNN live online | CNN
+Source: {'id': 'cnn', 'name': 'CNN'}
+Published: 
+URL: https://www.cnn.com/watch
+Content: CNN's Fareed Zakaria delivers in-depth reporting on the defining global and domestic issues of our time.
+Anthony Bourdain revisits unforgettable moments from Parts Unknown with curated highlights, r… [+2195 chars]
+---
+
+
+---
+Article 71
+Title: Branding and logo for Great British Railways unveiled
+Source: {'id': 'bbc-news', 'name': 'BBC News'}
+Published: 
+URL: https://www.bbc.co.uk/news/articles/c4g9kx0je10o
+Content: The rollout of the design, which was created in-house, is expected to take place gradually, with passengers beginning to see the trains across the national network from next spring. 
+Through Decembe… [+617 chars]
+---
+
+
+---
+Article 72
+Title: Blood cancer therapy reverses incurable leukaemia in some patients
+Source: {'id': 'bbc-news', 'name': 'BBC News'}
+Published: 
+URL: https://www.bbc.co.uk/news/articles/cj38ymeyg4mo
+Content: They started with healthy T-cells from a donor and set about modifying them.
+The first base edit disabled the T-cells' targeting mechanism so they could not attack the patient's body.
+The second re… [+968 chars]
+---
+
+
+---
+Article 73
+Title: Why Sandie Peggie ruling could lead to big changes for employers
+Source: {'id': 'bbc-news', 'name': 'BBC News'}
+Published: 
+URL: https://www.bbc.co.uk/news/articles/c0mp41jlre7o
+Content: The first key part of this particular ruling suggests they will have to be even-handed in the way they deal with cases like this in future.
+We now know that, in this tribunal's finding, Ms Peggie wa… [+1020 chars]
+---
+
+
+---
+Article 74
+Title: Teen asylum seekers from Afghanistan sentenced for rape
+Source: {'id': 'bbc-news', 'name': 'BBC News'}
+Published: 
+URL: https://www.bbc.co.uk/news/articles/c74x9ln0y4qo
+Content: At the opening of the sentencing hearing, prosecutor Shawn Williams said the defendants, who each appeared in the dock assisted by their own interpreter, were unaccompanied child asylum seekers.
+Jah… [+1188 chars]
+---
+
+
+---
+Article 75
+Title: Partial victory for nurse in NHS trans changing room row
+Source: {'id': 'bbc-news', 'name': 'BBC News'}
+Published: 
+URL: https://www.bbc.co.uk/news/articles/c36zk0p7xlgo
+Content: The campaign group Sex Matters, which backed Sandie Peggie in the case, said it was very disappointed in the approach taken by the tribunal.
+Maya Forstater, the organisation's CEO, said it should ha… [+1097 chars]
+---
+
+
+---
+Article 76
+Title: European leaders walk tightrope between backing Ukraine and keeping US on board
+Source: {'id': 'bbc-news', 'name': 'BBC News'}
+Published: 
+URL: https://www.bbc.co.uk/news/articles/c8r3v5mmyp8o
+Content: Ahead of the meeting in London, Starmer insisted - as he often has in the past - that Ukraine needed "hard-edged security guarantees". He has also repeatedly said that Kyiv must determine its own fut… [+2239 chars]
+---
+
+
+---
+Article 77
+Title: Major earthquake strikes Japan's north-east coast
+Source: {'id': 'bbc-news', 'name': 'BBC News'}
+Published: 
+URL: https://www.bbc.co.uk/news/articles/c7091k5pg31o
+Content: A major earthquake of magnitude 7.6 has hit Japan's north-eastern region.
+The quake occurred at 23:15 (14:15 GMT) at a depth of 50km (31 miles), about 80km off the coast of the Aomori region, the Ja… [+396 chars]
+---
+
+
+---
+Article 78
+Title: Golden Globe nominations: One Battle After Another, starring Leonardo DiCaprio, leads field
+Source: {'id': 'bbc-news', 'name': 'BBC News'}
+Published: 
+URL: https://www.bbc.co.uk/news/articles/cly312nyq49o
+Content: Some films were totally shut out
+Wicked: For Good missing best musical might have been the most notable snub, but many other movies were shut out entirely.
+Missile thriller A House of Dynamite rece… [+1122 chars]
+---
+
+
+---
+Article 79
+Title: Paramount Skydance launches rival bid for Warner Brothers Discovery
+Source: {'id': 'bbc-news', 'name': 'BBC News'}
+Published: 
+URL: https://www.bbc.co.uk/news/articles/cj69xzpzrdyo
+Content: Paramount Skydance has made another offer to buy Warner Brothers Discovery as it seeks to trump a rival offer from Netflix to buy the company's studio and streaming networks. 
+Paramount, which is ba… [+505 chars]
+---
+
+
+---
+Article 80
+Title: Prince Harry's security in UK under government review
+Source: {'id': 'bbc-news', 'name': 'BBC News'}
+Published: 
+URL: https://www.bbc.co.uk/news/articles/cx25nk0kx58o
+Content: Prince Harry's security was downgraded after he stepped back from frontline royal duties in 2020 and moved to the US with the Duchess of Sussex.
+In his legal challenge earlier this year, he conteste… [+1930 chars]
+---
